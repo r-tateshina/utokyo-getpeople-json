@@ -3,7 +3,7 @@ name: Update JSON File
 on:
   schedule:
     # Run this workflow every hour
-    - cron: '34 * * * *'
+    - cron: '15 * * * *'
 
 jobs:
   update-json:
