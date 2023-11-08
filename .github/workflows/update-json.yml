@@ -24,5 +24,6 @@ jobs:
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --global user.name "github-actions"
           git add getPeople_ja.json
+          git add getPeople_en.json
           git commit -m "Hourly update of getPeople JSONs" || exit 0  # No changes error handled
           git push
