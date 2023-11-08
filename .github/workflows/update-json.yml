@@ -18,8 +18,8 @@ jobs:
 
       - name: Commit and push if there are changes
         run: |
-          git config --global user.email "24566716+r-tateshina@users.noreply.github.com"
-          git config --global user.name "r-tateshina"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions"
           git add getPeople_ja.json
           git commit -m "Hourly update of getPeople_ja.json" || exit 0  # No changes error handled
           git push
