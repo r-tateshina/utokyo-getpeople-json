@@ -1,6 +1,150 @@
 [
 
   {
+    "tag":"000026616",
+    "name":"ABE Kazuhiro",
+    "position":"Project Research Associate",
+    "affiliation":"Graduate School of Medicine",
+    "url":"/focus/en/people/k0001_05421.html"
+  }
+,
+  {
+    "tag":"000026615",
+    "name":"KONA Toru",
+    "position":"Project Research Associate",
+    "affiliation":"Graduate School of Medicine",
+    "url":"/focus/en/people/k0001_05420.html"
+  }
+,
+  {
+    "tag":"000026614",
+    "name":"UNO Kyuto",
+    "position":"Project Research Associate",
+    "affiliation":"Graduate School of Information Science and Technology",
+    "url":"/focus/en/people/k0001_05419.html"
+  }
+,
+  {
+    "tag":"000026613",
+    "name":"MATSUMOTO Hiroki",
+    "position":"Project Professor",
+    "affiliation":"Isotope Science Center",
+    "url":"/focus/en/people/k0001_05418.html"
+  }
+,
+  {
+    "tag":"000026612",
+    "name":"KUNISUE Norito",
+    "position":"Project Professor",
+    "affiliation":"Research Center for Advanced Science and Technology",
+    "url":"/focus/en/people/k0001_05417.html"
+  }
+,
+  {
+    "tag":"000026611",
+    "name":"FUJIWARA Hirokazu",
+    "position":"Project Research Associate",
+    "affiliation":"Graduate School of Frontier Sciences",
+    "url":"/focus/en/people/k0001_05416.html"
+  }
+,
+  {
+    "tag":"000026610",
+    "name":"SOGAWA Chizuru",
+    "position":"Project Lecturer",
+    "affiliation":"Isotope Science Center",
+    "url":"/focus/en/people/k0001_05415.html"
+  }
+,
+  {
+    "tag":"000026609",
+    "name":"BILGIC MERVE",
+    "position":"Research Associate",
+    "affiliation":"Institute for Quantitative Biosciences",
+    "url":"/focus/en/people/k0001_05414.html"
+  }
+,
+  {
+    "tag":"000026608",
+    "name":"OTANI Suguru",
+    "position":"Project Research Associate",
+    "affiliation":"Graduate School of Economics",
+    "url":"/focus/en/people/k0001_05413.html"
+  }
+,
+  {
+    "tag":"000026607",
+    "name":"KUNO Kan",
+    "position":"Project Research Associate",
+    "affiliation":"Graduate School of Economics",
+    "url":"/focus/en/people/k0001_05412.html"
+  }
+,
+  {
+    "tag":"000026606",
+    "name":"MOORES AUDREY HELENE",
+    "position":"Project Professor",
+    "affiliation":"Graduate School of Agricultural and Life Sciences",
+    "url":"/focus/en/people/k0001_05411.html"
+  }
+,
+  {
+    "tag":"000026605",
+    "name":"WANG DIANCHAO",
+    "position":"Project Research Associate",
+    "affiliation":"Graduate School of Engineering",
+    "url":"/focus/en/people/k0001_05410.html"
+  }
+,
+  {
+    "tag":"000026604",
+    "name":"HOSOBATA Takuya",
+    "position":"Associate Professor",
+    "affiliation":"Graduate School of Engineering",
+    "url":"/focus/en/people/k0001_05409.html"
+  }
+,
+  {
+    "tag":"000026603",
+    "name":"ISHIGURO Akio",
+    "position":"Associate Professor",
+    "affiliation":"Faculty of Medicine",
+    "url":"/focus/en/people/k0001_05408.html"
+  }
+,
+  {
+    "tag":"000026602",
+    "name":"TANIGUCHI Satoshi",
+    "position":"Associate Professor",
+    "affiliation":"Graduate School of Medicine",
+    "url":"/focus/en/people/k0001_05407.html"
+  }
+,
+  {
+    "tag":"000026601",
+    "name":"SU JIE",
+    "position":"Project Research Associate",
+    "affiliation":"Institute for Future Initiatives",
+    "url":"/focus/en/people/k0001_05406.html"
+  }
+,
+  {
+    "tag":"000026600",
+    "name":"FURUSE Yuki",
+    "position":"Professor",
+    "affiliation":"Center for New Generation Infectious Diseases",
+    "url":"/focus/en/people/k0001_05405.html"
+  }
+,
+  {
+    "tag":"000026599",
+    "name":"YUMOTO Michiaki",
+    "position":"Project Professor",
+    "affiliation":"Research Center for Advanced Science and Technology",
+    "url":"/focus/en/people/k0001_05404.html"
+  }
+,
+  {
     "tag":"000026546",
     "name":"張 典",
     "position":"Project Research Associate",
@@ -3123,7 +3267,7 @@
   {
     "tag":"000025652",
     "name":"CAREMEL CEDRIC JEAN",
-    "position":"Project Research Associate",
+    "position":"Project Assistant Professor",
     "affiliation":"Graduate School of Engineering",
     "url":"/focus/en/people/k0001_04984.html"
   }
