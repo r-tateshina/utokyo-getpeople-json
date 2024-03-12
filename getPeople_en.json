@@ -513,6 +513,14 @@
   }
 ,
   {
+    "tag":"000026473",
+    "name":"KONNO PINHEIRO ABEL",
+    "position":"Project Research Associate",
+    "affiliation":"Graduate School of Engineering",
+    "url":"/focus/en/people/k0001_05388.html"
+  }
+,
+  {
     "tag":"000026472",
     "name":"YAMADA Masahiko",
     "position":"Project Lecturer",
@@ -561,6 +569,22 @@
   }
 ,
   {
+    "tag":"000026466",
+    "name":"SECOR DAVID HALLOCK",
+    "position":"Project Professor",
+    "affiliation":"Atmosphere and Ocean Research Institute",
+    "url":"/focus/en/people/k0001_05381.html"
+  }
+,
+  {
+    "tag":"000026465",
+    "name":"AGIRE Hande",
+    "position":"Project Research Associate",
+    "affiliation":"Organization for Interdisciplinary Research Projects",
+    "url":"/focus/en/people/k0001_05380.html"
+  }
+,
+  {
     "tag":"000026464",
     "name":"TSUBOCHI Shuntaro",
     "position":"Project Research Associate",
@@ -577,6 +601,22 @@
   }
 ,
   {
+    "tag":"000026462",
+    "name":"YOU ZHONG",
+    "position":"Project Professor",
+    "affiliation":"Graduate School of Arts and Sciences",
+    "url":"/focus/en/people/k0001_05377.html"
+  }
+,
+  {
+    "tag":"000026461",
+    "name":"ZHAO XUEYONG",
+    "position":"Project Professor",
+    "affiliation":"Graduate School of Agricultural and Life Sciences",
+    "url":"/focus/en/people/k0001_05376.html"
+  }
+,
+  {
     "tag":"000026460",
     "name":"MATSUDA Shinya",
     "position":"Research Associate",
@@ -585,11 +625,27 @@
   }
 ,
   {
+    "tag":"000026459",
+    "name":"POMARANSKI DAVID",
+    "position":"Research Associate",
+    "affiliation":"Graduate School of Engineering",
+    "url":"/focus/en/people/k0001_05374.html"
+  }
+,
+  {
     "tag":"000026458",
     "name":"MATSUSHITA Yuki",
     "position":"Research Associate",
     "affiliation":"Graduate School of Medicine",
     "url":"/focus/en/people/k0001_05373.html"
+  }
+,
+  {
+    "tag":"000026457",
+    "name":"KYI MAR WAI",
+    "position":"Research Associate",
+    "affiliation":"Graduate School of Medicine",
+    "url":"/focus/en/people/k0001_05372.html"
   }
 ,
   {
@@ -606,6 +662,30 @@
     "position":"Research Associate",
     "affiliation":"University Hospital",
     "url":"/focus/en/people/k0001_05370.html"
+  }
+,
+  {
+    "tag":"000026454",
+    "name":"Viovy Jean-Louis",
+    "position":"Project Professor",
+    "affiliation":"TOKYO COLLEGE",
+    "url":"/focus/en/people/k0001_05369.html"
+  }
+,
+  {
+    "tag":"000026453",
+    "name":"TEMOCIN PINAR",
+    "position":"Project Research Associate",
+    "affiliation":"Institute for Future Initiatives",
+    "url":"/focus/en/people/k0001_05368.html"
+  }
+,
+  {
+    "tag":"000026452",
+    "name":"GEILHORN BARBARA",
+    "position":"Project Professor",
+    "affiliation":"Graduate School of Humanities and Sociology",
+    "url":"/focus/en/people/k0001_05367.html"
   }
 ,
   {
@@ -7187,7 +7267,7 @@
   {
     "tag":"000024451",
     "name":"IGARI Miho",
-    "position":"Project Assistant Professor",
+    "position":"Project Lecturer",
     "affiliation":"Graduate School of Engineering",
     "url":"/focus/en/people/k0001_04394.html"
   }

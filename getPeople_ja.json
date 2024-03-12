@@ -513,6 +513,14 @@
   }
 ,
   {
+    "tag":"000026473",
+    "name":"KONNO PINHEIRO ABEL",
+    "position":"特任助教",
+    "affiliation":"大学院工学系研究科",
+    "url":"/focus/ja/people/k0001_05388.html"
+  }
+,
+  {
     "tag":"000026472",
     "name":"山田　昌彦",
     "position":"特任講師",
@@ -561,6 +569,22 @@
   }
 ,
   {
+    "tag":"000026466",
+    "name":"SECOR DAVID HALLOCK",
+    "position":"特任教授",
+    "affiliation":"大気海洋研究所",
+    "url":"/focus/ja/people/k0001_05381.html"
+  }
+,
+  {
+    "tag":"000026465",
+    "name":"アギーレ　ハンデ",
+    "position":"特任助教",
+    "affiliation":"総括プロジェクト機構",
+    "url":"/focus/ja/people/k0001_05380.html"
+  }
+,
+  {
     "tag":"000026464",
     "name":"坪内　俊太郎",
     "position":"特任助教",
@@ -577,6 +601,22 @@
   }
 ,
   {
+    "tag":"000026462",
+    "name":"YOU ZHONG",
+    "position":"特任教授",
+    "affiliation":"大学院総合文化研究科",
+    "url":"/focus/ja/people/k0001_05377.html"
+  }
+,
+  {
+    "tag":"000026461",
+    "name":"ZHAO XUEYONG",
+    "position":"特任教授",
+    "affiliation":"大学院農学生命科学研究科",
+    "url":"/focus/ja/people/k0001_05376.html"
+  }
+,
+  {
     "tag":"000026460",
     "name":"松田　真弥",
     "position":"助教",
@@ -585,11 +625,27 @@
   }
 ,
   {
+    "tag":"000026459",
+    "name":"POMARANSKI DAVID",
+    "position":"助教",
+    "affiliation":"大学院工学系研究科",
+    "url":"/focus/ja/people/k0001_05374.html"
+  }
+,
+  {
     "tag":"000026458",
     "name":"松下　祐紀",
     "position":"助教",
     "affiliation":"大学院医学系研究科",
     "url":"/focus/ja/people/k0001_05373.html"
+  }
+,
+  {
+    "tag":"000026457",
+    "name":"KYI MAR WAI",
+    "position":"助教",
+    "affiliation":"大学院医学系研究科",
+    "url":"/focus/ja/people/k0001_05372.html"
   }
 ,
   {
@@ -606,6 +662,30 @@
     "position":"助教",
     "affiliation":"医学部附属病院",
     "url":"/focus/ja/people/k0001_05370.html"
+  }
+,
+  {
+    "tag":"000026454",
+    "name":"Viovy Jean-Louis",
+    "position":"特任教授",
+    "affiliation":"東京カレッジ",
+    "url":"/focus/ja/people/k0001_05369.html"
+  }
+,
+  {
+    "tag":"000026453",
+    "name":"TEMOCIN PINAR",
+    "position":"特任助教",
+    "affiliation":"未来ビジョン研究センター",
+    "url":"/focus/ja/people/k0001_05368.html"
+  }
+,
+  {
+    "tag":"000026452",
+    "name":"GEILHORN BARBARA",
+    "position":"特任教授",
+    "affiliation":"大学院人文社会系研究科",
+    "url":"/focus/ja/people/k0001_05367.html"
   }
 ,
   {
@@ -7187,7 +7267,7 @@
   {
     "tag":"000024451",
     "name":"猪狩　美保",
-    "position":"特任助教",
+    "position":"特任講師",
     "affiliation":"大学院工学系研究科",
     "url":"/focus/ja/people/k0001_04394.html"
   }
