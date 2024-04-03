@@ -1,6 +1,206 @@
 [
 
   {
+    "tag":"000026908",
+    "name":"太田　力文",
+    "position":"特任助教",
+    "affiliation":"大学院新領域創成科学研究科",
+    "url":"/focus/ja/people/k0001_05502.html"
+  }
+,
+  {
+    "tag":"000026907",
+    "name":"吉見　龍太郎",
+    "position":"准教授",
+    "affiliation":"大学院新領域創成科学研究科",
+    "url":"/focus/ja/people/k0001_05501.html"
+  }
+,
+  {
+    "tag":"000026904",
+    "name":"服部　恵典",
+    "position":"助教",
+    "affiliation":"高大接続研究開発センター",
+    "url":"/focus/ja/people/k0001_05498.html"
+  }
+,
+  {
+    "tag":"000026902",
+    "name":"吉原　真里",
+    "position":"教授",
+    "affiliation":"グローバル教育センター",
+    "url":"/focus/ja/people/k0001_05496.html"
+  }
+,
+  {
+    "tag":"000026901",
+    "name":"宮部　麻衣",
+    "position":"助教",
+    "affiliation":"環境安全本部",
+    "url":"/focus/ja/people/k0001_05495.html"
+  }
+,
+  {
+    "tag":"000026900",
+    "name":"小池　弘美",
+    "position":"特任助教",
+    "affiliation":"ライフサイエンス研究倫理支援室",
+    "url":"/focus/ja/people/k0001_05494.html"
+  }
+,
+  {
+    "tag":"000026894",
+    "name":"木場　智之",
+    "position":"講師",
+    "affiliation":"大学院法学政治学研究科",
+    "url":"/focus/ja/people/k0001_05488.html"
+  }
+,
+  {
+    "tag":"000026892",
+    "name":"加藤　麻里萌",
+    "position":"助教",
+    "affiliation":"大学院法学政治学研究科",
+    "url":"/focus/ja/people/k0001_05486.html"
+  }
+,
+  {
+    "tag":"000026890",
+    "name":"吉沢　健太郎",
+    "position":"助教",
+    "affiliation":"大学院法学政治学研究科",
+    "url":"/focus/ja/people/k0001_05484.html"
+  }
+,
+  {
+    "tag":"000026889",
+    "name":"小椋　康裕",
+    "position":"特任教授",
+    "affiliation":"大学院公共政策学連携研究部",
+    "url":"/focus/ja/people/k0001_05483.html"
+  }
+,
+  {
+    "tag":"000026888",
+    "name":"佐野　友紀",
+    "position":"特任助教",
+    "affiliation":"未来ビジョン研究センター",
+    "url":"/focus/ja/people/k0001_05482.html"
+  }
+,
+  {
+    "tag":"000026887",
+    "name":"土岐　将仁",
+    "position":"准教授",
+    "affiliation":"大学院法学政治学研究科",
+    "url":"/focus/ja/people/k0001_05481.html"
+  }
+,
+  {
+    "tag":"000026886",
+    "name":"大西　楠テア",
+    "position":"准教授",
+    "affiliation":"大学院法学政治学研究科",
+    "url":"/focus/ja/people/k0001_05480.html"
+  }
+,
+  {
+    "tag":"000026882",
+    "name":"李　美姫",
+    "position":"助教",
+    "affiliation":"大学院人文社会系研究科",
+    "url":"/focus/ja/people/k0001_05476.html"
+  }
+,
+  {
+    "tag":"000026878",
+    "name":"友成　有紀",
+    "position":"助教",
+    "affiliation":"大学院人文社会系研究科",
+    "url":"/focus/ja/people/k0001_05472.html"
+  }
+,
+  {
+    "tag":"000026877",
+    "name":"小西　正紘",
+    "position":"助教",
+    "affiliation":"大学院人文社会系研究科",
+    "url":"/focus/ja/people/k0001_05471.html"
+  }
+,
+  {
+    "tag":"000026875",
+    "name":"加藤　喜市",
+    "position":"助教",
+    "affiliation":"大学院人文社会系研究科",
+    "url":"/focus/ja/people/k0001_05469.html"
+  }
+,
+  {
+    "tag":"000026874",
+    "name":"佐久間　祐惟",
+    "position":"助教",
+    "affiliation":"大学院人文社会系研究科",
+    "url":"/focus/ja/people/k0001_05468.html"
+  }
+,
+  {
+    "tag":"000026868",
+    "name":"太田　絵里奈",
+    "position":"特任助教",
+    "affiliation":"附属図書館",
+    "url":"/focus/ja/people/k0001_05462.html"
+  }
+,
+  {
+    "tag":"000026867",
+    "name":"天井　響子",
+    "position":"特任助教",
+    "affiliation":"大学院教育学研究科",
+    "url":"/focus/ja/people/k0001_05461.html"
+  }
+,
+  {
+    "tag":"000026866",
+    "name":"塚崎　敦",
+    "position":"教授",
+    "affiliation":"大学院工学系研究科",
+    "url":"/focus/ja/people/k0001_05460.html"
+  }
+,
+  {
+    "tag":"000026865",
+    "name":"倪　嘉苓",
+    "position":"特任助教",
+    "affiliation":"先端科学技術研究センター",
+    "url":"/focus/ja/people/k0001_05459.html"
+  }
+,
+  {
+    "tag":"000026863",
+    "name":"市原　明日香",
+    "position":"特任准教授",
+    "affiliation":"大学院工学系研究科",
+    "url":"/focus/ja/people/k0001_05457.html"
+  }
+,
+  {
+    "tag":"000026860",
+    "name":"林　左絵子",
+    "position":"特任教授",
+    "affiliation":"カブリ数物連携宇宙研究機構",
+    "url":"/focus/ja/people/k0001_05454.html"
+  }
+,
+  {
+    "tag":"000026859",
+    "name":"内田　健一",
+    "position":"教授",
+    "affiliation":"大学院新領域創成科学研究科",
+    "url":"/focus/ja/people/k0001_05453.html"
+  }
+,
+  {
     "tag":"000026796",
     "name":"MARCENAT Christophe",
     "position":"特任教授",
