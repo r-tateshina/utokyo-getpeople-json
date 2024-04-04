@@ -385,6 +385,22 @@
   }
 ,
   {
+    "tag":"000026906",
+    "name":"美野　名波",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_05500.html"
+  }
+,
+  {
+    "tag":"000026905",
+    "name":"藏田　玲美",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_05499.html"
+  }
+,
+  {
     "tag":"000026904",
     "name":"服部　恵典",
     "position":"助教",
@@ -433,6 +449,38 @@
   }
 ,
   {
+    "tag":"000026898",
+    "name":"齋藤　真",
+    "position":"助教",
+    "affiliation":"大学院法学政治学研究科",
+    "url":"/focus/ja/people/k0001_05492.html"
+  }
+,
+  {
+    "tag":"000026897",
+    "name":"田中　道顕",
+    "position":"助教",
+    "affiliation":"大学院法学政治学研究科",
+    "url":"/focus/ja/people/k0001_05491.html"
+  }
+,
+  {
+    "tag":"000026896",
+    "name":"河野　匡亮",
+    "position":"助教",
+    "affiliation":"大学院法学政治学研究科",
+    "url":"/focus/ja/people/k0001_05490.html"
+  }
+,
+  {
+    "tag":"000026895",
+    "name":"阿部　冬星",
+    "position":"助教",
+    "affiliation":"大学院法学政治学研究科",
+    "url":"/focus/ja/people/k0001_05489.html"
+  }
+,
+  {
     "tag":"000026894",
     "name":"木場　智之",
     "position":"講師",
@@ -441,11 +489,27 @@
   }
 ,
   {
+    "tag":"000026893",
+    "name":"深澤　武志",
+    "position":"特任助教",
+    "affiliation":"大学院公共政策学連携研究部",
+    "url":"/focus/ja/people/k0001_05487.html"
+  }
+,
+  {
     "tag":"000026892",
     "name":"加藤　麻里萌",
     "position":"助教",
     "affiliation":"大学院法学政治学研究科",
     "url":"/focus/ja/people/k0001_05486.html"
+  }
+,
+  {
+    "tag":"000026891",
+    "name":"齋藤　直紀",
+    "position":"特任助教",
+    "affiliation":"未来ビジョン研究センター",
+    "url":"/focus/ja/people/k0001_05485.html"
   }
 ,
   {
@@ -489,6 +553,14 @@
   }
 ,
   {
+    "tag":"000026885",
+    "name":"福元　健太郎",
+    "position":"教授",
+    "affiliation":"大学院法学政治学研究科",
+    "url":"/focus/ja/people/k0001_05479.html"
+  }
+,
+  {
     "tag":"000026884",
     "name":"LEE CHUNGSUN",
     "position":"特任助教",
@@ -497,11 +569,43 @@
   }
 ,
   {
+    "tag":"000026883",
+    "name":"石坂　桜",
+    "position":"特任助教",
+    "affiliation":"大学院人文社会系研究科",
+    "url":"/focus/ja/people/k0001_05477.html"
+  }
+,
+  {
     "tag":"000026882",
     "name":"李　美姫",
     "position":"助教",
     "affiliation":"大学院人文社会系研究科",
     "url":"/focus/ja/people/k0001_05476.html"
+  }
+,
+  {
+    "tag":"000026881",
+    "name":"鈴木　啓太",
+    "position":"助教",
+    "affiliation":"大学院人文社会系研究科",
+    "url":"/focus/ja/people/k0001_05475.html"
+  }
+,
+  {
+    "tag":"000026880",
+    "name":"田中　拓海",
+    "position":"助教",
+    "affiliation":"大学院人文社会系研究科",
+    "url":"/focus/ja/people/k0001_05474.html"
+  }
+,
+  {
+    "tag":"000026879",
+    "name":"須藤　輝彦",
+    "position":"助教",
+    "affiliation":"大学院人文社会系研究科",
+    "url":"/focus/ja/people/k0001_05473.html"
   }
 ,
   {
@@ -521,6 +625,14 @@
   }
 ,
   {
+    "tag":"000026876",
+    "name":"田熊　敬之",
+    "position":"助教",
+    "affiliation":"大学院人文社会系研究科",
+    "url":"/focus/ja/people/k0001_05470.html"
+  }
+,
+  {
     "tag":"000026875",
     "name":"加藤　喜市",
     "position":"助教",
@@ -537,11 +649,43 @@
   }
 ,
   {
+    "tag":"000026873",
+    "name":"葛谷　潤",
+    "position":"助教",
+    "affiliation":"大学院人文社会系研究科",
+    "url":"/focus/ja/people/k0001_05467.html"
+  }
+,
+  {
+    "tag":"000026872",
+    "name":"稲増　一憲",
+    "position":"准教授",
+    "affiliation":"大学院人文社会系研究科",
+    "url":"/focus/ja/people/k0001_05466.html"
+  }
+,
+  {
     "tag":"000026871",
     "name":"Ralph Barnaby James",
     "position":"教授",
     "affiliation":"大学院人文社会系研究科",
     "url":"/focus/ja/people/k0001_05465.html"
+  }
+,
+  {
+    "tag":"000026870",
+    "name":"米澤　旦",
+    "position":"准教授",
+    "affiliation":"大学院人文社会系研究科",
+    "url":"/focus/ja/people/k0001_05464.html"
+  }
+,
+  {
+    "tag":"000026869",
+    "name":"林　淳子",
+    "position":"准教授",
+    "affiliation":"大学院人文社会系研究科",
+    "url":"/focus/ja/people/k0001_05463.html"
   }
 ,
   {
@@ -577,11 +721,35 @@
   }
 ,
   {
+    "tag":"000026864",
+    "name":"樋渡　雅人",
+    "position":"准教授",
+    "affiliation":"大学院総合文化研究科",
+    "url":"/focus/ja/people/k0001_05458.html"
+  }
+,
+  {
     "tag":"000026863",
     "name":"市原　明日香",
     "position":"特任准教授",
     "affiliation":"大学院工学系研究科",
     "url":"/focus/ja/people/k0001_05457.html"
+  }
+,
+  {
+    "tag":"000026862",
+    "name":"林　祐貴",
+    "position":"助教",
+    "affiliation":"大学院新領域創成科学研究科",
+    "url":"/focus/ja/people/k0001_05456.html"
+  }
+,
+  {
+    "tag":"000026861",
+    "name":"西村　優里",
+    "position":"特任助教",
+    "affiliation":"大学院理学系研究科",
+    "url":"/focus/ja/people/k0001_05455.html"
   }
 ,
   {
