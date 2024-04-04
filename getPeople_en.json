@@ -1,11 +1,51 @@
 [
 
   {
+    "tag":"000026958",
+    "name":"KOBA Takahito",
+    "position":"Project Research Associate",
+    "affiliation":"University Hospital",
+    "url":"/focus/en/people/k0001_05552.html"
+  }
+,
+  {
+    "tag":"000026957",
+    "name":"SHISHIDO Masato",
+    "position":"Project Research Associate",
+    "affiliation":"University Hospital",
+    "url":"/focus/en/people/k0001_05551.html"
+  }
+,
+  {
+    "tag":"000026956",
+    "name":"OURA Miya",
+    "position":"Project Research Associate",
+    "affiliation":"University Hospital",
+    "url":"/focus/en/people/k0001_05550.html"
+  }
+,
+  {
     "tag":"000026955",
     "name":"TOYODA Masayuki",
     "position":"Project Research Associate",
     "affiliation":"University Hospital",
     "url":"/focus/en/people/k0001_05549.html"
+  }
+,
+  {
+    "tag":"000026954",
+    "name":"IWATA Hiroka",
+    "position":"Research Associate",
+    "affiliation":"University Hospital",
+    "url":"/focus/en/people/k0001_05548.html"
+  }
+,
+  {
+    "tag":"000026952",
+    "name":"KIMURA Tokuhide",
+    "position":"Research Associate",
+    "affiliation":"University Hospital",
+    "url":"/focus/en/people/k0001_05546.html"
   }
 ,
   {
@@ -49,11 +89,43 @@
   }
 ,
   {
+    "tag":"000026946",
+    "name":"OSHIMA Sachi",
+    "position":"Research Associate",
+    "affiliation":"University Hospital",
+    "url":"/focus/en/people/k0001_05540.html"
+  }
+,
+  {
+    "tag":"000026945",
+    "name":"KITAGAWA Yosuke",
+    "position":"Research Associate",
+    "affiliation":"University Hospital",
+    "url":"/focus/en/people/k0001_05539.html"
+  }
+,
+  {
     "tag":"000026944",
     "name":"KANEKO Hiroyuki",
     "position":"Research Associate",
     "affiliation":"University Hospital",
     "url":"/focus/en/people/k0001_05538.html"
+  }
+,
+  {
+    "tag":"000026943",
+    "name":"TSUKAMOTO Koji",
+    "position":"Research Associate",
+    "affiliation":"University Hospital",
+    "url":"/focus/en/people/k0001_05537.html"
+  }
+,
+  {
+    "tag":"000026942",
+    "name":"OKADA Satoshi",
+    "position":"Research Associate",
+    "affiliation":"University Hospital",
+    "url":"/focus/en/people/k0001_05536.html"
   }
 ,
   {
@@ -81,6 +153,22 @@
   }
 ,
   {
+    "tag":"000026938",
+    "name":"FURUSE Kiichi",
+    "position":"Research Associate",
+    "affiliation":"University Hospital",
+    "url":"/focus/en/people/k0001_05532.html"
+  }
+,
+  {
+    "tag":"000026937",
+    "name":"李 海秀",
+    "position":"Research Associate",
+    "affiliation":"University Hospital",
+    "url":"/focus/en/people/k0001_05531.html"
+  }
+,
+  {
     "tag":"000026936",
     "name":"NOMA Michita",
     "position":"Research Associate",
@@ -94,6 +182,14 @@
     "position":"Research Associate",
     "affiliation":"University Hospital",
     "url":"/focus/en/people/k0001_05529.html"
+  }
+,
+  {
+    "tag":"000026934",
+    "name":"MOCHIZUKI Gai",
+    "position":"Research Associate",
+    "affiliation":"University Hospital",
+    "url":"/focus/en/people/k0001_05528.html"
   }
 ,
   {
@@ -121,6 +217,22 @@
   }
 ,
   {
+    "tag":"000026928",
+    "name":"TERAO Ryo",
+    "position":"Research Associate",
+    "affiliation":"University Hospital",
+    "url":"/focus/en/people/k0001_05522.html"
+  }
+,
+  {
+    "tag":"000026927",
+    "name":"ANDO Toshihiko",
+    "position":"Research Associate",
+    "affiliation":"University Hospital",
+    "url":"/focus/en/people/k0001_05521.html"
+  }
+,
+  {
     "tag":"000026926",
     "name":"TAKEDA Ryutaro",
     "position":"Research Associate",
@@ -137,6 +249,22 @@
   }
 ,
   {
+    "tag":"000026924",
+    "name":"KAWASHIMA Hisao",
+    "position":"Research Associate",
+    "affiliation":"University Hospital",
+    "url":"/focus/en/people/k0001_05518.html"
+  }
+,
+  {
+    "tag":"000026923",
+    "name":"OMORI Issei",
+    "position":"Research Associate",
+    "affiliation":"University Hospital",
+    "url":"/focus/en/people/k0001_05517.html"
+  }
+,
+  {
     "tag":"000026922",
     "name":"FUKUI Tatsuyuki",
     "position":"Research Associate",
@@ -145,11 +273,59 @@
   }
 ,
   {
+    "tag":"000026921",
+    "name":"KOBAYASHI Takashi",
+    "position":"Research Associate",
+    "affiliation":"University Hospital",
+    "url":"/focus/en/people/k0001_05515.html"
+  }
+,
+  {
+    "tag":"000026920",
+    "name":"YAHIRO Mitsuharu",
+    "position":"Research Associate",
+    "affiliation":"University Hospital",
+    "url":"/focus/en/people/k0001_05514.html"
+  }
+,
+  {
+    "tag":"000026919",
+    "name":"CHIYODA Takehiro",
+    "position":"Research Associate",
+    "affiliation":"University Hospital",
+    "url":"/focus/en/people/k0001_05513.html"
+  }
+,
+  {
+    "tag":"000026918",
+    "name":"KARAKO Kenji",
+    "position":"Research Associate",
+    "affiliation":"University Hospital",
+    "url":"/focus/en/people/k0001_05512.html"
+  }
+,
+  {
+    "tag":"000026917",
+    "name":"KITAURA Satoshi",
+    "position":"Research Associate",
+    "affiliation":"University Hospital",
+    "url":"/focus/en/people/k0001_05511.html"
+  }
+,
+  {
     "tag":"000026916",
     "name":"WAKASUGI Masaki",
     "position":"Research Associate",
     "affiliation":"University Hospital",
     "url":"/focus/en/people/k0001_05510.html"
+  }
+,
+  {
+    "tag":"000026915",
+    "name":"KURIHARA Yuya",
+    "position":"Research Associate",
+    "affiliation":"University Hospital",
+    "url":"/focus/en/people/k0001_05509.html"
   }
 ,
   {
@@ -166,6 +342,30 @@
     "position":"Research Associate",
     "affiliation":"University Hospital",
     "url":"/focus/en/people/k0001_05507.html"
+  }
+,
+  {
+    "tag":"000026912",
+    "name":"YAMANAKA Yukari",
+    "position":"Research Associate",
+    "affiliation":"University Hospital",
+    "url":"/focus/en/people/k0001_05506.html"
+  }
+,
+  {
+    "tag":"000026911",
+    "name":"YAMAMURA Koji",
+    "position":"Research Associate",
+    "affiliation":"University Hospital",
+    "url":"/focus/en/people/k0001_05505.html"
+  }
+,
+  {
+    "tag":"000026910",
+    "name":"SASAKI Daisuke",
+    "position":"Research Associate",
+    "affiliation":"Graduate School of Frontier Sciences",
+    "url":"/focus/en/people/k0001_05504.html"
   }
 ,
   {
