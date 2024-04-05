@@ -1,6 +1,206 @@
 [
 
   {
+    "tag":"000027056",
+    "name":"須藤　和寛",
+    "position":"特任助教",
+    "affiliation":"医科学研究所",
+    "url":"/focus/ja/people/k0001_05650.html"
+  }
+,
+  {
+    "tag":"000027052",
+    "name":"金井　一夫",
+    "position":"特任講師",
+    "affiliation":"大学院薬学系研究科",
+    "url":"/focus/ja/people/k0001_05646.html"
+  }
+,
+  {
+    "tag":"000027051",
+    "name":"水谷　拓",
+    "position":"特任助教",
+    "affiliation":"大学院薬学系研究科",
+    "url":"/focus/ja/people/k0001_05645.html"
+  }
+,
+  {
+    "tag":"000027050",
+    "name":"豊田　唯",
+    "position":"特任助教",
+    "affiliation":"大学院総合文化研究科",
+    "url":"/focus/ja/people/k0001_05644.html"
+  }
+,
+  {
+    "tag":"000027047",
+    "name":"石橋　篤季",
+    "position":"特任助教",
+    "affiliation":"大学院総合文化研究科",
+    "url":"/focus/ja/people/k0001_05641.html"
+  }
+,
+  {
+    "tag":"000027046",
+    "name":"谷崎　祐太",
+    "position":"准教授",
+    "affiliation":"大学院総合文化研究科",
+    "url":"/focus/ja/people/k0001_05640.html"
+  }
+,
+  {
+    "tag":"000027045",
+    "name":"高山　春花",
+    "position":"助教",
+    "affiliation":"大学院総合文化研究科",
+    "url":"/focus/ja/people/k0001_05639.html"
+  }
+,
+  {
+    "tag":"000027042",
+    "name":"汪　牧耘",
+    "position":"特任助教",
+    "affiliation":"教養学部",
+    "url":"/focus/ja/people/k0001_05636.html"
+  }
+,
+  {
+    "tag":"000027041",
+    "name":"青山　英正",
+    "position":"准教授",
+    "affiliation":"大学院総合文化研究科",
+    "url":"/focus/ja/people/k0001_05635.html"
+  }
+,
+  {
+    "tag":"000027038",
+    "name":"金井　雄樹",
+    "position":"特任助教",
+    "affiliation":"大学院総合文化研究科",
+    "url":"/focus/ja/people/k0001_05632.html"
+  }
+,
+  {
+    "tag":"000027036",
+    "name":"織田　佐由子",
+    "position":"助教",
+    "affiliation":"大学院総合文化研究科",
+    "url":"/focus/ja/people/k0001_05630.html"
+  }
+,
+  {
+    "tag":"000027033",
+    "name":"比嘉　毅",
+    "position":"助教",
+    "affiliation":"大学院総合文化研究科",
+    "url":"/focus/ja/people/k0001_05627.html"
+  }
+,
+  {
+    "tag":"000027029",
+    "name":"藤岡　里圭",
+    "position":"教授",
+    "affiliation":"大学院経済学研究科",
+    "url":"/focus/ja/people/k0001_05623.html"
+  }
+,
+  {
+    "tag":"000027024",
+    "name":"米澤　遼",
+    "position":"特任助教",
+    "affiliation":"大学院農学生命科学研究科",
+    "url":"/focus/ja/people/k0001_05618.html"
+  }
+,
+  {
+    "tag":"000027022",
+    "name":"甲野　耀登",
+    "position":"助教",
+    "affiliation":"大学院農学生命科学研究科",
+    "url":"/focus/ja/people/k0001_05616.html"
+  }
+,
+  {
+    "tag":"000027021",
+    "name":"納庄　一樹",
+    "position":"助教",
+    "affiliation":"大学院農学生命科学研究科",
+    "url":"/focus/ja/people/k0001_05615.html"
+  }
+,
+  {
+    "tag":"000027019",
+    "name":"鯉沼　宏章",
+    "position":"特任助教",
+    "affiliation":"大学院農学生命科学研究科",
+    "url":"/focus/ja/people/k0001_05613.html"
+  }
+,
+  {
+    "tag":"000027016",
+    "name":"渡邊　絵美理",
+    "position":"特任助教",
+    "affiliation":"大学院理学系研究科",
+    "url":"/focus/ja/people/k0001_05610.html"
+  }
+,
+  {
+    "tag":"000027015",
+    "name":"白井　均樹",
+    "position":"特任助教",
+    "affiliation":"大学院理学系研究科",
+    "url":"/focus/ja/people/k0001_05609.html"
+  }
+,
+  {
+    "tag":"000027010",
+    "name":"西村　志織",
+    "position":"特任助教",
+    "affiliation":"大学院医学系研究科",
+    "url":"/focus/ja/people/k0001_05604.html"
+  }
+,
+  {
+    "tag":"000027009",
+    "name":"藤野　悟央",
+    "position":"特任助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_05603.html"
+  }
+,
+  {
+    "tag":"000027006",
+    "name":"MA YUXUAN",
+    "position":"特任助教",
+    "affiliation":"大学院工学系研究科",
+    "url":"/focus/ja/people/k0001_05600.html"
+  }
+,
+  {
+    "tag":"000027001",
+    "name":"LU ANH KHOA A",
+    "position":"助教",
+    "affiliation":"大学院工学系研究科",
+    "url":"/focus/ja/people/k0001_05595.html"
+  }
+,
+  {
+    "tag":"000026989",
+    "name":"LI SHIHAO",
+    "position":"特任助教",
+    "affiliation":"大学院工学系研究科",
+    "url":"/focus/ja/people/k0001_05583.html"
+  }
+,
+  {
+    "tag":"000026985",
+    "name":"LIU MIAOMIAO",
+    "position":"特任助教",
+    "affiliation":"大学院工学系研究科",
+    "url":"/focus/ja/people/k0001_05579.html"
+  }
+,
+  {
     "tag":"000026958",
     "name":"木庭　毅人",
     "position":"特任助教",
