@@ -1,11 +1,43 @@
 [
 
   {
+    "tag":"000027058",
+    "name":"平沼　亮祐",
+    "position":"助教",
+    "affiliation":"医科学研究所",
+    "url":"/focus/ja/people/k0001_05652.html"
+  }
+,
+  {
     "tag":"000027056",
     "name":"須藤　和寛",
     "position":"特任助教",
     "affiliation":"医科学研究所",
     "url":"/focus/ja/people/k0001_05650.html"
+  }
+,
+  {
+    "tag":"000027055",
+    "name":"佐田友　藍",
+    "position":"助教",
+    "affiliation":"医科学研究所",
+    "url":"/focus/ja/people/k0001_05649.html"
+  }
+,
+  {
+    "tag":"000027054",
+    "name":"南出　竜典",
+    "position":"助教",
+    "affiliation":"医科学研究所",
+    "url":"/focus/ja/people/k0001_05648.html"
+  }
+,
+  {
+    "tag":"000027053",
+    "name":"柴田　佑里",
+    "position":"特任助教",
+    "affiliation":"大学院薬学系研究科",
+    "url":"/focus/ja/people/k0001_05647.html"
   }
 ,
   {
@@ -33,6 +65,22 @@
   }
 ,
   {
+    "tag":"000027049",
+    "name":"松井　洋和",
+    "position":"助教",
+    "affiliation":"教養学部",
+    "url":"/focus/ja/people/k0001_05643.html"
+  }
+,
+  {
+    "tag":"000027048",
+    "name":"宮崎　彩",
+    "position":"特任准教授",
+    "affiliation":"教養学部",
+    "url":"/focus/ja/people/k0001_05642.html"
+  }
+,
+  {
     "tag":"000027047",
     "name":"石橋　篤季",
     "position":"特任助教",
@@ -57,6 +105,14 @@
   }
 ,
   {
+    "tag":"000027044",
+    "name":"大川　翔",
+    "position":"助教",
+    "affiliation":"大学院総合文化研究科",
+    "url":"/focus/ja/people/k0001_05638.html"
+  }
+,
+  {
     "tag":"000027042",
     "name":"汪　牧耘",
     "position":"特任助教",
@@ -73,11 +129,35 @@
   }
 ,
   {
+    "tag":"000027040",
+    "name":"及川　茜",
+    "position":"講師",
+    "affiliation":"大学院総合文化研究科",
+    "url":"/focus/ja/people/k0001_05634.html"
+  }
+,
+  {
+    "tag":"000027039",
+    "name":"宮川　慎司",
+    "position":"特任助教",
+    "affiliation":"大学院総合文化研究科",
+    "url":"/focus/ja/people/k0001_05633.html"
+  }
+,
+  {
     "tag":"000027038",
     "name":"金井　雄樹",
     "position":"特任助教",
     "affiliation":"大学院総合文化研究科",
     "url":"/focus/ja/people/k0001_05632.html"
+  }
+,
+  {
+    "tag":"000027037",
+    "name":"實谷　総一郎",
+    "position":"講師",
+    "affiliation":"大学院総合文化研究科",
+    "url":"/focus/ja/people/k0001_05631.html"
   }
 ,
   {
@@ -89,11 +169,43 @@
   }
 ,
   {
+    "tag":"000027034",
+    "name":"柳沢　直也",
+    "position":"特任助教",
+    "affiliation":"大学院総合文化研究科",
+    "url":"/focus/ja/people/k0001_05628.html"
+  }
+,
+  {
     "tag":"000027033",
     "name":"比嘉　毅",
     "position":"助教",
     "affiliation":"大学院総合文化研究科",
     "url":"/focus/ja/people/k0001_05627.html"
+  }
+,
+  {
+    "tag":"000027032",
+    "name":"宮川　絹代",
+    "position":"助教",
+    "affiliation":"大学院人文社会系研究科",
+    "url":"/focus/ja/people/k0001_05626.html"
+  }
+,
+  {
+    "tag":"000027031",
+    "name":"平井　浩",
+    "position":"特任准教授",
+    "affiliation":"大学院経済学研究科",
+    "url":"/focus/ja/people/k0001_05625.html"
+  }
+,
+  {
+    "tag":"000027030",
+    "name":"堀越　啓介",
+    "position":"特任講師",
+    "affiliation":"大学院経済学研究科",
+    "url":"/focus/ja/people/k0001_05624.html"
   }
 ,
   {
@@ -105,11 +217,51 @@
   }
 ,
   {
+    "tag":"000027028",
+    "name":"横手　康二",
+    "position":"特任講師",
+    "affiliation":"大学院経済学研究科",
+    "url":"/focus/ja/people/k0001_05622.html"
+  }
+,
+  {
+    "tag":"000027027",
+    "name":"山口　公輔",
+    "position":"助教",
+    "affiliation":"大学院農学生命科学研究科",
+    "url":"/focus/ja/people/k0001_05621.html"
+  }
+,
+  {
+    "tag":"000027026",
+    "name":"亀井　飛鳥",
+    "position":"特任准教授",
+    "affiliation":"大学院農学生命科学研究科",
+    "url":"/focus/ja/people/k0001_05620.html"
+  }
+,
+  {
+    "tag":"000027025",
+    "name":"徳永　友花",
+    "position":"特任准教授",
+    "affiliation":"大学院農学生命科学研究科",
+    "url":"/focus/ja/people/k0001_05619.html"
+  }
+,
+  {
     "tag":"000027024",
     "name":"米澤　遼",
     "position":"特任助教",
     "affiliation":"大学院農学生命科学研究科",
     "url":"/focus/ja/people/k0001_05618.html"
+  }
+,
+  {
+    "tag":"000027023",
+    "name":"岩切　鮎佳",
+    "position":"助教",
+    "affiliation":"大学院農学生命科学研究科",
+    "url":"/focus/ja/people/k0001_05617.html"
   }
 ,
   {
@@ -129,11 +281,35 @@
   }
 ,
   {
+    "tag":"000027020",
+    "name":"岩渕　望",
+    "position":"助教",
+    "affiliation":"大学院農学生命科学研究科",
+    "url":"/focus/ja/people/k0001_05614.html"
+  }
+,
+  {
     "tag":"000027019",
     "name":"鯉沼　宏章",
     "position":"特任助教",
     "affiliation":"大学院農学生命科学研究科",
     "url":"/focus/ja/people/k0001_05613.html"
+  }
+,
+  {
+    "tag":"000027018",
+    "name":"大矢　淳史",
+    "position":"特任助教",
+    "affiliation":"素粒子物理国際研究センター",
+    "url":"/focus/ja/people/k0001_05612.html"
+  }
+,
+  {
+    "tag":"000027017",
+    "name":"岩木　惇司",
+    "position":"特任助教",
+    "affiliation":"大学院理学系研究科",
+    "url":"/focus/ja/people/k0001_05611.html"
   }
 ,
   {
@@ -150,6 +326,30 @@
     "position":"特任助教",
     "affiliation":"大学院理学系研究科",
     "url":"/focus/ja/people/k0001_05609.html"
+  }
+,
+  {
+    "tag":"000027014",
+    "name":"小鷲　智理",
+    "position":"特任助教",
+    "affiliation":"大学院理学系研究科",
+    "url":"/focus/ja/people/k0001_05608.html"
+  }
+,
+  {
+    "tag":"000027013",
+    "name":"桑原　俊介",
+    "position":"准教授",
+    "affiliation":"大学院人文社会系研究科",
+    "url":"/focus/ja/people/k0001_05607.html"
+  }
+,
+  {
+    "tag":"000027012",
+    "name":"冨澤　かな",
+    "position":"准教授",
+    "affiliation":"大学院人文社会系研究科",
+    "url":"/focus/ja/people/k0001_05606.html"
   }
 ,
   {
@@ -10523,7 +10723,7 @@
   {
     "tag":"000023434",
     "name":"根津　友紀子",
-    "position":"特任助教",
+    "position":"助教, 特任助教",
     "affiliation":"大学院新領域創成科学研究科",
     "url":"/focus/ja/people/k0001_04015.html"
   }

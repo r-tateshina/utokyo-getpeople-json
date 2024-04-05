@@ -1,11 +1,43 @@
 [
 
   {
+    "tag":"000027058",
+    "name":"HIRANUMA Ryosuke",
+    "position":"Research Associate",
+    "affiliation":"Institute of Medical Science",
+    "url":"/focus/en/people/k0001_05652.html"
+  }
+,
+  {
     "tag":"000027056",
     "name":"SUDO Kazuhiro",
     "position":"Project Research Associate",
     "affiliation":"Institute of Medical Science",
     "url":"/focus/en/people/k0001_05650.html"
+  }
+,
+  {
+    "tag":"000027055",
+    "name":"SADATOMO Ai",
+    "position":"Research Associate",
+    "affiliation":"Institute of Medical Science",
+    "url":"/focus/en/people/k0001_05649.html"
+  }
+,
+  {
+    "tag":"000027054",
+    "name":"MINAMIDE Tatsunori",
+    "position":"Research Associate",
+    "affiliation":"Institute of Medical Science",
+    "url":"/focus/en/people/k0001_05648.html"
+  }
+,
+  {
+    "tag":"000027053",
+    "name":"SHIBATA Yuri",
+    "position":"Project Research Associate",
+    "affiliation":"Graduate School of Pharmaceutical Sciences",
+    "url":"/focus/en/people/k0001_05647.html"
   }
 ,
   {
@@ -33,6 +65,22 @@
   }
 ,
   {
+    "tag":"000027049",
+    "name":"MATSUI Hirokazu",
+    "position":"Research Associate",
+    "affiliation":"College of Arts and Sciences",
+    "url":"/focus/en/people/k0001_05643.html"
+  }
+,
+  {
+    "tag":"000027048",
+    "name":"MIYAZAKI Aya",
+    "position":"Project Associate Professor",
+    "affiliation":"College of Arts and Sciences",
+    "url":"/focus/en/people/k0001_05642.html"
+  }
+,
+  {
     "tag":"000027047",
     "name":"ISHIBASHI Atsuki",
     "position":"Project Research Associate",
@@ -57,6 +105,14 @@
   }
 ,
   {
+    "tag":"000027044",
+    "name":"OKAWA Sho",
+    "position":"Research Associate",
+    "affiliation":"Graduate School of Arts and Sciences",
+    "url":"/focus/en/people/k0001_05638.html"
+  }
+,
+  {
     "tag":"000027042",
     "name":"汪 牧耘",
     "position":"Project Research Associate",
@@ -73,11 +129,35 @@
   }
 ,
   {
+    "tag":"000027040",
+    "name":"OIKAWA Akane",
+    "position":"Lecturer",
+    "affiliation":"Graduate School of Arts and Sciences",
+    "url":"/focus/en/people/k0001_05634.html"
+  }
+,
+  {
+    "tag":"000027039",
+    "name":"MIYAGAWA Shinji",
+    "position":"Project Research Associate",
+    "affiliation":"Graduate School of Arts and Sciences",
+    "url":"/focus/en/people/k0001_05633.html"
+  }
+,
+  {
     "tag":"000027038",
     "name":"KANAI Yuki",
     "position":"Project Research Associate",
     "affiliation":"Graduate School of Arts and Sciences",
     "url":"/focus/en/people/k0001_05632.html"
+  }
+,
+  {
+    "tag":"000027037",
+    "name":"JITTANI Soichiro",
+    "position":"Lecturer",
+    "affiliation":"Graduate School of Arts and Sciences",
+    "url":"/focus/en/people/k0001_05631.html"
   }
 ,
   {
@@ -89,11 +169,43 @@
   }
 ,
   {
+    "tag":"000027034",
+    "name":"YANAGISAWA Naoya",
+    "position":"Project Research Associate",
+    "affiliation":"Graduate School of Arts and Sciences",
+    "url":"/focus/en/people/k0001_05628.html"
+  }
+,
+  {
     "tag":"000027033",
     "name":"HIGA Takeshi",
     "position":"Research Associate",
     "affiliation":"Graduate School of Arts and Sciences",
     "url":"/focus/en/people/k0001_05627.html"
+  }
+,
+  {
+    "tag":"000027032",
+    "name":"MIYAGAWA Kinuyo",
+    "position":"Research Associate",
+    "affiliation":"Graduate School of Humanities and Sociology",
+    "url":"/focus/en/people/k0001_05626.html"
+  }
+,
+  {
+    "tag":"000027031",
+    "name":"HIRAI Hiroshi",
+    "position":"Project Associate Professor",
+    "affiliation":"Graduate School of Economics",
+    "url":"/focus/en/people/k0001_05625.html"
+  }
+,
+  {
+    "tag":"000027030",
+    "name":"HORIKOSHI Keisuke",
+    "position":"Project Lecturer",
+    "affiliation":"Graduate School of Economics",
+    "url":"/focus/en/people/k0001_05624.html"
   }
 ,
   {
@@ -105,11 +217,51 @@
   }
 ,
   {
+    "tag":"000027028",
+    "name":"YOKOTE Koji",
+    "position":"Project Lecturer",
+    "affiliation":"Graduate School of Economics",
+    "url":"/focus/en/people/k0001_05622.html"
+  }
+,
+  {
+    "tag":"000027027",
+    "name":"YAMAGUCHI Kosuke",
+    "position":"Research Associate",
+    "affiliation":"Graduate School of Agricultural and Life Sciences",
+    "url":"/focus/en/people/k0001_05621.html"
+  }
+,
+  {
+    "tag":"000027026",
+    "name":"KAMEI Asuka",
+    "position":"Project Associate Professor",
+    "affiliation":"Graduate School of Agricultural and Life Sciences",
+    "url":"/focus/en/people/k0001_05620.html"
+  }
+,
+  {
+    "tag":"000027025",
+    "name":"TOKUNAGA Yuka",
+    "position":"Project Associate Professor",
+    "affiliation":"Graduate School of Agricultural and Life Sciences",
+    "url":"/focus/en/people/k0001_05619.html"
+  }
+,
+  {
     "tag":"000027024",
     "name":"YONEZAWA Ryo",
     "position":"Project Research Associate",
     "affiliation":"Graduate School of Agricultural and Life Sciences",
     "url":"/focus/en/people/k0001_05618.html"
+  }
+,
+  {
+    "tag":"000027023",
+    "name":"IWAKIRI Ayuka",
+    "position":"Research Associate",
+    "affiliation":"Graduate School of Agricultural and Life Sciences",
+    "url":"/focus/en/people/k0001_05617.html"
   }
 ,
   {
@@ -129,11 +281,35 @@
   }
 ,
   {
+    "tag":"000027020",
+    "name":"IWABUCHI Nozomu",
+    "position":"Research Associate",
+    "affiliation":"Graduate School of Agricultural and Life Sciences",
+    "url":"/focus/en/people/k0001_05614.html"
+  }
+,
+  {
     "tag":"000027019",
     "name":"KOINUMA Hiroaki",
     "position":"Project Research Associate",
     "affiliation":"Graduate School of Agricultural and Life Sciences",
     "url":"/focus/en/people/k0001_05613.html"
+  }
+,
+  {
+    "tag":"000027018",
+    "name":"OYA Atsushi",
+    "position":"Project Research Associate",
+    "affiliation":"International Center for Elementary Particle Physics",
+    "url":"/focus/en/people/k0001_05612.html"
+  }
+,
+  {
+    "tag":"000027017",
+    "name":"IWAKI Atsushi",
+    "position":"Project Research Associate",
+    "affiliation":"Graduate School of Science",
+    "url":"/focus/en/people/k0001_05611.html"
   }
 ,
   {
@@ -150,6 +326,30 @@
     "position":"Project Research Associate",
     "affiliation":"Graduate School of Science",
     "url":"/focus/en/people/k0001_05609.html"
+  }
+,
+  {
+    "tag":"000027014",
+    "name":"KOWASHI Satori",
+    "position":"Project Research Associate",
+    "affiliation":"Graduate School of Science",
+    "url":"/focus/en/people/k0001_05608.html"
+  }
+,
+  {
+    "tag":"000027013",
+    "name":"KUWAHARA Shunsuke",
+    "position":"Associate Professor",
+    "affiliation":"Graduate School of Humanities and Sociology",
+    "url":"/focus/en/people/k0001_05607.html"
+  }
+,
+  {
+    "tag":"000027012",
+    "name":"TOMIZAWA Kana",
+    "position":"Associate Professor",
+    "affiliation":"Graduate School of Humanities and Sociology",
+    "url":"/focus/en/people/k0001_05606.html"
   }
 ,
   {
@@ -10523,7 +10723,7 @@
   {
     "tag":"000023434",
     "name":"NEZU Yukiko",
-    "position":"Project Research Associate",
+    "position":"Assistant Professor, Project Research Associate",
     "affiliation":"Graduate School of Frontier Sciences",
     "url":"/focus/en/people/k0001_04015.html"
   }
