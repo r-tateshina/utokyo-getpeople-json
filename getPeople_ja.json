@@ -1,6 +1,174 @@
 [
 
   {
+    "tag":"000027157",
+    "name":"蕭　耕偉郎",
+    "position":"准教授",
+    "affiliation":"大学院工学系研究科",
+    "url":"/focus/ja/people/k0001_05751.html"
+  }
+,
+  {
+    "tag":"000027155",
+    "name":"豊川　剛二",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_05749.html"
+  }
+,
+  {
+    "tag":"000027151",
+    "name":"李　昊",
+    "position":"准教授",
+    "affiliation":"大学院法学政治学研究科",
+    "url":"/focus/ja/people/k0001_05745.html"
+  }
+,
+  {
+    "tag":"000027150",
+    "name":"酒井　拓史",
+    "position":"教授",
+    "affiliation":"大学院数理科学研究科",
+    "url":"/focus/ja/people/k0001_05744.html"
+  }
+,
+  {
+    "tag":"000027148",
+    "name":"田中　萌子",
+    "position":"助教",
+    "affiliation":"大学院医学系研究科",
+    "url":"/focus/ja/people/k0001_05742.html"
+  }
+,
+  {
+    "tag":"000027147",
+    "name":"齊藤　博英",
+    "position":"教授",
+    "affiliation":"定量生命科学研究所",
+    "url":"/focus/ja/people/k0001_05741.html"
+  }
+,
+  {
+    "tag":"000027143",
+    "name":"湯本　郷",
+    "position":"特任助教",
+    "affiliation":"物性研究所",
+    "url":"/focus/ja/people/k0001_05737.html"
+  }
+,
+  {
+    "tag":"000027140",
+    "name":"高木　桃子",
+    "position":"助教",
+    "affiliation":"大学院総合文化研究科",
+    "url":"/focus/ja/people/k0001_05734.html"
+  }
+,
+  {
+    "tag":"000027139",
+    "name":"筒井　和詩",
+    "position":"助教",
+    "affiliation":"大学院総合文化研究科",
+    "url":"/focus/ja/people/k0001_05733.html"
+  }
+,
+  {
+    "tag":"000027137",
+    "name":"若林　諒",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_05731.html"
+  }
+,
+  {
+    "tag":"000027136",
+    "name":"田中　万理",
+    "position":"准教授",
+    "affiliation":"大学院経済学研究科",
+    "url":"/focus/ja/people/k0001_05730.html"
+  }
+,
+  {
+    "tag":"000027135",
+    "name":"深谷　亮",
+    "position":"特任助教",
+    "affiliation":"物性研究所",
+    "url":"/focus/ja/people/k0001_05729.html"
+  }
+,
+  {
+    "tag":"000027132",
+    "name":"相川　清隆",
+    "position":"准教授",
+    "affiliation":"大学院理学系研究科",
+    "url":"/focus/ja/people/k0001_05726.html"
+  }
+,
+  {
+    "tag":"000027130",
+    "name":"高玉　圭樹",
+    "position":"教授",
+    "affiliation":"情報基盤センター",
+    "url":"/focus/ja/people/k0001_05724.html"
+  }
+,
+  {
+    "tag":"000027129",
+    "name":"細野　浩之",
+    "position":"特任教授",
+    "affiliation":"大学院薬学系研究科",
+    "url":"/focus/ja/people/k0001_05723.html"
+  }
+,
+  {
+    "tag":"000027128",
+    "name":"高橋　真有",
+    "position":"講師",
+    "affiliation":"大学院医学系研究科",
+    "url":"/focus/ja/people/k0001_05722.html"
+  }
+,
+  {
+    "tag":"000027126",
+    "name":"真壁　佑",
+    "position":"特任助教",
+    "affiliation":"大学院情報理工学系研究科",
+    "url":"/focus/ja/people/k0001_05720.html"
+  }
+,
+  {
+    "tag":"000027120",
+    "name":"窪田　智之",
+    "position":"特任助教",
+    "affiliation":"大学院情報理工学系研究科",
+    "url":"/focus/ja/people/k0001_05714.html"
+  }
+,
+  {
+    "tag":"000027118",
+    "name":"淺岡　礼人",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_05712.html"
+  }
+,
+  {
+    "tag":"000027117",
+    "name":"菅原　弘太郎",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_05711.html"
+  }
+,
+  {
+    "tag":"000027111",
+    "name":"柿原　知",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_05705.html"
+  }
+,
+  {
     "tag":"000027108",
     "name":"羽多野　一磨",
     "position":"准教授",
@@ -105,6 +273,14 @@
   }
 ,
   {
+    "tag":"000027095",
+    "name":"Cojocaru Ludmila",
+    "position":"特任准教授",
+    "affiliation":"大学院総合文化研究科",
+    "url":"/focus/ja/people/k0001_05689.html"
+  }
+,
+  {
     "tag":"000027094",
     "name":"SHEN CHUAN-CHOU",
     "position":"特任教授",
@@ -193,6 +369,14 @@
   }
 ,
   {
+    "tag":"000027083",
+    "name":"CHUNG MYUNG",
+    "position":"助教",
+    "affiliation":"定量生命科学研究所",
+    "url":"/focus/ja/people/k0001_05677.html"
+  }
+,
+  {
     "tag":"000027082",
     "name":"古田　一史",
     "position":"助教",
@@ -254,6 +438,14 @@
     "position":"助教",
     "affiliation":"生産技術研究所",
     "url":"/focus/ja/people/k0001_05669.html"
+  }
+,
+  {
+    "tag":"000027074",
+    "name":"BRODY DORJE C",
+    "position":"特任教授",
+    "affiliation":"生産技術研究所",
+    "url":"/focus/ja/people/k0001_05668.html"
   }
 ,
   {
@@ -342,6 +534,14 @@
     "position":"助教",
     "affiliation":"社会科学研究所",
     "url":"/focus/ja/people/k0001_05657.html"
+  }
+,
+  {
+    "tag":"000027062",
+    "name":"AKA FESTUS TONGWA",
+    "position":"特任教授",
+    "affiliation":"地震研究所",
+    "url":"/focus/ja/people/k0001_05656.html"
   }
 ,
   {

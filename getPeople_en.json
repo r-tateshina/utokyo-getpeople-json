@@ -1,6 +1,174 @@
 [
 
   {
+    "tag":"000027157",
+    "name":"SHO Kojiro",
+    "position":"Associate Professor",
+    "affiliation":"Graduate School of Engineering",
+    "url":"/focus/en/people/k0001_05751.html"
+  }
+,
+  {
+    "tag":"000027155",
+    "name":"TOYOKAWA Goji",
+    "position":"Research Associate",
+    "affiliation":"University Hospital",
+    "url":"/focus/en/people/k0001_05749.html"
+  }
+,
+  {
+    "tag":"000027151",
+    "name":"李 昊",
+    "position":"Associate Professor",
+    "affiliation":"Graduate Schools for Law and Politics",
+    "url":"/focus/en/people/k0001_05745.html"
+  }
+,
+  {
+    "tag":"000027150",
+    "name":"SAKAI Hiroshi",
+    "position":"Professor",
+    "affiliation":"Graduate School of Mathematical Science",
+    "url":"/focus/en/people/k0001_05744.html"
+  }
+,
+  {
+    "tag":"000027148",
+    "name":"TANAKA Moeko",
+    "position":"Research Associate",
+    "affiliation":"Graduate School of Medicine",
+    "url":"/focus/en/people/k0001_05742.html"
+  }
+,
+  {
+    "tag":"000027147",
+    "name":"SAITO Hirohide",
+    "position":"Professor",
+    "affiliation":"Institute for Quantitative Biosciences",
+    "url":"/focus/en/people/k0001_05741.html"
+  }
+,
+  {
+    "tag":"000027143",
+    "name":"YUMOTO Go",
+    "position":"Project Research Associate",
+    "affiliation":"Institute for Solid State Physics",
+    "url":"/focus/en/people/k0001_05737.html"
+  }
+,
+  {
+    "tag":"000027140",
+    "name":"TAKAGI Momoko",
+    "position":"Research Associate",
+    "affiliation":"Graduate School of Arts and Sciences",
+    "url":"/focus/en/people/k0001_05734.html"
+  }
+,
+  {
+    "tag":"000027139",
+    "name":"TSUTSUI Kazushi",
+    "position":"Research Associate",
+    "affiliation":"Graduate School of Arts and Sciences",
+    "url":"/focus/en/people/k0001_05733.html"
+  }
+,
+  {
+    "tag":"000027137",
+    "name":"WAKABAYASHI Ryo",
+    "position":"Research Associate",
+    "affiliation":"University Hospital",
+    "url":"/focus/en/people/k0001_05731.html"
+  }
+,
+  {
+    "tag":"000027136",
+    "name":"TANAKA Mari",
+    "position":"Associate Professor",
+    "affiliation":"Graduate School of Economics",
+    "url":"/focus/en/people/k0001_05730.html"
+  }
+,
+  {
+    "tag":"000027135",
+    "name":"FUKAYA Ryo",
+    "position":"Project Research Associate",
+    "affiliation":"Institute for Solid State Physics",
+    "url":"/focus/en/people/k0001_05729.html"
+  }
+,
+  {
+    "tag":"000027132",
+    "name":"AIKAWA Kiyotaka",
+    "position":"Associate Professor",
+    "affiliation":"Graduate School of Science",
+    "url":"/focus/en/people/k0001_05726.html"
+  }
+,
+  {
+    "tag":"000027130",
+    "name":"TAKADAMA Keiki",
+    "position":"Professor",
+    "affiliation":"Information Technology Center",
+    "url":"/focus/en/people/k0001_05724.html"
+  }
+,
+  {
+    "tag":"000027129",
+    "name":"HOSONO Hiroyuki",
+    "position":"Project Professor",
+    "affiliation":"Graduate School of Pharmaceutical Sciences",
+    "url":"/focus/en/people/k0001_05723.html"
+  }
+,
+  {
+    "tag":"000027128",
+    "name":"TAKAHASHI Mayu",
+    "position":"Lecturer",
+    "affiliation":"Graduate School of Medicine",
+    "url":"/focus/en/people/k0001_05722.html"
+  }
+,
+  {
+    "tag":"000027126",
+    "name":"MAKABE Tasuku",
+    "position":"Project Research Associate",
+    "affiliation":"Graduate School of Information Science and Technology",
+    "url":"/focus/en/people/k0001_05720.html"
+  }
+,
+  {
+    "tag":"000027120",
+    "name":"KUBOTA Tomoyuki",
+    "position":"Project Research Associate",
+    "affiliation":"Graduate School of Information Science and Technology",
+    "url":"/focus/en/people/k0001_05714.html"
+  }
+,
+  {
+    "tag":"000027118",
+    "name":"ASAOKA Raito",
+    "position":"Research Associate",
+    "affiliation":"University Hospital",
+    "url":"/focus/en/people/k0001_05712.html"
+  }
+,
+  {
+    "tag":"000027117",
+    "name":"SUGAWARA Kotaro",
+    "position":"Research Associate",
+    "affiliation":"University Hospital",
+    "url":"/focus/en/people/k0001_05711.html"
+  }
+,
+  {
+    "tag":"000027111",
+    "name":"KAKIHARA Tomo",
+    "position":"Research Associate",
+    "affiliation":"University Hospital",
+    "url":"/focus/en/people/k0001_05705.html"
+  }
+,
+  {
     "tag":"000027108",
     "name":"HATANO Kazuma",
     "position":"Associate Professor",
@@ -105,6 +273,14 @@
   }
 ,
   {
+    "tag":"000027095",
+    "name":"Cojocaru Ludmila",
+    "position":"Project Associate Professor",
+    "affiliation":"Graduate School of Arts and Sciences",
+    "url":"/focus/en/people/k0001_05689.html"
+  }
+,
+  {
     "tag":"000027094",
     "name":"SHEN CHUAN-CHOU",
     "position":"Project Professor",
@@ -193,6 +369,14 @@
   }
 ,
   {
+    "tag":"000027083",
+    "name":"CHUNG MYUNG",
+    "position":"Research Associate",
+    "affiliation":"Institute for Quantitative Biosciences",
+    "url":"/focus/en/people/k0001_05677.html"
+  }
+,
+  {
     "tag":"000027082",
     "name":"FURUTA Kazufumi",
     "position":"Research Associate",
@@ -254,6 +438,14 @@
     "position":"Research Associate",
     "affiliation":"Institute of Industrial Science",
     "url":"/focus/en/people/k0001_05669.html"
+  }
+,
+  {
+    "tag":"000027074",
+    "name":"BRODY DORJE C",
+    "position":"Project Professor",
+    "affiliation":"Institute of Industrial Science",
+    "url":"/focus/en/people/k0001_05668.html"
   }
 ,
   {
@@ -342,6 +534,14 @@
     "position":"Research Associate",
     "affiliation":"Institute of Social Science",
     "url":"/focus/en/people/k0001_05657.html"
+  }
+,
+  {
+    "tag":"000027062",
+    "name":"AKA FESTUS TONGWA",
+    "position":"Project Professor",
+    "affiliation":"Earthquake Research Institute",
+    "url":"/focus/en/people/k0001_05656.html"
   }
 ,
   {
