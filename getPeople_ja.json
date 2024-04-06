@@ -1,6 +1,182 @@
 [
 
   {
+    "tag":"000027194",
+    "name":"森　晶子",
+    "position":"特任助教",
+    "affiliation":"先端科学技術研究センター",
+    "url":"/focus/ja/people/k0001_05788.html"
+  }
+,
+  {
+    "tag":"000027193",
+    "name":"清水　千華",
+    "position":"特任助教",
+    "affiliation":"大学院経済学研究科",
+    "url":"/focus/ja/people/k0001_05787.html"
+  }
+,
+  {
+    "tag":"000027190",
+    "name":"田中　達基",
+    "position":"特任助教",
+    "affiliation":"大学院理学系研究科",
+    "url":"/focus/ja/people/k0001_05784.html"
+  }
+,
+  {
+    "tag":"000027188",
+    "name":"正路　章子",
+    "position":"特任助教",
+    "affiliation":"大学院薬学系研究科",
+    "url":"/focus/ja/people/k0001_05782.html"
+  }
+,
+  {
+    "tag":"000027187",
+    "name":"西本　恵太",
+    "position":"特任助教",
+    "affiliation":"大学院工学系研究科",
+    "url":"/focus/ja/people/k0001_05781.html"
+  }
+,
+  {
+    "tag":"000027185",
+    "name":"櫻田　国治",
+    "position":"特任助教",
+    "affiliation":"先端科学技術研究センター",
+    "url":"/focus/ja/people/k0001_05779.html"
+  }
+,
+  {
+    "tag":"000027184",
+    "name":"石本　祐樹",
+    "position":"特任准教授",
+    "affiliation":"先端科学技術研究センター",
+    "url":"/focus/ja/people/k0001_05778.html"
+  }
+,
+  {
+    "tag":"000027183",
+    "name":"由本　聖",
+    "position":"特任准教授",
+    "affiliation":"大学院公共政策学連携研究部",
+    "url":"/focus/ja/people/k0001_05777.html"
+  }
+,
+  {
+    "tag":"000027182",
+    "name":"小谷　大祐",
+    "position":"特任助教",
+    "affiliation":"地球環境データコモンズ",
+    "url":"/focus/ja/people/k0001_05776.html"
+  }
+,
+  {
+    "tag":"000027180",
+    "name":"調　律子",
+    "position":"特任助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_05774.html"
+  }
+,
+  {
+    "tag":"000027178",
+    "name":"黒沢　拓夢",
+    "position":"特任助教",
+    "affiliation":"大学院教育学研究科",
+    "url":"/focus/ja/people/k0001_05772.html"
+  }
+,
+  {
+    "tag":"000027177",
+    "name":"山口　智史",
+    "position":"特任助教",
+    "affiliation":"大学院教育学研究科",
+    "url":"/focus/ja/people/k0001_05771.html"
+  }
+,
+  {
+    "tag":"000027176",
+    "name":"松下　雄一郎",
+    "position":"特任准教授",
+    "affiliation":"大学院理学系研究科",
+    "url":"/focus/ja/people/k0001_05770.html"
+  }
+,
+  {
+    "tag":"000027175",
+    "name":"折山　豊仁",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_05769.html"
+  }
+,
+  {
+    "tag":"000027174",
+    "name":"小川　実月",
+    "position":"特任助教",
+    "affiliation":"大学院農学生命科学研究科",
+    "url":"/focus/ja/people/k0001_05768.html"
+  }
+,
+  {
+    "tag":"000027171",
+    "name":"知念　良之",
+    "position":"特任助教",
+    "affiliation":"大学院農学生命科学研究科",
+    "url":"/focus/ja/people/k0001_05765.html"
+  }
+,
+  {
+    "tag":"000027170",
+    "name":"西沢　康平",
+    "position":"特任助教",
+    "affiliation":"大学院理学系研究科",
+    "url":"/focus/ja/people/k0001_05764.html"
+  }
+,
+  {
+    "tag":"000027166",
+    "name":"板東　洋介",
+    "position":"准教授",
+    "affiliation":"大学院人文社会系研究科",
+    "url":"/focus/ja/people/k0001_05760.html"
+  }
+,
+  {
+    "tag":"000027161",
+    "name":"浅岡　紘季",
+    "position":"助教",
+    "affiliation":"大学院医学系研究科",
+    "url":"/focus/ja/people/k0001_05755.html"
+  }
+,
+  {
+    "tag":"000027160",
+    "name":"本田　匠",
+    "position":"准教授",
+    "affiliation":"情報基盤センター",
+    "url":"/focus/ja/people/k0001_05754.html"
+  }
+,
+  {
+    "tag":"000027159",
+    "name":"小川　史明",
+    "position":"特任助教",
+    "affiliation":"先端科学技術研究センター",
+    "url":"/focus/ja/people/k0001_05753.html"
+  }
+,
+  {
+    "tag":"000027158",
+    "name":"早川　公",
+    "position":"特任准教授",
+    "affiliation":"先端科学技術研究センター",
+    "url":"/focus/ja/people/k0001_05752.html"
+  }
+,
+  {
     "tag":"000027157",
     "name":"蕭　耕偉郎",
     "position":"准教授",
@@ -14,6 +190,14 @@
     "position":"助教",
     "affiliation":"医学部附属病院",
     "url":"/focus/ja/people/k0001_05749.html"
+  }
+,
+  {
+    "tag":"000027152",
+    "name":"BELOUAD CHRIS",
+    "position":"准教授",
+    "affiliation":"教養学部",
+    "url":"/focus/ja/people/k0001_05746.html"
   }
 ,
   {
@@ -137,11 +321,27 @@
   }
 ,
   {
+    "tag":"000027125",
+    "name":"BAEK JEONGHUN",
+    "position":"助教",
+    "affiliation":"大学院情報理工学系研究科",
+    "url":"/focus/ja/people/k0001_05719.html"
+  }
+,
+  {
     "tag":"000027120",
     "name":"窪田　智之",
     "position":"特任助教",
     "affiliation":"大学院情報理工学系研究科",
     "url":"/focus/ja/people/k0001_05714.html"
+  }
+,
+  {
+    "tag":"000027119",
+    "name":"Deeksha",
+    "position":"特任助教",
+    "affiliation":"空間情報科学研究センター",
+    "url":"/focus/ja/people/k0001_05713.html"
   }
 ,
   {

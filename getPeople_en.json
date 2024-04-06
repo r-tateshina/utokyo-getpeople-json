@@ -1,6 +1,182 @@
 [
 
   {
+    "tag":"000027194",
+    "name":"MORI Akiko",
+    "position":"Project Research Associate",
+    "affiliation":"Research Center for Advanced Science and Technology",
+    "url":"/focus/en/people/k0001_05788.html"
+  }
+,
+  {
+    "tag":"000027193",
+    "name":"清水 千華",
+    "position":"Project Research Associate",
+    "affiliation":"Graduate School of Economics",
+    "url":"/focus/en/people/k0001_05787.html"
+  }
+,
+  {
+    "tag":"000027190",
+    "name":"TANAKA Tatsuki",
+    "position":"Project Research Associate",
+    "affiliation":"Graduate School of Science",
+    "url":"/focus/en/people/k0001_05784.html"
+  }
+,
+  {
+    "tag":"000027188",
+    "name":"SHOJI Ayako",
+    "position":"Project Research Associate",
+    "affiliation":"Graduate School of Pharmaceutical Sciences",
+    "url":"/focus/en/people/k0001_05782.html"
+  }
+,
+  {
+    "tag":"000027187",
+    "name":"NISHIMOTO Keita",
+    "position":"Project Research Associate",
+    "affiliation":"Graduate School of Engineering",
+    "url":"/focus/en/people/k0001_05781.html"
+  }
+,
+  {
+    "tag":"000027185",
+    "name":"SAKURADA Kuniharu",
+    "position":"Project Research Associate",
+    "affiliation":"Research Center for Advanced Science and Technology",
+    "url":"/focus/en/people/k0001_05779.html"
+  }
+,
+  {
+    "tag":"000027184",
+    "name":"ISHIMOTO Yuki",
+    "position":"Project Associate Professor",
+    "affiliation":"Research Center for Advanced Science and Technology",
+    "url":"/focus/en/people/k0001_05778.html"
+  }
+,
+  {
+    "tag":"000027183",
+    "name":"YOSHIMOTO Sho",
+    "position":"Project Associate Professor",
+    "affiliation":"Graduate School of Public Policy",
+    "url":"/focus/en/people/k0001_05777.html"
+  }
+,
+  {
+    "tag":"000027182",
+    "name":"KOTANI Daisuke",
+    "position":"Project Research Associate",
+    "affiliation":"Global Environment Data Commons",
+    "url":"/focus/en/people/k0001_05776.html"
+  }
+,
+  {
+    "tag":"000027180",
+    "name":"SHIRABE Ritsuko",
+    "position":"Project Research Associate",
+    "affiliation":"University Hospital",
+    "url":"/focus/en/people/k0001_05774.html"
+  }
+,
+  {
+    "tag":"000027178",
+    "name":"KUROSAWA Takumu",
+    "position":"Project Research Associate",
+    "affiliation":"Graduate School of Education",
+    "url":"/focus/en/people/k0001_05772.html"
+  }
+,
+  {
+    "tag":"000027177",
+    "name":"YAMAGUCHI Satoshi",
+    "position":"Project Research Associate",
+    "affiliation":"Graduate School of Education",
+    "url":"/focus/en/people/k0001_05771.html"
+  }
+,
+  {
+    "tag":"000027176",
+    "name":"MATSUSHITA Yuichiro",
+    "position":"Project Associate Professor",
+    "affiliation":"Graduate School of Science",
+    "url":"/focus/en/people/k0001_05770.html"
+  }
+,
+  {
+    "tag":"000027175",
+    "name":"ORIYAMA Toyohito",
+    "position":"Research Associate",
+    "affiliation":"University Hospital",
+    "url":"/focus/en/people/k0001_05769.html"
+  }
+,
+  {
+    "tag":"000027174",
+    "name":"OGAWA Mizuki",
+    "position":"Project Research Associate",
+    "affiliation":"Graduate School of Agricultural and Life Sciences",
+    "url":"/focus/en/people/k0001_05768.html"
+  }
+,
+  {
+    "tag":"000027171",
+    "name":"CHINEN Yoshiyuki",
+    "position":"Project Research Associate",
+    "affiliation":"Graduate School of Agricultural and Life Sciences",
+    "url":"/focus/en/people/k0001_05765.html"
+  }
+,
+  {
+    "tag":"000027170",
+    "name":"NISHIZAWA Kohei",
+    "position":"Project Research Associate",
+    "affiliation":"Graduate School of Science",
+    "url":"/focus/en/people/k0001_05764.html"
+  }
+,
+  {
+    "tag":"000027166",
+    "name":"BANDO Yosuke",
+    "position":"Associate Professor",
+    "affiliation":"Graduate School of Humanities and Sociology",
+    "url":"/focus/en/people/k0001_05760.html"
+  }
+,
+  {
+    "tag":"000027161",
+    "name":"ASAOKA Hiroki",
+    "position":"Research Associate",
+    "affiliation":"Graduate School of Medicine",
+    "url":"/focus/en/people/k0001_05755.html"
+  }
+,
+  {
+    "tag":"000027160",
+    "name":"HONDA Takumi",
+    "position":"Associate Professor",
+    "affiliation":"Information Technology Center",
+    "url":"/focus/en/people/k0001_05754.html"
+  }
+,
+  {
+    "tag":"000027159",
+    "name":"OGAWA Fumiaki",
+    "position":"Project Research Associate",
+    "affiliation":"Research Center for Advanced Science and Technology",
+    "url":"/focus/en/people/k0001_05753.html"
+  }
+,
+  {
+    "tag":"000027158",
+    "name":"HAYAKAWA Ko",
+    "position":"Project Associate Professor",
+    "affiliation":"Research Center for Advanced Science and Technology",
+    "url":"/focus/en/people/k0001_05752.html"
+  }
+,
+  {
     "tag":"000027157",
     "name":"SHO Kojiro",
     "position":"Associate Professor",
@@ -14,6 +190,14 @@
     "position":"Research Associate",
     "affiliation":"University Hospital",
     "url":"/focus/en/people/k0001_05749.html"
+  }
+,
+  {
+    "tag":"000027152",
+    "name":"BELOUAD CHRIS",
+    "position":"Associate Professor",
+    "affiliation":"College of Arts and Sciences",
+    "url":"/focus/en/people/k0001_05746.html"
   }
 ,
   {
@@ -137,11 +321,27 @@
   }
 ,
   {
+    "tag":"000027125",
+    "name":"BAEK JEONGHUN",
+    "position":"Research Associate",
+    "affiliation":"Graduate School of Information Science and Technology",
+    "url":"/focus/en/people/k0001_05719.html"
+  }
+,
+  {
     "tag":"000027120",
     "name":"KUBOTA Tomoyuki",
     "position":"Project Research Associate",
     "affiliation":"Graduate School of Information Science and Technology",
     "url":"/focus/en/people/k0001_05714.html"
+  }
+,
+  {
+    "tag":"000027119",
+    "name":"Deeksha",
+    "position":"Project Research Associate",
+    "affiliation":"Center for Spatial Information Science",
+    "url":"/focus/en/people/k0001_05713.html"
   }
 ,
   {
