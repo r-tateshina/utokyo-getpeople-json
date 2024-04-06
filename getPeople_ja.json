@@ -1,11 +1,187 @@
 [
 
   {
+    "tag":"000027108",
+    "name":"羽多野　一磨",
+    "position":"准教授",
+    "affiliation":"大学院情報学環",
+    "url":"/focus/ja/people/k0001_05702.html"
+  }
+,
+  {
+    "tag":"000027107",
+    "name":"石橋　真帆",
+    "position":"特任助教",
+    "affiliation":"大学院情報学環",
+    "url":"/focus/ja/people/k0001_05701.html"
+  }
+,
+  {
+    "tag":"000027104",
+    "name":"森田　祟文",
+    "position":"助教",
+    "affiliation":"大学院情報学環",
+    "url":"/focus/ja/people/k0001_05698.html"
+  }
+,
+  {
+    "tag":"000027099",
+    "name":"江口　晃弘",
+    "position":"特任助教",
+    "affiliation":"先端科学技術研究センター",
+    "url":"/focus/ja/people/k0001_05693.html"
+  }
+,
+  {
+    "tag":"000027093",
+    "name":"栗栖　美菜子",
+    "position":"講師",
+    "affiliation":"大気海洋研究所",
+    "url":"/focus/ja/people/k0001_05687.html"
+  }
+,
+  {
+    "tag":"000027092",
+    "name":"高木　悠花",
+    "position":"准教授",
+    "affiliation":"大気海洋研究所",
+    "url":"/focus/ja/people/k0001_05686.html"
+  }
+,
+  {
+    "tag":"000027091",
+    "name":"高橋　千陽",
+    "position":"特任助教",
+    "affiliation":"大気海洋研究所",
+    "url":"/focus/ja/people/k0001_05685.html"
+  }
+,
+  {
+    "tag":"000027090",
+    "name":"辻川　夕貴",
+    "position":"特任助教",
+    "affiliation":"物性研究所",
+    "url":"/focus/ja/people/k0001_05684.html"
+  }
+,
+  {
+    "tag":"000027088",
+    "name":"近藤　雅起",
+    "position":"助教",
+    "affiliation":"物性研究所",
+    "url":"/focus/ja/people/k0001_05682.html"
+  }
+,
+  {
+    "tag":"000027087",
+    "name":"林　浩章",
+    "position":"特任助教",
+    "affiliation":"物性研究所",
+    "url":"/focus/ja/people/k0001_05681.html"
+  }
+,
+  {
+    "tag":"000027084",
+    "name":"角　俊輔",
+    "position":"特任助教",
+    "affiliation":"定量生命科学研究所",
+    "url":"/focus/ja/people/k0001_05678.html"
+  }
+,
+  {
+    "tag":"000027081",
+    "name":"村上　孟謙",
+    "position":"助教",
+    "affiliation":"史料編纂所",
+    "url":"/focus/ja/people/k0001_05675.html"
+  }
+,
+  {
+    "tag":"000027079",
+    "name":"池谷　風馬",
+    "position":"特任助教",
+    "affiliation":"生産技術研究所",
+    "url":"/focus/ja/people/k0001_05673.html"
+  }
+,
+  {
+    "tag":"000027078",
+    "name":"田村　敦史",
+    "position":"特任助教",
+    "affiliation":"生産技術研究所",
+    "url":"/focus/ja/people/k0001_05672.html"
+  }
+,
+  {
+    "tag":"000027077",
+    "name":"羽佐田　紘之",
+    "position":"特任助教",
+    "affiliation":"生産技術研究所",
+    "url":"/focus/ja/people/k0001_05671.html"
+  }
+,
+  {
+    "tag":"000027073",
+    "name":"武藤　宝",
+    "position":"助教",
+    "affiliation":"生産技術研究所",
+    "url":"/focus/ja/people/k0001_05667.html"
+  }
+,
+  {
+    "tag":"000027072",
+    "name":"武田　智信",
+    "position":"特任助教",
+    "affiliation":"生産技術研究所",
+    "url":"/focus/ja/people/k0001_05666.html"
+  }
+,
+  {
+    "tag":"000027071",
+    "name":"檜垣　万里子",
+    "position":"准教授",
+    "affiliation":"生産技術研究所",
+    "url":"/focus/ja/people/k0001_05665.html"
+  }
+,
+  {
+    "tag":"000027064",
+    "name":"柴田　香奈子",
+    "position":"助教",
+    "affiliation":"社会科学研究所",
+    "url":"/focus/ja/people/k0001_05658.html"
+  }
+,
+  {
+    "tag":"000027060",
+    "name":"石井　秀明",
+    "position":"教授",
+    "affiliation":"大学院情報理工学系研究科",
+    "url":"/focus/ja/people/k0001_05654.html"
+  }
+,
+  {
+    "tag":"000027059",
+    "name":"瀬戸　富美子",
+    "position":"助教",
+    "affiliation":"医科学研究所",
+    "url":"/focus/ja/people/k0001_05653.html"
+  }
+,
+  {
     "tag":"000027058",
     "name":"平沼　亮祐",
     "position":"助教",
     "affiliation":"医科学研究所",
     "url":"/focus/ja/people/k0001_05652.html"
+  }
+,
+  {
+    "tag":"000027057",
+    "name":"WU JI",
+    "position":"助教",
+    "affiliation":"医科学研究所",
+    "url":"/focus/ja/people/k0001_05651.html"
   }
 ,
   {
@@ -113,6 +289,14 @@
   }
 ,
   {
+    "tag":"000027043",
+    "name":"SPRAGUE JR LEONARD W",
+    "position":"特任講師",
+    "affiliation":"グローバル教育センター",
+    "url":"/focus/ja/people/k0001_05637.html"
+  }
+,
+  {
     "tag":"000027042",
     "name":"汪　牧耘",
     "position":"特任助教",
@@ -166,6 +350,14 @@
     "position":"助教",
     "affiliation":"大学院総合文化研究科",
     "url":"/focus/ja/people/k0001_05630.html"
+  }
+,
+  {
+    "tag":"000027035",
+    "name":"JENA AJAY KUMAR",
+    "position":"特任准教授",
+    "affiliation":"大学院総合文化研究科",
+    "url":"/focus/ja/people/k0001_05629.html"
   }
 ,
   {
@@ -350,6 +542,14 @@
     "position":"准教授",
     "affiliation":"大学院人文社会系研究科",
     "url":"/focus/ja/people/k0001_05606.html"
+  }
+,
+  {
+    "tag":"000027011",
+    "name":"三原　芳秋",
+    "position":"准教授",
+    "affiliation":"大学院総合文化研究科",
+    "url":"/focus/ja/people/k0001_05605.html"
   }
 ,
   {

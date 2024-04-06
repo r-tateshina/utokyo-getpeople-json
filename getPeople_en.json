@@ -1,11 +1,187 @@
 [
 
   {
+    "tag":"000027108",
+    "name":"HATANO Kazuma",
+    "position":"Associate Professor",
+    "affiliation":"Interfaculty Initiative in Information Studies",
+    "url":"/focus/en/people/k0001_05702.html"
+  }
+,
+  {
+    "tag":"000027107",
+    "name":"ISHIBASHI Maho",
+    "position":"Project Research Associate",
+    "affiliation":"Interfaculty Initiative in Information Studies",
+    "url":"/focus/en/people/k0001_05701.html"
+  }
+,
+  {
+    "tag":"000027104",
+    "name":"MORITA Takafumi",
+    "position":"Research Associate",
+    "affiliation":"Interfaculty Initiative in Information Studies",
+    "url":"/focus/en/people/k0001_05698.html"
+  }
+,
+  {
+    "tag":"000027099",
+    "name":"EGUCHI Akihiro",
+    "position":"Project Research Associate",
+    "affiliation":"Research Center for Advanced Science and Technology",
+    "url":"/focus/en/people/k0001_05693.html"
+  }
+,
+  {
+    "tag":"000027093",
+    "name":"KURISU Minako",
+    "position":"Lecturer",
+    "affiliation":"Atmosphere and Ocean Research Institute",
+    "url":"/focus/en/people/k0001_05687.html"
+  }
+,
+  {
+    "tag":"000027092",
+    "name":"TAKAGI Haruka",
+    "position":"Associate Professor",
+    "affiliation":"Atmosphere and Ocean Research Institute",
+    "url":"/focus/en/people/k0001_05686.html"
+  }
+,
+  {
+    "tag":"000027091",
+    "name":"TAKAHASHI Chiharu",
+    "position":"Project Research Associate",
+    "affiliation":"Atmosphere and Ocean Research Institute",
+    "url":"/focus/en/people/k0001_05685.html"
+  }
+,
+  {
+    "tag":"000027090",
+    "name":"TSUJIKAWA Yuki",
+    "position":"Project Research Associate",
+    "affiliation":"Institute for Solid State Physics",
+    "url":"/focus/en/people/k0001_05684.html"
+  }
+,
+  {
+    "tag":"000027088",
+    "name":"KONDO Masaki",
+    "position":"Research Associate",
+    "affiliation":"Institute for Solid State Physics",
+    "url":"/focus/en/people/k0001_05682.html"
+  }
+,
+  {
+    "tag":"000027087",
+    "name":"HAYASHI Hiroaki",
+    "position":"Project Research Associate",
+    "affiliation":"Institute for Solid State Physics",
+    "url":"/focus/en/people/k0001_05681.html"
+  }
+,
+  {
+    "tag":"000027084",
+    "name":"SUMI Shunsuke",
+    "position":"Project Research Associate",
+    "affiliation":"Institute for Quantitative Biosciences",
+    "url":"/focus/en/people/k0001_05678.html"
+  }
+,
+  {
+    "tag":"000027081",
+    "name":"MURAKAMI Takenori",
+    "position":"Research Associate",
+    "affiliation":"Historiographical Institute",
+    "url":"/focus/en/people/k0001_05675.html"
+  }
+,
+  {
+    "tag":"000027079",
+    "name":"IKEYA Fuma",
+    "position":"Project Research Associate",
+    "affiliation":"Institute of Industrial Science",
+    "url":"/focus/en/people/k0001_05673.html"
+  }
+,
+  {
+    "tag":"000027078",
+    "name":"TAMURA Atsushi",
+    "position":"Project Research Associate",
+    "affiliation":"Institute of Industrial Science",
+    "url":"/focus/en/people/k0001_05672.html"
+  }
+,
+  {
+    "tag":"000027077",
+    "name":"HASADA Hiroyuki",
+    "position":"Project Research Associate",
+    "affiliation":"Institute of Industrial Science",
+    "url":"/focus/en/people/k0001_05671.html"
+  }
+,
+  {
+    "tag":"000027073",
+    "name":"MUTO Takara",
+    "position":"Research Associate",
+    "affiliation":"Institute of Industrial Science",
+    "url":"/focus/en/people/k0001_05667.html"
+  }
+,
+  {
+    "tag":"000027072",
+    "name":"TAKEDA Tomoaki",
+    "position":"Project Research Associate",
+    "affiliation":"Institute of Industrial Science",
+    "url":"/focus/en/people/k0001_05666.html"
+  }
+,
+  {
+    "tag":"000027071",
+    "name":"HIGAKI Mariko",
+    "position":"Associate Professor",
+    "affiliation":"Institute of Industrial Science",
+    "url":"/focus/en/people/k0001_05665.html"
+  }
+,
+  {
+    "tag":"000027064",
+    "name":"SHIBATA Kanako",
+    "position":"Research Associate",
+    "affiliation":"Institute of Social Science",
+    "url":"/focus/en/people/k0001_05658.html"
+  }
+,
+  {
+    "tag":"000027060",
+    "name":"ISHII Hideaki",
+    "position":"Professor",
+    "affiliation":"Graduate School of Information Science and Technology",
+    "url":"/focus/en/people/k0001_05654.html"
+  }
+,
+  {
+    "tag":"000027059",
+    "name":"SETO Fumiko",
+    "position":"Research Associate",
+    "affiliation":"Institute of Medical Science",
+    "url":"/focus/en/people/k0001_05653.html"
+  }
+,
+  {
     "tag":"000027058",
     "name":"HIRANUMA Ryosuke",
     "position":"Research Associate",
     "affiliation":"Institute of Medical Science",
     "url":"/focus/en/people/k0001_05652.html"
+  }
+,
+  {
+    "tag":"000027057",
+    "name":"WU JI",
+    "position":"Research Associate",
+    "affiliation":"Institute of Medical Science",
+    "url":"/focus/en/people/k0001_05651.html"
   }
 ,
   {
@@ -113,6 +289,14 @@
   }
 ,
   {
+    "tag":"000027043",
+    "name":"SPRAGUE JR LEONARD W",
+    "position":"Project Lecturer",
+    "affiliation":"Center for Global Education",
+    "url":"/focus/en/people/k0001_05637.html"
+  }
+,
+  {
     "tag":"000027042",
     "name":"汪 牧耘",
     "position":"Project Research Associate",
@@ -166,6 +350,14 @@
     "position":"Research Associate",
     "affiliation":"Graduate School of Arts and Sciences",
     "url":"/focus/en/people/k0001_05630.html"
+  }
+,
+  {
+    "tag":"000027035",
+    "name":"JENA AJAY KUMAR",
+    "position":"Project Associate Professor",
+    "affiliation":"Graduate School of Arts and Sciences",
+    "url":"/focus/en/people/k0001_05629.html"
   }
 ,
   {
@@ -350,6 +542,14 @@
     "position":"Associate Professor",
     "affiliation":"Graduate School of Humanities and Sociology",
     "url":"/focus/en/people/k0001_05606.html"
+  }
+,
+  {
+    "tag":"000027011",
+    "name":"MIHARA Yoshiaki",
+    "position":"Associate Professor",
+    "affiliation":"Graduate School of Arts and Sciences",
+    "url":"/focus/en/people/k0001_05605.html"
   }
 ,
   {
