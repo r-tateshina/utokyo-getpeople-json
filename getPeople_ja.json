@@ -1,6 +1,150 @@
 [
 
   {
+    "tag":"000027357",
+    "name":"小暮　孝道",
+    "position":"講師",
+    "affiliation":"医学部",
+    "url":"/focus/ja/people/k0001_05846.html"
+  }
+,
+  {
+    "tag":"000027355",
+    "name":"柳　秀一",
+    "position":"特任助教",
+    "affiliation":"定量生命科学研究所",
+    "url":"/focus/ja/people/k0001_05844.html"
+  }
+,
+  {
+    "tag":"000027353",
+    "name":"左右田　智美",
+    "position":"助教",
+    "affiliation":"生産技術研究所",
+    "url":"/focus/ja/people/k0001_05842.html"
+  }
+,
+  {
+    "tag":"000027352",
+    "name":"川口　允孝",
+    "position":"助教",
+    "affiliation":"地震研究所",
+    "url":"/focus/ja/people/k0001_05841.html"
+  }
+,
+  {
+    "tag":"000027351",
+    "name":"向山　順子",
+    "position":"助教",
+    "affiliation":"医科学研究所",
+    "url":"/focus/ja/people/k0001_05840.html"
+  }
+,
+  {
+    "tag":"000027349",
+    "name":"高安　優太郎",
+    "position":"特任助教",
+    "affiliation":"大学院経済学研究科",
+    "url":"/focus/ja/people/k0001_05838.html"
+  }
+,
+  {
+    "tag":"000027346",
+    "name":"山野　博哉",
+    "position":"教授",
+    "affiliation":"大学院理学系研究科",
+    "url":"/focus/ja/people/k0001_05835.html"
+  }
+,
+  {
+    "tag":"000027345",
+    "name":"横尾　舜平",
+    "position":"助教",
+    "affiliation":"大学院理学系研究科",
+    "url":"/focus/ja/people/k0001_05834.html"
+  }
+,
+  {
+    "tag":"000027343",
+    "name":"長谷川　龍一",
+    "position":"特任教授",
+    "affiliation":"大学院工学系研究科",
+    "url":"/focus/ja/people/k0001_05832.html"
+  }
+,
+  {
+    "tag":"000027342",
+    "name":"宮崎　邦洋",
+    "position":"特任助教",
+    "affiliation":"生産技術研究所",
+    "url":"/focus/ja/people/k0001_05831.html"
+  }
+,
+  {
+    "tag":"000027341",
+    "name":"呉羽　拓",
+    "position":"講師",
+    "affiliation":"大学院医学系研究科",
+    "url":"/focus/ja/people/k0001_05830.html"
+  }
+,
+  {
+    "tag":"000027340",
+    "name":"宮川　佑",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_05829.html"
+  }
+,
+  {
+    "tag":"000027338",
+    "name":"藤谷　茂太",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_05827.html"
+  }
+,
+  {
+    "tag":"000027337",
+    "name":"廣瀬　和俊",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_05826.html"
+  }
+,
+  {
+    "tag":"000027335",
+    "name":"稲田　誠",
+    "position":"助教",
+    "affiliation":"保健・健康推進本部",
+    "url":"/focus/ja/people/k0001_05824.html"
+  }
+,
+  {
+    "tag":"000027334",
+    "name":"篠原　宏樹",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_05823.html"
+  }
+,
+  {
+    "tag":"000027332",
+    "name":"松田　俊介",
+    "position":"助教",
+    "affiliation":"大学院人文社会系研究科",
+    "url":"/focus/ja/people/k0001_05821.html"
+  }
+,
+  {
+    "tag":"000027330",
+    "name":"胡　曜",
+    "position":"特任講師",
+    "affiliation":"情報基盤センター",
+    "url":"/focus/ja/people/k0001_05819.html"
+  }
+,
+  {
     "tag":"000027307",
     "name":"椙江　亮介",
     "position":"特任助教",
