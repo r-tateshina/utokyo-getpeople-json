@@ -1,6 +1,190 @@
 [
 
   {
+    "tag":"000027672",
+    "name":"玄　学南",
+    "position":"特任教授",
+    "affiliation":"医科学研究所",
+    "url":"/focus/ja/people/k0001_06003.html"
+  }
+,
+  {
+    "tag":"000027671",
+    "name":"澁谷　由紀",
+    "position":"特任助教",
+    "affiliation":"教養学部",
+    "url":"/focus/ja/people/k0001_06002.html"
+  }
+,
+  {
+    "tag":"000027670",
+    "name":"森　和宏",
+    "position":"特任助教",
+    "affiliation":"大学院教育学研究科",
+    "url":"/focus/ja/people/k0001_06001.html"
+  }
+,
+  {
+    "tag":"000027669",
+    "name":"馬場　祥史",
+    "position":"教授",
+    "affiliation":"大学院医学系研究科",
+    "url":"/focus/ja/people/k0001_06000.html"
+  }
+,
+  {
+    "tag":"000027667",
+    "name":"米田　淳",
+    "position":"准教授",
+    "affiliation":"大学院新領域創成科学研究科",
+    "url":"/focus/ja/people/k0001_05998.html"
+  }
+,
+  {
+    "tag":"000027662",
+    "name":"高橋　潤",
+    "position":"特任助教",
+    "affiliation":"医科学研究所",
+    "url":"/focus/ja/people/k0001_05993.html"
+  }
+,
+  {
+    "tag":"000027658",
+    "name":"高橋　慧崇",
+    "position":"特任助教",
+    "affiliation":"定量生命科学研究所",
+    "url":"/focus/ja/people/k0001_05989.html"
+  }
+,
+  {
+    "tag":"000027657",
+    "name":"木下　圭",
+    "position":"特任助教",
+    "affiliation":"生産技術研究所",
+    "url":"/focus/ja/people/k0001_05988.html"
+  }
+,
+  {
+    "tag":"000027656",
+    "name":"田端　祥太",
+    "position":"助教",
+    "affiliation":"生産技術研究所",
+    "url":"/focus/ja/people/k0001_05987.html"
+  }
+,
+  {
+    "tag":"000027652",
+    "name":"榎園　誠",
+    "position":"助教",
+    "affiliation":"大学院数理科学研究科",
+    "url":"/focus/ja/people/k0001_05983.html"
+  }
+,
+  {
+    "tag":"000027650",
+    "name":"竹野谷　美穂子",
+    "position":"特任助教",
+    "affiliation":"大学院総合文化研究科",
+    "url":"/focus/ja/people/k0001_05981.html"
+  }
+,
+  {
+    "tag":"000027644",
+    "name":"平山　真奈美",
+    "position":"准教授",
+    "affiliation":"大学院総合文化研究科",
+    "url":"/focus/ja/people/k0001_05975.html"
+  }
+,
+  {
+    "tag":"000027643",
+    "name":"田崎　亮",
+    "position":"助教",
+    "affiliation":"大学院総合文化研究科",
+    "url":"/focus/ja/people/k0001_05974.html"
+  }
+,
+  {
+    "tag":"000027642",
+    "name":"蔡　林",
+    "position":"特任助教",
+    "affiliation":"大学院総合文化研究科",
+    "url":"/focus/ja/people/k0001_05973.html"
+  }
+,
+  {
+    "tag":"000027631",
+    "name":"秦　斉",
+    "position":"助教",
+    "affiliation":"大学院医学系研究科",
+    "url":"/focus/ja/people/k0001_05962.html"
+  }
+,
+  {
+    "tag":"000027630",
+    "name":"野中　孝浩",
+    "position":"特任教授",
+    "affiliation":"医学部",
+    "url":"/focus/ja/people/k0001_05961.html"
+  }
+,
+  {
+    "tag":"000027626",
+    "name":"田島　諒子",
+    "position":"特任助教",
+    "affiliation":"大学院医学系研究科",
+    "url":"/focus/ja/people/k0001_05957.html"
+  }
+,
+  {
+    "tag":"000027625",
+    "name":"柳　定賢",
+    "position":"講師",
+    "affiliation":"グローバル教育センター",
+    "url":"/focus/ja/people/k0001_05956.html"
+  }
+,
+  {
+    "tag":"000027623",
+    "name":"酒井　優",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_05954.html"
+  }
+,
+  {
+    "tag":"000027615",
+    "name":"鹿島　哲彦",
+    "position":"特任助教",
+    "affiliation":"大学院薬学系研究科",
+    "url":"/focus/ja/people/k0001_05946.html"
+  }
+,
+  {
+    "tag":"000027613",
+    "name":"長田　礎",
+    "position":"助教",
+    "affiliation":"大学院工学系研究科",
+    "url":"/focus/ja/people/k0001_05944.html"
+  }
+,
+  {
+    "tag":"000027611",
+    "name":"石崎　章仁",
+    "position":"教授",
+    "affiliation":"大学院理学系研究科",
+    "url":"/focus/ja/people/k0001_05942.html"
+  }
+,
+  {
+    "tag":"000027610",
+    "name":"有冨　尚紀",
+    "position":"助教",
+    "affiliation":"大学院工学系研究科",
+    "url":"/focus/ja/people/k0001_05941.html"
+  }
+,
+  {
     "tag":"000027574",
     "name":"池田　伸太郎",
     "position":"特任准教授",

@@ -1,6 +1,190 @@
 [
 
   {
+    "tag":"000027672",
+    "name":"玄 学南",
+    "position":"Project Professor",
+    "affiliation":"Institute of Medical Science",
+    "url":"/focus/en/people/k0001_06003.html"
+  }
+,
+  {
+    "tag":"000027671",
+    "name":"SHIBUYA Yuki",
+    "position":"Project Research Associate",
+    "affiliation":"College of Arts and Sciences",
+    "url":"/focus/en/people/k0001_06002.html"
+  }
+,
+  {
+    "tag":"000027670",
+    "name":"MORI Kazuhiro",
+    "position":"Project Research Associate",
+    "affiliation":"Graduate School of Education",
+    "url":"/focus/en/people/k0001_06001.html"
+  }
+,
+  {
+    "tag":"000027669",
+    "name":"BABA Yoshifumi",
+    "position":"Professor",
+    "affiliation":"Graduate School of Medicine",
+    "url":"/focus/en/people/k0001_06000.html"
+  }
+,
+  {
+    "tag":"000027667",
+    "name":"YONEDA Jun",
+    "position":"Associate Professor",
+    "affiliation":"Graduate School of Frontier Sciences",
+    "url":"/focus/en/people/k0001_05998.html"
+  }
+,
+  {
+    "tag":"000027662",
+    "name":"TAKAHASHI Jun",
+    "position":"Project Research Associate",
+    "affiliation":"Institute of Medical Science",
+    "url":"/focus/en/people/k0001_05993.html"
+  }
+,
+  {
+    "tag":"000027658",
+    "name":"TAKAHASHI Keishu",
+    "position":"Project Research Associate",
+    "affiliation":"Institute for Quantitative Biosciences",
+    "url":"/focus/en/people/k0001_05989.html"
+  }
+,
+  {
+    "tag":"000027657",
+    "name":"KINOSHITA Kei",
+    "position":"Project Research Associate",
+    "affiliation":"Institute of Industrial Science",
+    "url":"/focus/en/people/k0001_05988.html"
+  }
+,
+  {
+    "tag":"000027656",
+    "name":"TABATA Shota",
+    "position":"Research Associate",
+    "affiliation":"Institute of Industrial Science",
+    "url":"/focus/en/people/k0001_05987.html"
+  }
+,
+  {
+    "tag":"000027652",
+    "name":"ENOKIZONO Makoto",
+    "position":"Research Associate",
+    "affiliation":"Graduate School of Mathematical Science",
+    "url":"/focus/en/people/k0001_05983.html"
+  }
+,
+  {
+    "tag":"000027650",
+    "name":"TAKENOYA Mihoko",
+    "position":"Project Research Associate",
+    "affiliation":"Graduate School of Arts and Sciences",
+    "url":"/focus/en/people/k0001_05981.html"
+  }
+,
+  {
+    "tag":"000027644",
+    "name":"HIRAYAMA Manami",
+    "position":"Associate Professor",
+    "affiliation":"Graduate School of Arts and Sciences",
+    "url":"/focus/en/people/k0001_05975.html"
+  }
+,
+  {
+    "tag":"000027643",
+    "name":"TAZAKI Ryo",
+    "position":"Research Associate",
+    "affiliation":"Graduate School of Arts and Sciences",
+    "url":"/focus/en/people/k0001_05974.html"
+  }
+,
+  {
+    "tag":"000027642",
+    "name":"蔡 林",
+    "position":"Project Research Associate",
+    "affiliation":"Graduate School of Arts and Sciences",
+    "url":"/focus/en/people/k0001_05973.html"
+  }
+,
+  {
+    "tag":"000027631",
+    "name":"秦 斉",
+    "position":"Research Associate",
+    "affiliation":"Graduate School of Medicine",
+    "url":"/focus/en/people/k0001_05962.html"
+  }
+,
+  {
+    "tag":"000027630",
+    "name":"NONAKA Takahiro",
+    "position":"Project Professor",
+    "affiliation":"Faculty of Medicine",
+    "url":"/focus/en/people/k0001_05961.html"
+  }
+,
+  {
+    "tag":"000027626",
+    "name":"TAJIMA Ryoko",
+    "position":"Project Research Associate",
+    "affiliation":"Graduate School of Medicine",
+    "url":"/focus/en/people/k0001_05957.html"
+  }
+,
+  {
+    "tag":"000027625",
+    "name":"柳 定賢",
+    "position":"Lecturer",
+    "affiliation":"Center for Global Education",
+    "url":"/focus/en/people/k0001_05956.html"
+  }
+,
+  {
+    "tag":"000027623",
+    "name":"SAKAI Yu",
+    "position":"Research Associate",
+    "affiliation":"University Hospital",
+    "url":"/focus/en/people/k0001_05954.html"
+  }
+,
+  {
+    "tag":"000027615",
+    "name":"KASHIMA Tetsuhiko",
+    "position":"Project Research Associate",
+    "affiliation":"Graduate School of Pharmaceutical Sciences",
+    "url":"/focus/en/people/k0001_05946.html"
+  }
+,
+  {
+    "tag":"000027613",
+    "name":"OSADA Motoki",
+    "position":"Research Associate",
+    "affiliation":"Graduate School of Engineering",
+    "url":"/focus/en/people/k0001_05944.html"
+  }
+,
+  {
+    "tag":"000027611",
+    "name":"ISHIZAKI Akihito",
+    "position":"Professor",
+    "affiliation":"Graduate School of Science",
+    "url":"/focus/en/people/k0001_05942.html"
+  }
+,
+  {
+    "tag":"000027610",
+    "name":"ARITOMI Naoki",
+    "position":"Research Associate",
+    "affiliation":"Graduate School of Engineering",
+    "url":"/focus/en/people/k0001_05941.html"
+  }
+,
+  {
     "tag":"000027574",
     "name":"IKEDA Shintaro",
     "position":"Project Associate Professor",
