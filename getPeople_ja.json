@@ -25,11 +25,27 @@
   }
 ,
   {
+    "tag":"000028017",
+    "name":"LIU　MING",
+    "position":"特任助教",
+    "affiliation":"生産技術研究所",
+    "url":"/focus/ja/people/k0001_06070.html"
+  }
+,
+  {
     "tag":"000028016",
     "name":"松嶋　達也",
     "position":"特任助教",
     "affiliation":"大学院工学系研究科",
     "url":"/focus/ja/people/k0001_06069.html"
+  }
+,
+  {
+    "tag":"000028015",
+    "name":"古府　麻衣子",
+    "position":"教授",
+    "affiliation":"物性研究所",
+    "url":"/focus/ja/people/k0001_06068.html"
   }
 ,
   {
@@ -57,11 +73,35 @@
   }
 ,
   {
+    "tag":"000028011",
+    "name":"反町　典子",
+    "position":"教授",
+    "affiliation":"大学院理学系研究科",
+    "url":"/focus/ja/people/k0001_06064.html"
+  }
+,
+  {
     "tag":"000028010",
     "name":"橋本　和樹",
     "position":"助教",
     "affiliation":"大学院理学系研究科",
     "url":"/focus/ja/people/k0001_06063.html"
+  }
+,
+  {
+    "tag":"000028009",
+    "name":"Lu Yuanming",
+    "position":"特任教授",
+    "affiliation":"物性研究所",
+    "url":"/focus/ja/people/k0001_06062.html"
+  }
+,
+  {
+    "tag":"000028008",
+    "name":"IYER VENKAT",
+    "position":"特任准教授",
+    "affiliation":"大学院総合文化研究科",
+    "url":"/focus/ja/people/k0001_06061.html"
   }
 ,
   {
@@ -121,11 +161,51 @@
   }
 ,
   {
+    "tag":"000028000",
+    "name":"CHENG BOHAN",
+    "position":"助教",
+    "affiliation":"大学院工学系研究科",
+    "url":"/focus/ja/people/k0001_06053.html"
+  }
+,
+  {
+    "tag":"000027999",
+    "name":"友滝　愛",
+    "position":"特任准教授",
+    "affiliation":"大学院医学系研究科",
+    "url":"/focus/ja/people/k0001_06052.html"
+  }
+,
+  {
     "tag":"000027998",
     "name":"宮島　倫生",
     "position":"特任准教授",
     "affiliation":"大学院医学系研究科",
     "url":"/focus/ja/people/k0001_06051.html"
+  }
+,
+  {
+    "tag":"000027997",
+    "name":"亀井　亮佑",
+    "position":"助教",
+    "affiliation":"大学院医学系研究科",
+    "url":"/focus/ja/people/k0001_06050.html"
+  }
+,
+  {
+    "tag":"000027996",
+    "name":"GENOT BAPTISTE SYLVA",
+    "position":"特任助教",
+    "affiliation":"大学院新領域創成科学研究科",
+    "url":"/focus/ja/people/k0001_06049.html"
+  }
+,
+  {
+    "tag":"000027995",
+    "name":"佐藤　玄",
+    "position":"助教",
+    "affiliation":"大学院農学生命科学研究科",
+    "url":"/focus/ja/people/k0001_06048.html"
   }
 ,
   {
