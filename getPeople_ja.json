@@ -1,6 +1,398 @@
 [
 
   {
+    "tag":"000028312",
+    "name":"田尻　智哉",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_06198.html"
+  }
+,
+  {
+    "tag":"000028311",
+    "name":"佐藤　未悠",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_06197.html"
+  }
+,
+  {
+    "tag":"000028310",
+    "name":"佐藤　理亮",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_06196.html"
+  }
+,
+  {
+    "tag":"000028309",
+    "name":"服部　ゆかり",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_06195.html"
+  }
+,
+  {
+    "tag":"000028308",
+    "name":"安田　陽平",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_06194.html"
+  }
+,
+  {
+    "tag":"000028307",
+    "name":"中野　陽介",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_06193.html"
+  }
+,
+  {
+    "tag":"000028306",
+    "name":"中村　優太",
+    "position":"特任助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_06192.html"
+  }
+,
+  {
+    "tag":"000028305",
+    "name":"望月　哲郎",
+    "position":"特任助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_06191.html"
+  }
+,
+  {
+    "tag":"000028304",
+    "name":"長原　智子",
+    "position":"特任助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_06190.html"
+  }
+,
+  {
+    "tag":"000028303",
+    "name":"鈴木　裕美子",
+    "position":"特任助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_06189.html"
+  }
+,
+  {
+    "tag":"000028302",
+    "name":"浅見　優介",
+    "position":"特任助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_06188.html"
+  }
+,
+  {
+    "tag":"000028301",
+    "name":"佐藤　裕子",
+    "position":"特任助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_06187.html"
+  }
+,
+  {
+    "tag":"000028300",
+    "name":"坂本　直也",
+    "position":"特任助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_06186.html"
+  }
+,
+  {
+    "tag":"000028299",
+    "name":"中川　万理恵",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_06185.html"
+  }
+,
+  {
+    "tag":"000028298",
+    "name":"金　喜栄",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_06184.html"
+  }
+,
+  {
+    "tag":"000028297",
+    "name":"中村　甫",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_06183.html"
+  }
+,
+  {
+    "tag":"000028296",
+    "name":"矢野　瑞貴",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_06182.html"
+  }
+,
+  {
+    "tag":"000028295",
+    "name":"小田　啓奈",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_06181.html"
+  }
+,
+  {
+    "tag":"000028294",
+    "name":"浅妻　佑衣",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_06180.html"
+  }
+,
+  {
+    "tag":"000028293",
+    "name":"磯谷　亮輔",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_06179.html"
+  }
+,
+  {
+    "tag":"000028292",
+    "name":"小丸　陽平",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_06178.html"
+  }
+,
+  {
+    "tag":"000028291",
+    "name":"山口　美保",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_06177.html"
+  }
+,
+  {
+    "tag":"000028290",
+    "name":"増田　桃佳",
+    "position":"助教",
+    "affiliation":"大学院医学系研究科",
+    "url":"/focus/ja/people/k0001_06176.html"
+  }
+,
+  {
+    "tag":"000028289",
+    "name":"福田　裕太",
+    "position":"特任助教",
+    "affiliation":"大学院医学系研究科",
+    "url":"/focus/ja/people/k0001_06175.html"
+  }
+,
+  {
+    "tag":"000028288",
+    "name":"関　光里",
+    "position":"特任助教",
+    "affiliation":"大学院医学系研究科",
+    "url":"/focus/ja/people/k0001_06174.html"
+  }
+,
+  {
+    "tag":"000028287",
+    "name":"堂園　鏡介",
+    "position":"特任助教",
+    "affiliation":"大学院医学系研究科",
+    "url":"/focus/ja/people/k0001_06173.html"
+  }
+,
+  {
+    "tag":"000028286",
+    "name":"福田　開人",
+    "position":"特任助教",
+    "affiliation":"大学院医学系研究科",
+    "url":"/focus/ja/people/k0001_06172.html"
+  }
+,
+  {
+    "tag":"000028285",
+    "name":"滝沢　知大",
+    "position":"助教",
+    "affiliation":"大学院医学系研究科",
+    "url":"/focus/ja/people/k0001_06171.html"
+  }
+,
+  {
+    "tag":"000028284",
+    "name":"福井　美苗",
+    "position":"特任助教",
+    "affiliation":"大学院医学系研究科",
+    "url":"/focus/ja/people/k0001_06170.html"
+  }
+,
+  {
+    "tag":"000028283",
+    "name":"新井　奈々",
+    "position":"助教",
+    "affiliation":"大学院医学系研究科",
+    "url":"/focus/ja/people/k0001_06169.html"
+  }
+,
+  {
+    "tag":"000028282",
+    "name":"飯山　智史",
+    "position":"特任助教",
+    "affiliation":"大学院医学系研究科",
+    "url":"/focus/ja/people/k0001_06168.html"
+  }
+,
+  {
+    "tag":"000028281",
+    "name":"坪坂　歩",
+    "position":"助教",
+    "affiliation":"大学院医学系研究科",
+    "url":"/focus/ja/people/k0001_06167.html"
+  }
+,
+  {
+    "tag":"000028280",
+    "name":"大澤　一太",
+    "position":"助教",
+    "affiliation":"大学院医学系研究科",
+    "url":"/focus/ja/people/k0001_06166.html"
+  }
+,
+  {
+    "tag":"000028279",
+    "name":"深川　彰彦",
+    "position":"助教",
+    "affiliation":"大学院医学系研究科",
+    "url":"/focus/ja/people/k0001_06165.html"
+  }
+,
+  {
+    "tag":"000028278",
+    "name":"佐藤　豪",
+    "position":"助教",
+    "affiliation":"大学院医学系研究科",
+    "url":"/focus/ja/people/k0001_06164.html"
+  }
+,
+  {
+    "tag":"000028277",
+    "name":"池永　知誓子",
+    "position":"助教",
+    "affiliation":"大学院医学系研究科",
+    "url":"/focus/ja/people/k0001_06163.html"
+  }
+,
+  {
+    "tag":"000028276",
+    "name":"長尾　昌紀",
+    "position":"助教",
+    "affiliation":"大学院医学系研究科",
+    "url":"/focus/ja/people/k0001_06162.html"
+  }
+,
+  {
+    "tag":"000028275",
+    "name":"城内　愛",
+    "position":"助教",
+    "affiliation":"大学院医学系研究科",
+    "url":"/focus/ja/people/k0001_06161.html"
+  }
+,
+  {
+    "tag":"000028274",
+    "name":"ZHANG SIDI",
+    "position":"助教",
+    "affiliation":"大学院医学系研究科",
+    "url":"/focus/ja/people/k0001_06160.html"
+  }
+,
+  {
+    "tag":"000028273",
+    "name":"寳田　雅治",
+    "position":"特任助教",
+    "affiliation":"大学院薬学系研究科",
+    "url":"/focus/ja/people/k0001_06159.html"
+  }
+,
+  {
+    "tag":"000028272",
+    "name":"橋本　芳樹",
+    "position":"特任助教",
+    "affiliation":"大学院薬学系研究科",
+    "url":"/focus/ja/people/k0001_06158.html"
+  }
+,
+  {
+    "tag":"000028271",
+    "name":"山根　三奈",
+    "position":"特任助教",
+    "affiliation":"大学院薬学系研究科",
+    "url":"/focus/ja/people/k0001_06157.html"
+  }
+,
+  {
+    "tag":"000028270",
+    "name":"勝瀬　一登",
+    "position":"助教",
+    "affiliation":"保健・健康推進本部",
+    "url":"/focus/ja/people/k0001_06156.html"
+  }
+,
+  {
+    "tag":"000028269",
+    "name":"彦谷　貴子",
+    "position":"教授",
+    "affiliation":"グローバル教育センター",
+    "url":"/focus/ja/people/k0001_06155.html"
+  }
+,
+  {
+    "tag":"000028268",
+    "name":"門脇　友莉",
+    "position":"助教",
+    "affiliation":"保健・健康推進本部",
+    "url":"/focus/ja/people/k0001_06154.html"
+  }
+,
+  {
+    "tag":"000028267",
+    "name":"立花　孝裕",
+    "position":"助教",
+    "affiliation":"文書館",
+    "url":"/focus/ja/people/k0001_06153.html"
+  }
+,
+  {
+    "tag":"000028266",
+    "name":"岡田　潤",
+    "position":"特任助教",
+    "affiliation":"大学院新領域創成科学研究科",
+    "url":"/focus/ja/people/k0001_06152.html"
+  }
+,
+  {
+    "tag":"000028265",
+    "name":"西嶋　傑",
+    "position":"特任准教授",
+    "affiliation":"大学院新領域創成科学研究科",
+    "url":"/focus/ja/people/k0001_06151.html"
+  }
+,
+  {
+    "tag":"000028264",
+    "name":"井上　孟流",
+    "position":"特任助教",
+    "affiliation":"大学院新領域創成科学研究科",
+    "url":"/focus/ja/people/k0001_06150.html"
+  }
+,
+  {
     "tag":"000028263",
     "name":"杉野　正和",
     "position":"助教",
@@ -94,6 +486,14 @@
     "position":"教授",
     "affiliation":"大学院法学政治学研究科",
     "url":"/focus/ja/people/k0001_06138.html"
+  }
+,
+  {
+    "tag":"000028251",
+    "name":"GOVINDARAJAN USHARAN",
+    "position":"特任助教",
+    "affiliation":"未来ビジョン研究センター",
+    "url":"/focus/ja/people/k0001_06137.html"
   }
 ,
   {
