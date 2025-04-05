@@ -1,6 +1,190 @@
 [
 
   {
+    "tag":"000028358",
+    "name":"遠藤　健",
+    "position":"特任講師",
+    "affiliation":"大学院情報学環",
+    "url":"/focus/ja/people/k0001_06244.html"
+  }
+,
+  {
+    "tag":"000028357",
+    "name":"植原　亮",
+    "position":"准教授",
+    "affiliation":"大学院情報学環",
+    "url":"/focus/ja/people/k0001_06243.html"
+  }
+,
+  {
+    "tag":"000028356",
+    "name":"水野　祥",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_06242.html"
+  }
+,
+  {
+    "tag":"000028354",
+    "name":"稲葉　慶",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_06240.html"
+  }
+,
+  {
+    "tag":"000028352",
+    "name":"進藤　彰人",
+    "position":"特任助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_06238.html"
+  }
+,
+  {
+    "tag":"000028349",
+    "name":"高才　東",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_06235.html"
+  }
+,
+  {
+    "tag":"000028346",
+    "name":"足達　信哉",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_06232.html"
+  }
+,
+  {
+    "tag":"000028344",
+    "name":"高宮　章裕",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_06230.html"
+  }
+,
+  {
+    "tag":"000028341",
+    "name":"枝村　達磨",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_06227.html"
+  }
+,
+  {
+    "tag":"000028340",
+    "name":"森川　涼介",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_06226.html"
+  }
+,
+  {
+    "tag":"000028338",
+    "name":"菅原　史晃",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_06224.html"
+  }
+,
+  {
+    "tag":"000028337",
+    "name":"高野　隼",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_06223.html"
+  }
+,
+  {
+    "tag":"000028336",
+    "name":"海永　光洋",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_06222.html"
+  }
+,
+  {
+    "tag":"000028334",
+    "name":"西本　遼輝",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_06220.html"
+  }
+,
+  {
+    "tag":"000028333",
+    "name":"金川　泰大",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_06219.html"
+  }
+,
+  {
+    "tag":"000028328",
+    "name":"牛島　俊征",
+    "position":"特任助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_06214.html"
+  }
+,
+  {
+    "tag":"000028323",
+    "name":"甲田　研人",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_06209.html"
+  }
+,
+  {
+    "tag":"000028320",
+    "name":"須田　祥平",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_06206.html"
+  }
+,
+  {
+    "tag":"000028319",
+    "name":"阿部　茜",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_06205.html"
+  }
+,
+  {
+    "tag":"000028318",
+    "name":"白鳥　広志",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_06204.html"
+  }
+,
+  {
+    "tag":"000028315",
+    "name":"栗山　卓也",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_06201.html"
+  }
+,
+  {
+    "tag":"000028314",
+    "name":"窪田　雅之",
+    "position":"特任助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_06200.html"
+  }
+,
+  {
+    "tag":"000028313",
+    "name":"高砂　恵",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_06199.html"
+  }
+,
+  {
     "tag":"000028312",
     "name":"田尻　智哉",
     "position":"助教",
