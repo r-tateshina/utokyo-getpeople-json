@@ -1,11 +1,227 @@
 [
 
   {
+    "tag":"000028512",
+    "name":"GOTO Yukimi",
+    "position":"Research Associate",
+    "affiliation":"Graduate School of Mathematical Science",
+    "url":"/focus/en/people/k0001_06394.html"
+  }
+,
+  {
+    "tag":"000028511",
+    "name":"OKADA Izumi",
+    "position":"Associate Professor",
+    "affiliation":"Graduate School of Mathematical Science",
+    "url":"/focus/en/people/k0001_06393.html"
+  }
+,
+  {
+    "tag":"000028509",
+    "name":"IRYO Takamasa",
+    "position":"Professor",
+    "affiliation":"Graduate School of Engineering",
+    "url":"/focus/en/people/k0001_06391.html"
+  }
+,
+  {
+    "tag":"000028508",
+    "name":"HARA Masatoshi",
+    "position":"Associate Professor",
+    "affiliation":"Graduate School of Science",
+    "url":"/focus/en/people/k0001_06390.html"
+  }
+,
+  {
+    "tag":"000028504",
+    "name":"GOMI Ryota",
+    "position":"Project Associate Professor",
+    "affiliation":"Graduate School of Engineering",
+    "url":"/focus/en/people/k0001_06386.html"
+  }
+,
+  {
+    "tag":"000028503",
+    "name":"TERASHITA Kazuhiro",
+    "position":"Lecturer",
+    "affiliation":"Graduate School of Arts and Sciences",
+    "url":"/focus/en/people/k0001_06385.html"
+  }
+,
+  {
+    "tag":"000028498",
+    "name":"SUETSUGU Shota",
+    "position":"Associate Professor",
+    "affiliation":"Graduate School of Engineering",
+    "url":"/focus/en/people/k0001_06380.html"
+  }
+,
+  {
+    "tag":"000028497",
+    "name":"KATO Kohei",
+    "position":"Research Associate",
+    "affiliation":"Graduate School of Arts and Sciences",
+    "url":"/focus/en/people/k0001_06379.html"
+  }
+,
+  {
+    "tag":"000028491",
+    "name":"KOBAYASHI Kenji",
+    "position":"Associate Professor",
+    "affiliation":"Graduate School of Agricultural and Life Sciences",
+    "url":"/focus/en/people/k0001_06373.html"
+  }
+,
+  {
+    "tag":"000028489",
+    "name":"ONO Fumi",
+    "position":"Project Research Associate",
+    "affiliation":"Graduate School of Medicine",
+    "url":"/focus/en/people/k0001_06371.html"
+  }
+,
+  {
+    "tag":"000028487",
+    "name":"KUNIMITSU Mao",
+    "position":"Lecturer",
+    "affiliation":"Graduate School of Medicine",
+    "url":"/focus/en/people/k0001_06369.html"
+  }
+,
+  {
+    "tag":"000028486",
+    "name":"HIRAISHI Koki",
+    "position":"Associate Professor",
+    "affiliation":"Graduate School of Education",
+    "url":"/focus/en/people/k0001_06368.html"
+  }
+,
+  {
+    "tag":"000028485",
+    "name":"YAMAMOTO Yuichi",
+    "position":"Professor",
+    "affiliation":"Graduate School of Economics",
+    "url":"/focus/en/people/k0001_06367.html"
+  }
+,
+  {
+    "tag":"000028484",
+    "name":"NAKANO Yuko",
+    "position":"Associate Professor",
+    "affiliation":"Graduate School of Humanities and Sociology",
+    "url":"/focus/en/people/k0001_06366.html"
+  }
+,
+  {
+    "tag":"000028481",
+    "name":"TANSKY MAXYM",
+    "position":"Project Research Associate",
+    "affiliation":"Graduate School of Engineering",
+    "url":"/focus/en/people/k0001_06363.html"
+  }
+,
+  {
+    "tag":"000028479",
+    "name":"PALUDA ANDREJ",
+    "position":"Project Research Associate",
+    "affiliation":"Institute for Quantitative Biosciences",
+    "url":"/focus/en/people/k0001_06361.html"
+  }
+,
+  {
+    "tag":"000028476",
+    "name":"YAN DONGYANG",
+    "position":"Project Research Associate",
+    "affiliation":"Graduate School of Information Science and Technology",
+    "url":"/focus/en/people/k0001_06358.html"
+  }
+,
+  {
+    "tag":"000028475",
+    "name":"JI XIANG",
+    "position":"Project Research Associate",
+    "affiliation":"Graduate School of Information Science and Technology",
+    "url":"/focus/en/people/k0001_06357.html"
+  }
+,
+  {
+    "tag":"000028474",
+    "name":"MIYOSHI Hiroyuki",
+    "position":"Research Associate",
+    "affiliation":"Graduate School of Information Science and Technology",
+    "url":"/focus/en/people/k0001_06356.html"
+  }
+,
+  {
+    "tag":"000028473",
+    "name":"YI SHENGZHOU",
+    "position":"Project Research Associate",
+    "affiliation":"Graduate School of Information Science and Technology",
+    "url":"/focus/en/people/k0001_06355.html"
+  }
+,
+  {
+    "tag":"000028471",
+    "name":"MA JUE",
+    "position":"Project Research Associate",
+    "affiliation":"Center for Spatial Information Science",
+    "url":"/focus/en/people/k0001_06353.html"
+  }
+,
+  {
+    "tag":"000028470",
+    "name":"UCHIKATA Nami",
+    "position":"Project Research Associate",
+    "affiliation":"Institute for Cosmic Ray Research",
+    "url":"/focus/en/people/k0001_06352.html"
+  }
+,
+  {
+    "tag":"000028469",
+    "name":"YOSHINO Jiro",
+    "position":"Project Research Associate",
+    "affiliation":"Graduate School of Science",
+    "url":"/focus/en/people/k0001_06351.html"
+  }
+,
+  {
+    "tag":"000028467",
+    "name":"SHEN YAFAN",
+    "position":"Project Research Associate",
+    "affiliation":"University Museum",
+    "url":"/focus/en/people/k0001_06349.html"
+  }
+,
+  {
+    "tag":"000028464",
+    "name":"周 千寓",
+    "position":"Project Research Associate",
+    "affiliation":"Research Center for Advanced Science and Technology",
+    "url":"/focus/en/people/k0001_06346.html"
+  }
+,
+  {
     "tag":"000028410",
     "name":"ISHIDE Akira",
     "position":"Lecturer",
     "affiliation":"Graduate School of Economics",
     "url":"/focus/en/people/k0001_06296.html"
+  }
+,
+  {
+    "tag":"000028409",
+    "name":"DENG SONGQIU",
+    "position":"Research Associate",
+    "affiliation":"Graduate School of Agricultural and Life Sciences",
+    "url":"/focus/en/people/k0001_06295.html"
+  }
+,
+  {
+    "tag":"000028408",
+    "name":"PEI HUIQING",
+    "position":"Research Associate",
+    "affiliation":"Graduate School of Agricultural and Life Sciences",
+    "url":"/focus/en/people/k0001_06294.html"
   }
 ,
   {
@@ -25,6 +241,70 @@
   }
 ,
   {
+    "tag":"000028405",
+    "name":"CHIGIRA Koki",
+    "position":"Research Associate",
+    "affiliation":"Graduate School of Agricultural and Life Sciences",
+    "url":"/focus/en/people/k0001_06291.html"
+  }
+,
+  {
+    "tag":"000028404",
+    "name":"ITO Takehiro",
+    "position":"Research Associate",
+    "affiliation":"Graduate School of Agricultural and Life Sciences",
+    "url":"/focus/en/people/k0001_06290.html"
+  }
+,
+  {
+    "tag":"000028403",
+    "name":"NAKAZATO Issei",
+    "position":"Project Research Associate",
+    "affiliation":"Graduate School of Agricultural and Life Sciences",
+    "url":"/focus/en/people/k0001_06289.html"
+  }
+,
+  {
+    "tag":"000028402",
+    "name":"NAKAHATA Ryo",
+    "position":"Research Associate",
+    "affiliation":"Graduate School of Agricultural and Life Sciences",
+    "url":"/focus/en/people/k0001_06288.html"
+  }
+,
+  {
+    "tag":"000028401",
+    "name":"OKUI Haruka",
+    "position":"Research Associate",
+    "affiliation":"Graduate School of Science",
+    "url":"/focus/en/people/k0001_06287.html"
+  }
+,
+  {
+    "tag":"000028400",
+    "name":"SANO Fumiya",
+    "position":"Project Research Associate",
+    "affiliation":"Graduate School of Science",
+    "url":"/focus/en/people/k0001_06286.html"
+  }
+,
+  {
+    "tag":"000028399",
+    "name":"YORITA Kohei",
+    "position":"Professor",
+    "affiliation":"Graduate School of Science",
+    "url":"/focus/en/people/k0001_06285.html"
+  }
+,
+  {
+    "tag":"000028398",
+    "name":"KASEN DANIEL NATHAN",
+    "position":"Project Professor",
+    "affiliation":"Graduate School of Science",
+    "url":"/focus/en/people/k0001_06284.html"
+  }
+,
+  {
     "tag":"000028397",
     "name":"ISHIZAKI Kazuki",
     "position":"Project Research Associate",
@@ -38,6 +318,22 @@
     "position":"Project Research Associate",
     "affiliation":"Graduate School of Science",
     "url":"/focus/en/people/k0001_06282.html"
+  }
+,
+  {
+    "tag":"000028395",
+    "name":"MAEHARA Hideki",
+    "position":"Project Research Associate",
+    "affiliation":"Graduate School of Science",
+    "url":"/focus/en/people/k0001_06281.html"
+  }
+,
+  {
+    "tag":"000028394",
+    "name":"OTOMO Yohei",
+    "position":"Project Research Associate",
+    "affiliation":"Graduate School of Science",
+    "url":"/focus/en/people/k0001_06280.html"
   }
 ,
   {
@@ -81,6 +377,30 @@
   }
 ,
   {
+    "tag":"000028387",
+    "name":"呉 家旭",
+    "position":"Project Research Associate",
+    "affiliation":"Graduate School of Engineering",
+    "url":"/focus/en/people/k0001_06273.html"
+  }
+,
+  {
+    "tag":"000028386",
+    "name":"IGAUE Takuya",
+    "position":"Project Research Associate",
+    "affiliation":"Graduate School of Engineering",
+    "url":"/focus/en/people/k0001_06272.html"
+  }
+,
+  {
+    "tag":"000028385",
+    "name":"Lopez Gejo Francisco",
+    "position":"Project Professor",
+    "affiliation":"Institute for Cosmic Ray Research",
+    "url":"/focus/en/people/k0001_06271.html"
+  }
+,
+  {
     "tag":"000028384",
     "name":"TSUJI Naomi",
     "position":"Research Associate",
@@ -102,6 +422,14 @@
     "position":"Project Research Associate",
     "affiliation":"Graduate School of Engineering",
     "url":"/focus/en/people/k0001_06267.html"
+  }
+,
+  {
+    "tag":"000028380",
+    "name":"NIKAIDO Kiyoshi",
+    "position":"Research Associate",
+    "affiliation":"Graduate School of Engineering",
+    "url":"/focus/en/people/k0001_06266.html"
   }
 ,
   {
@@ -145,11 +473,35 @@
   }
 ,
   {
+    "tag":"000028374",
+    "name":"KOIKE Taichi",
+    "position":"Research Associate",
+    "affiliation":"Graduate School of Engineering",
+    "url":"/focus/en/people/k0001_06260.html"
+  }
+,
+  {
     "tag":"000028373",
     "name":"HONDA Haruka",
     "position":"Project Research Associate",
     "affiliation":"Graduate School of Engineering",
     "url":"/focus/en/people/k0001_06259.html"
+  }
+,
+  {
+    "tag":"000028372",
+    "name":"KOYAMA Yuki",
+    "position":"Associate Professor",
+    "affiliation":"Graduate School of Engineering",
+    "url":"/focus/en/people/k0001_06258.html"
+  }
+,
+  {
+    "tag":"000028371",
+    "name":"YOSHIE Shun",
+    "position":"Lecturer",
+    "affiliation":"Graduate School of Engineering",
+    "url":"/focus/en/people/k0001_06257.html"
   }
 ,
   {
@@ -177,11 +529,51 @@
   }
 ,
   {
+    "tag":"000028367",
+    "name":"MUKAI Hiroto",
+    "position":"Research Associate",
+    "affiliation":"Graduate School of Engineering",
+    "url":"/focus/en/people/k0001_06253.html"
+  }
+,
+  {
     "tag":"000028366",
     "name":"YAMADA Naoki",
     "position":"Research Associate",
     "affiliation":"Graduate School of Engineering",
     "url":"/focus/en/people/k0001_06252.html"
+  }
+,
+  {
+    "tag":"000028365",
+    "name":"JI XI",
+    "position":"Project Research Associate",
+    "affiliation":"Graduate School of Engineering",
+    "url":"/focus/en/people/k0001_06251.html"
+  }
+,
+  {
+    "tag":"000028364",
+    "name":"CHEN HAN",
+    "position":"Project Research Associate",
+    "affiliation":"Graduate School of Engineering",
+    "url":"/focus/en/people/k0001_06250.html"
+  }
+,
+  {
+    "tag":"000028363",
+    "name":"LI YUANZHE",
+    "position":"Project Research Associate",
+    "affiliation":"Graduate School of Engineering",
+    "url":"/focus/en/people/k0001_06249.html"
+  }
+,
+  {
+    "tag":"000028362",
+    "name":"FASTIER-WOOLLER JARR",
+    "position":"Project Research Associate",
+    "affiliation":"Graduate School of Engineering",
+    "url":"/focus/en/people/k0001_06248.html"
   }
 ,
   {
@@ -27795,7 +28187,7 @@
   {
     "tag":"000015289",
     "name":"OKUYAMA Teruhiro",
-    "position":"Associate Professor",
+    "position":"Professor",
     "affiliation":"Institute for Quantitative Biosciences",
     "url":"/focus/en/people/k0001_00243.html"
   }
@@ -40819,7 +41211,7 @@
   {
     "tag":"000011322",
     "name":"OWARI Toshiaki",
-    "position":"Associate Professor",
+    "position":"Professor",
     "affiliation":"Graduate School of Agricultural and Life Sciences",
     "url":"/focus/en/people/people000976.html"
   }
