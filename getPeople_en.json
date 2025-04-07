@@ -201,6 +201,198 @@
   }
 ,
   {
+    "tag":"000028462",
+    "name":"郭 建麗",
+    "position":"Research Associate",
+    "affiliation":"Graduate School of Engineering",
+    "url":"/focus/en/people/k0001_06344.html"
+  }
+,
+  {
+    "tag":"000028461",
+    "name":"梁 イェリム",
+    "position":"Project Research Associate",
+    "affiliation":"Graduate School of Engineering",
+    "url":"/focus/en/people/k0001_06343.html"
+  }
+,
+  {
+    "tag":"000028456",
+    "name":"SHIMIZU Yusei",
+    "position":"Research Associate",
+    "affiliation":"Institute for Solid State Physics",
+    "url":"/focus/en/people/k0001_06338.html"
+  }
+,
+  {
+    "tag":"000028455",
+    "name":"HATAZAWA Suguru",
+    "position":"Project Research Associate",
+    "affiliation":"Institute for Quantitative Biosciences",
+    "url":"/focus/en/people/k0001_06337.html"
+  }
+,
+  {
+    "tag":"000028454",
+    "name":"KAWASAKI Koji",
+    "position":"Project Research Associate",
+    "affiliation":"Institute for Quantitative Biosciences",
+    "url":"/focus/en/people/k0001_06336.html"
+  }
+,
+  {
+    "tag":"000028450",
+    "name":"陳 柏宏",
+    "position":"Project Professor",
+    "affiliation":"Institute of Industrial Science",
+    "url":"/focus/en/people/k0001_06332.html"
+  }
+,
+  {
+    "tag":"000028445",
+    "name":"FUKUI Naoko",
+    "position":"Research Associate",
+    "affiliation":"Institute of Medical Science",
+    "url":"/focus/en/people/k0001_06327.html"
+  }
+,
+  {
+    "tag":"000028444",
+    "name":"KATORI Kazuki",
+    "position":"Research Associate",
+    "affiliation":"Graduate School of Science",
+    "url":"/focus/en/people/k0001_06326.html"
+  }
+,
+  {
+    "tag":"000028443",
+    "name":"INAGAKI Hideto",
+    "position":"Project Research Associate",
+    "affiliation":"Graduate School of Education",
+    "url":"/focus/en/people/k0001_06325.html"
+  }
+,
+  {
+    "tag":"000028442",
+    "name":"SUDO Rei",
+    "position":"Research Associate",
+    "affiliation":"Graduate School of Education",
+    "url":"/focus/en/people/k0001_06324.html"
+  }
+,
+  {
+    "tag":"000028441",
+    "name":"ISHIGURO Chiaki",
+    "position":"Associate Professor",
+    "affiliation":"Graduate School of Education",
+    "url":"/focus/en/people/k0001_06323.html"
+  }
+,
+  {
+    "tag":"000028439",
+    "name":"TAKAHASHI Kazuko",
+    "position":"Professor",
+    "affiliation":"Graduate School of Education",
+    "url":"/focus/en/people/k0001_06321.html"
+  }
+,
+  {
+    "tag":"000028436",
+    "name":"KIYONO Mai",
+    "position":"Project Research Associate",
+    "affiliation":"College of Arts and Sciences",
+    "url":"/focus/en/people/k0001_06318.html"
+  }
+,
+  {
+    "tag":"000028435",
+    "name":"MIZOGUCHI Yuhei",
+    "position":"Project Research Associate",
+    "affiliation":"Graduate School of Arts and Sciences",
+    "url":"/focus/en/people/k0001_06317.html"
+  }
+,
+  {
+    "tag":"000028433",
+    "name":"王 牧",
+    "position":"Lecturer",
+    "affiliation":"Graduate School of Arts and Sciences",
+    "url":"/focus/en/people/k0001_06315.html"
+  }
+,
+  {
+    "tag":"000028431",
+    "name":"KANDA Tomoki",
+    "position":"Research Associate",
+    "affiliation":"Graduate School of Arts and Sciences",
+    "url":"/focus/en/people/k0001_06313.html"
+  }
+,
+  {
+    "tag":"000028427",
+    "name":"AIKAWA Takuya",
+    "position":"Research Associate",
+    "affiliation":"Graduate School of Arts and Sciences",
+    "url":"/focus/en/people/k0001_06309.html"
+  }
+,
+  {
+    "tag":"000028425",
+    "name":"KAWASAKA Kazuyoshi",
+    "position":"Lecturer",
+    "affiliation":"Graduate School of Arts and Sciences",
+    "url":"/focus/en/people/k0001_06307.html"
+  }
+,
+  {
+    "tag":"000028424",
+    "name":"KOSHIKAKEZAWA Mai",
+    "position":"Associate Professor",
+    "affiliation":"Graduate School of Arts and Sciences",
+    "url":"/focus/en/people/k0001_06306.html"
+  }
+,
+  {
+    "tag":"000028422",
+    "name":"OKANO Shinya",
+    "position":"Lecturer",
+    "affiliation":"Graduate School of Arts and Sciences",
+    "url":"/focus/en/people/k0001_06304.html"
+  }
+,
+  {
+    "tag":"000028421",
+    "name":"KUWAYAMA Yukiko",
+    "position":"Lecturer",
+    "affiliation":"Graduate School of Arts and Sciences",
+    "url":"/focus/en/people/k0001_06303.html"
+  }
+,
+  {
+    "tag":"000028418",
+    "name":"YAMAMOTO Io",
+    "position":"Research Associate",
+    "affiliation":"Graduate School of Arts and Sciences",
+    "url":"/focus/en/people/k0001_06300.html"
+  }
+,
+  {
+    "tag":"000028416",
+    "name":"TAKEI Naoya",
+    "position":"Research Associate",
+    "affiliation":"Graduate School of Arts and Sciences",
+    "url":"/focus/en/people/k0001_06298.html"
+  }
+,
+  {
+    "tag":"000028415",
+    "name":"KANAZAWA Hideyuki",
+    "position":"Professor",
+    "affiliation":"Graduate School of Humanities and Sociology",
+    "url":"/focus/en/people/k0001_06297.html"
+  }
+,
+  {
     "tag":"000028410",
     "name":"ISHIDE Akira",
     "position":"Lecturer",
@@ -13403,7 +13595,7 @@
   {
     "tag":"000024248",
     "name":"SAKUYAMA Naoki",
-    "position":"Assistant Professor",
+    "position":"Senior Assistant Professor",
     "affiliation":"Institute of Medical Science",
     "url":"/focus/en/people/k0001_04248.html"
   }
@@ -16563,7 +16755,7 @@
   {
     "tag":"000021828",
     "name":"OHTA Miki",
-    "position":"Project Research Associate",
+    "position":"Project Senior Assistant Professor",
     "affiliation":"University Hospital",
     "url":"/focus/en/people/k0001_03580.html"
   }
@@ -27995,7 +28187,7 @@
   {
     "tag":"000015321",
     "name":"FUKUDA Masahiro",
-    "position":"Associate Professor",
+    "position":"Professor",
     "affiliation":"Graduate School of Humanities and Sociology",
     "url":"/focus/en/people/k0001_00275.html"
   }
@@ -33115,8 +33307,8 @@
   {
     "tag":"000010132",
     "name":"KOGA Michiko",
-    "position":"Lecturer",
-    "affiliation":"Institute of Medical Science",
+    "position":"Professor",
+    "affiliation":"Center for New Generation Infectious Diseases",
     "url":"/focus/en/people/people003530.html"
   }
 ,
