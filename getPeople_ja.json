@@ -1,6 +1,190 @@
 [
 
   {
+    "tag":"000028410",
+    "name":"石出　旭",
+    "position":"講師",
+    "affiliation":"大学院経済学研究科",
+    "url":"/focus/ja/people/k0001_06296.html"
+  }
+,
+  {
+    "tag":"000028407",
+    "name":"赤堀　真子",
+    "position":"特任助教",
+    "affiliation":"大学院農学生命科学研究科",
+    "url":"/focus/ja/people/k0001_06293.html"
+  }
+,
+  {
+    "tag":"000028406",
+    "name":"櫻井　建吾",
+    "position":"助教",
+    "affiliation":"大学院農学生命科学研究科",
+    "url":"/focus/ja/people/k0001_06292.html"
+  }
+,
+  {
+    "tag":"000028397",
+    "name":"石崎　一輝",
+    "position":"特任助教",
+    "affiliation":"大学院理学系研究科",
+    "url":"/focus/ja/people/k0001_06283.html"
+  }
+,
+  {
+    "tag":"000028396",
+    "name":"田邉　辰平",
+    "position":"特任助教",
+    "affiliation":"大学院理学系研究科",
+    "url":"/focus/ja/people/k0001_06282.html"
+  }
+,
+  {
+    "tag":"000028393",
+    "name":"小谷　祐希",
+    "position":"特任助教",
+    "affiliation":"大学院理学系研究科",
+    "url":"/focus/ja/people/k0001_06279.html"
+  }
+,
+  {
+    "tag":"000028392",
+    "name":"戸田　圭一郎",
+    "position":"特任助教",
+    "affiliation":"大学院理学系研究科",
+    "url":"/focus/ja/people/k0001_06278.html"
+  }
+,
+  {
+    "tag":"000028391",
+    "name":"平井　遥",
+    "position":"特任助教",
+    "affiliation":"大学院総合文化研究科",
+    "url":"/focus/ja/people/k0001_06277.html"
+  }
+,
+  {
+    "tag":"000028389",
+    "name":"矢口　直英",
+    "position":"助教",
+    "affiliation":"大学院人文社会系研究科",
+    "url":"/focus/ja/people/k0001_06275.html"
+  }
+,
+  {
+    "tag":"000028388",
+    "name":"橋爪　恵子",
+    "position":"講師",
+    "affiliation":"大学院人文社会系研究科",
+    "url":"/focus/ja/people/k0001_06274.html"
+  }
+,
+  {
+    "tag":"000028384",
+    "name":"辻　直美",
+    "position":"助教",
+    "affiliation":"宇宙線研究所",
+    "url":"/focus/ja/people/k0001_06270.html"
+  }
+,
+  {
+    "tag":"000028382",
+    "name":"成　永淑",
+    "position":"特任助教",
+    "affiliation":"大学院工学系研究科",
+    "url":"/focus/ja/people/k0001_06268.html"
+  }
+,
+  {
+    "tag":"000028381",
+    "name":"高　崇",
+    "position":"特任助教",
+    "affiliation":"大学院工学系研究科",
+    "url":"/focus/ja/people/k0001_06267.html"
+  }
+,
+  {
+    "tag":"000028379",
+    "name":"清水　宏太郎",
+    "position":"助教",
+    "affiliation":"大学院工学系研究科",
+    "url":"/focus/ja/people/k0001_06265.html"
+  }
+,
+  {
+    "tag":"000028378",
+    "name":"日置　恭史郎",
+    "position":"講師",
+    "affiliation":"大学院工学系研究科",
+    "url":"/focus/ja/people/k0001_06264.html"
+  }
+,
+  {
+    "tag":"000028377",
+    "name":"関　凜",
+    "position":"助教",
+    "affiliation":"大学院工学系研究科",
+    "url":"/focus/ja/people/k0001_06263.html"
+  }
+,
+  {
+    "tag":"000028376",
+    "name":"谷田部　浩行",
+    "position":"助教",
+    "affiliation":"大学院工学系研究科",
+    "url":"/focus/ja/people/k0001_06262.html"
+  }
+,
+  {
+    "tag":"000028375",
+    "name":"村松　駿",
+    "position":"助教",
+    "affiliation":"大学院工学系研究科",
+    "url":"/focus/ja/people/k0001_06261.html"
+  }
+,
+  {
+    "tag":"000028373",
+    "name":"本田　陽翔",
+    "position":"特任助教",
+    "affiliation":"大学院工学系研究科",
+    "url":"/focus/ja/people/k0001_06259.html"
+  }
+,
+  {
+    "tag":"000028370",
+    "name":"西村　洋亮",
+    "position":"助教",
+    "affiliation":"大学院工学系研究科",
+    "url":"/focus/ja/people/k0001_06256.html"
+  }
+,
+  {
+    "tag":"000028369",
+    "name":"豊田　尭博",
+    "position":"助教",
+    "affiliation":"大学院工学系研究科",
+    "url":"/focus/ja/people/k0001_06255.html"
+  }
+,
+  {
+    "tag":"000028368",
+    "name":"渡邊　晶斗",
+    "position":"助教",
+    "affiliation":"大学院工学系研究科",
+    "url":"/focus/ja/people/k0001_06254.html"
+  }
+,
+  {
+    "tag":"000028366",
+    "name":"山田　直生",
+    "position":"助教",
+    "affiliation":"大学院工学系研究科",
+    "url":"/focus/ja/people/k0001_06252.html"
+  }
+,
+  {
     "tag":"000028361",
     "name":"山崎　友香理",
     "position":"助教",
@@ -358,6 +542,14 @@
     "position":"助教",
     "affiliation":"医学部附属病院",
     "url":"/focus/ja/people/k0001_06203.html"
+  }
+,
+  {
+    "tag":"000028316",
+    "name":"三好　由希子",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_06202.html"
   }
 ,
   {
