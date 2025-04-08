@@ -201,6 +201,14 @@
   }
 ,
   {
+    "tag":"000028463",
+    "name":"OBUSHI Noriyasu",
+    "position":"Project Research Associate",
+    "affiliation":"Research Center for Advanced Science and Technology",
+    "url":"/focus/en/people/k0001_06345.html"
+  }
+,
+  {
     "tag":"000028462",
     "name":"郭 建麗",
     "position":"Research Associate",
@@ -214,6 +222,38 @@
     "position":"Project Research Associate",
     "affiliation":"Graduate School of Engineering",
     "url":"/focus/en/people/k0001_06343.html"
+  }
+,
+  {
+    "tag":"000028460",
+    "name":"XIA SHUJUAN",
+    "position":"Research Associate",
+    "affiliation":"Atmosphere and Ocean Research Institute",
+    "url":"/focus/en/people/k0001_06342.html"
+  }
+,
+  {
+    "tag":"000028459",
+    "name":"MINAMIDATE Kenta",
+    "position":"Research Associate",
+    "affiliation":"Graduate School of Science",
+    "url":"/focus/en/people/k0001_06341.html"
+  }
+,
+  {
+    "tag":"000028458",
+    "name":"SANO Ryotaro",
+    "position":"Research Associate",
+    "affiliation":"Institute for Solid State Physics",
+    "url":"/focus/en/people/k0001_06340.html"
+  }
+,
+  {
+    "tag":"000028457",
+    "name":"NAKAGAWA Kotaro",
+    "position":"Research Associate",
+    "affiliation":"Institute for Solid State Physics",
+    "url":"/focus/en/people/k0001_06339.html"
   }
 ,
   {
@@ -241,11 +281,67 @@
   }
 ,
   {
+    "tag":"000028453",
+    "name":"DACHER MARIKO ELEONO",
+    "position":"Project Research Associate",
+    "affiliation":"Institute for Quantitative Biosciences",
+    "url":"/focus/en/people/k0001_06335.html"
+  }
+,
+  {
+    "tag":"000028452",
+    "name":"SAHACHAISEREE SOMPOR",
+    "position":"Research Associate",
+    "affiliation":"Institute of Industrial Science",
+    "url":"/focus/en/people/k0001_06334.html"
+  }
+,
+  {
+    "tag":"000028451",
+    "name":"ISAWA Kaori",
+    "position":"Project Research Associate",
+    "affiliation":"Research Center for Advanced Science and Technology",
+    "url":"/focus/en/people/k0001_06333.html"
+  }
+,
+  {
     "tag":"000028450",
     "name":"陳 柏宏",
     "position":"Project Professor",
     "affiliation":"Institute of Industrial Science",
     "url":"/focus/en/people/k0001_06332.html"
+  }
+,
+  {
+    "tag":"000028449",
+    "name":"INUI Yayoi",
+    "position":"Project Research Associate",
+    "affiliation":"Graduate School of Frontier Sciences",
+    "url":"/focus/en/people/k0001_06331.html"
+  }
+,
+  {
+    "tag":"000028448",
+    "name":"YODA Shohei",
+    "position":"Associate Professor",
+    "affiliation":"Institute of Social Science",
+    "url":"/focus/en/people/k0001_06330.html"
+  }
+,
+  {
+    "tag":"000028447",
+    "name":"RIDGEON LLOYD VINCEN",
+    "position":"Professor",
+    "affiliation":"Institute for Advanced Studies on Asia",
+    "url":"/focus/en/people/k0001_06329.html"
+  }
+,
+  {
+    "tag":"000028446",
+    "name":"IMAIZUMI Jun",
+    "position":"Research Associate",
+    "affiliation":"Institute of Medical Science",
+    "url":"/focus/en/people/k0001_06328.html"
   }
 ,
   {
@@ -289,11 +385,35 @@
   }
 ,
   {
+    "tag":"000028440",
+    "name":"SHIN JUNGCHEOL",
+    "position":"Project Professor",
+    "affiliation":"Graduate School of Education",
+    "url":"/focus/en/people/k0001_06322.html"
+  }
+,
+  {
     "tag":"000028439",
     "name":"TAKAHASHI Kazuko",
     "position":"Professor",
     "affiliation":"Graduate School of Education",
     "url":"/focus/en/people/k0001_06321.html"
+  }
+,
+  {
+    "tag":"000028438",
+    "name":"OTAKI Reiko",
+    "position":"Lecturer",
+    "affiliation":"Graduate School of Education",
+    "url":"/focus/en/people/k0001_06320.html"
+  }
+,
+  {
+    "tag":"000028437",
+    "name":"HUANG WEI HAO",
+    "position":"Project Lecturer",
+    "affiliation":"Center for Global Education",
+    "url":"/focus/en/people/k0001_06319.html"
   }
 ,
   {
@@ -321,6 +441,14 @@
   }
 ,
   {
+    "tag":"000028432",
+    "name":"KATO Saori",
+    "position":"Research Associate",
+    "affiliation":"Graduate School of Arts and Sciences",
+    "url":"/focus/en/people/k0001_06314.html"
+  }
+,
+  {
     "tag":"000028431",
     "name":"KANDA Tomoki",
     "position":"Research Associate",
@@ -329,11 +457,43 @@
   }
 ,
   {
+    "tag":"000028430",
+    "name":"BILLERI MATTEO",
+    "position":"Associate Professor",
+    "affiliation":"College of Arts and Sciences",
+    "url":"/focus/en/people/k0001_06312.html"
+  }
+,
+  {
+    "tag":"000028429",
+    "name":"INOUE Kazuki",
+    "position":"Research Associate",
+    "affiliation":"Graduate School of Arts and Sciences",
+    "url":"/focus/en/people/k0001_06311.html"
+  }
+,
+  {
+    "tag":"000028428",
+    "name":"SATO Ryoto",
+    "position":"Research Associate",
+    "affiliation":"Graduate School of Arts and Sciences",
+    "url":"/focus/en/people/k0001_06310.html"
+  }
+,
+  {
     "tag":"000028427",
     "name":"AIKAWA Takuya",
     "position":"Research Associate",
     "affiliation":"Graduate School of Arts and Sciences",
     "url":"/focus/en/people/k0001_06309.html"
+  }
+,
+  {
+    "tag":"000028426",
+    "name":"YOSHIIKE Yuri",
+    "position":"Research Associate",
+    "affiliation":"Graduate School of Arts and Sciences",
+    "url":"/focus/en/people/k0001_06308.html"
   }
 ,
   {
@@ -353,6 +513,14 @@
   }
 ,
   {
+    "tag":"000028423",
+    "name":"HARAGUCHI Naoya",
+    "position":"Research Associate",
+    "affiliation":"Graduate School of Arts and Sciences",
+    "url":"/focus/en/people/k0001_06305.html"
+  }
+,
+  {
     "tag":"000028422",
     "name":"OKANO Shinya",
     "position":"Lecturer",
@@ -369,11 +537,35 @@
   }
 ,
   {
+    "tag":"000028420",
+    "name":"NAKAO Sakiko",
+    "position":"Lecturer",
+    "affiliation":"Graduate School of Arts and Sciences",
+    "url":"/focus/en/people/k0001_06302.html"
+  }
+,
+  {
+    "tag":"000028419",
+    "name":"OTA Hirofumi",
+    "position":"Project Research Associate",
+    "affiliation":"Graduate School of Arts and Sciences",
+    "url":"/focus/en/people/k0001_06301.html"
+  }
+,
+  {
     "tag":"000028418",
     "name":"YAMAMOTO Io",
     "position":"Research Associate",
     "affiliation":"Graduate School of Arts and Sciences",
     "url":"/focus/en/people/k0001_06300.html"
+  }
+,
+  {
+    "tag":"000028417",
+    "name":"DE LEON JEROME PITOG",
+    "position":"Project Research Associate",
+    "affiliation":"Graduate School of Arts and Sciences",
+    "url":"/focus/en/people/k0001_06299.html"
   }
 ,
   {
