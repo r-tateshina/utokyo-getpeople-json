@@ -8555,7 +8555,7 @@
   {
     "tag":"000026155",
     "name":"Heredia Perez Saul A",
-    "position":"特任助教",
+    "position":"助教",
     "affiliation":"大学院医学系研究科",
     "url":"/focus/ja/people/k0001_05268.html"
   }
@@ -12210,9 +12210,9 @@
 ,
   {
     "tag":"000024798",
-    "name":"LI　ZIHUI",
-    "position":"特任助教",
-    "affiliation":"情報基盤センター",
+    "name":"LI　ZIHUI (Irene)",
+    "position":"特任講師",
+    "affiliation":"大学院工学系研究科",
     "url":"/focus/ja/people/k0001_04616.html"
   }
 ,
@@ -23217,6 +23217,14 @@
   }
 ,
   {
+    "tag":"000017813",
+    "name":"高杉　奈緒",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_02167.html"
+  }
+,
+  {
     "tag":"000017812",
     "name":"近藤　早映",
     "position":"准教授",
@@ -29539,7 +29547,7 @@
   {
     "tag":"000015207",
     "name":"黒田　潤一郎",
-    "position":"准教授",
+    "position":"教授",
     "affiliation":"大気海洋研究所",
     "url":"/focus/ja/people/k0001_00161.html"
   }

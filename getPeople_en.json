@@ -2242,7 +2242,7 @@
 ,
   {
     "tag":"000028255",
-    "name":"ISHIKAWA Kodai",
+    "name":"ISHIKAWA Koudai",
     "position":"Research Associate",
     "affiliation":"Graduate Schools for Law and Politics",
     "url":"/focus/en/people/k0001_06141.html"
@@ -2370,8 +2370,8 @@
 ,
   {
     "tag":"000028239",
-    "name":"朴 燦鎬",
-    "position":"Research Associate",
+    "name":"PARK Chanho",
+    "position":"Assistant Professor",
     "affiliation":"Graduate School of Humanities and Sociology",
     "url":"/focus/en/people/k0001_06125.html"
   }
@@ -8555,7 +8555,7 @@
   {
     "tag":"000026155",
     "name":"Heredia Perez Saul A",
-    "position":"Project Research Associate",
+    "position":"Assistant Professor",
     "affiliation":"Graduate School of Medicine",
     "url":"/focus/en/people/k0001_05268.html"
   }
@@ -12210,9 +12210,9 @@
 ,
   {
     "tag":"000024798",
-    "name":"LI ZIHUI",
-    "position":"Project Research Associate",
-    "affiliation":"Information Technology Center",
+    "name":"Li Irene",
+    "position":"Project Senior Assistant Professor",
+    "affiliation":"Graduate School of Engineering",
     "url":"/focus/en/people/k0001_04616.html"
   }
 ,
@@ -23217,6 +23217,14 @@
   }
 ,
   {
+    "tag":"000017813",
+    "name":"TAKASUGI Nao",
+    "position":"Research Associate",
+    "affiliation":"University Hospital",
+    "url":"/focus/en/people/k0001_02167.html"
+  }
+,
+  {
     "tag":"000017812",
     "name":"KONDO Sae",
     "position":"Associate Professor",
@@ -29539,7 +29547,7 @@
   {
     "tag":"000015207",
     "name":"KURODA Junichiro",
-    "position":"Associate Professor",
+    "position":"Professor",
     "affiliation":"Atmosphere and Ocean Research Institute",
     "url":"/focus/en/people/k0001_00161.html"
   }
