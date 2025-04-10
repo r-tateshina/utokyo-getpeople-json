@@ -1,6 +1,22 @@
 [
 
   {
+    "tag":"000028558",
+    "name":"田川 欣哉",
+    "position":"Project Professor",
+    "affiliation":"College of Design Development Team",
+    "url":"/focus/en/people/k0001_06424.html"
+  }
+,
+  {
+    "tag":"000028557",
+    "name":"TOKUYASU Ken",
+    "position":"Project Professor",
+    "affiliation":"Institute for Planetary Health",
+    "url":"/focus/en/people/k0001_06423.html"
+  }
+,
+  {
     "tag":"000028540",
     "name":"TAKAHASHI Ken",
     "position":"Project Research Associate",
@@ -19417,6 +19433,14 @@
   }
 ,
   {
+    "tag":"000021072",
+    "name":"MORIWAKI Yuta",
+    "position":"Research Associate",
+    "affiliation":"University Hospital",
+    "url":"/focus/en/people/k0001_03118.html"
+  }
+,
+  {
     "tag":"000021071",
     "name":"FUJISAWA Kou",
     "position":"Research Associate",
@@ -34083,7 +34107,7 @@
   {
     "tag":"000010616",
     "name":"NAKAYA Shinji",
-    "position":"Associate Professor",
+    "position":"Professor",
     "affiliation":"Graduate School of Engineering",
     "url":"/focus/en/people/people003466.html"
   }

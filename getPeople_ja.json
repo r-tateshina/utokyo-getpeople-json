@@ -1,6 +1,22 @@
 [
 
   {
+    "tag":"000028558",
+    "name":"田川　欣哉",
+    "position":"特任教授",
+    "affiliation":"College of Design 企画調整室",
+    "url":"/focus/ja/people/k0001_06424.html"
+  }
+,
+  {
+    "tag":"000028557",
+    "name":"徳安　健",
+    "position":"特任教授",
+    "affiliation":"プラネタリーヘルス研究機構",
+    "url":"/focus/ja/people/k0001_06423.html"
+  }
+,
+  {
     "tag":"000028540",
     "name":"高橋　健",
     "position":"特任助教",
@@ -19417,6 +19433,14 @@
   }
 ,
   {
+    "tag":"000021072",
+    "name":"森脇　裕太",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_03118.html"
+  }
+,
+  {
     "tag":"000021071",
     "name":"藤澤　興",
     "position":"助教",
@@ -34083,7 +34107,7 @@
   {
     "tag":"000010616",
     "name":"中谷　辰爾",
-    "position":"准教授",
+    "position":"教授",
     "affiliation":"大学院工学系研究科",
     "url":"/focus/ja/people/people003466.html"
   }
