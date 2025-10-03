@@ -1,6 +1,14 @@
 [
 
   {
+    "tag":"000029072",
+    "name":"兵郷　喬哉",
+    "position":"特任助教",
+    "affiliation":"生産技術研究所",
+    "url":"/focus/ja/people/k0001_06610.html"
+  }
+,
+  {
     "tag":"000029070",
     "name":"芳賀　和美",
     "position":"特任助教",
@@ -14,6 +22,14 @@
     "position":"特任助教",
     "affiliation":"大学院医学系研究科",
     "url":"/focus/ja/people/k0001_06607.html"
+  }
+,
+  {
+    "tag":"000029068",
+    "name":"宮崎　敦子",
+    "position":"特任講師",
+    "affiliation":"先端科学技術研究センター",
+    "url":"/focus/ja/people/k0001_06606.html"
   }
 ,
   {
@@ -33,11 +49,43 @@
   }
 ,
   {
+    "tag":"000029062",
+    "name":"小林　篤史",
+    "position":"准教授",
+    "affiliation":"大学院経済学研究科",
+    "url":"/focus/ja/people/k0001_06600.html"
+  }
+,
+  {
+    "tag":"000029061",
+    "name":"Pawakapan Puangthong",
+    "position":"特任教授",
+    "affiliation":"東洋文化研究所",
+    "url":"/focus/ja/people/k0001_06599.html"
+  }
+,
+  {
     "tag":"000029060",
     "name":"松本　慎也",
     "position":"助教",
     "affiliation":"医学部附属病院",
     "url":"/focus/ja/people/k0001_06598.html"
+  }
+,
+  {
+    "tag":"000029059",
+    "name":"ZHANG TIANTIAN",
+    "position":"特任教授",
+    "affiliation":"物性研究所",
+    "url":"/focus/ja/people/k0001_06597.html"
+  }
+,
+  {
+    "tag":"000029058",
+    "name":"和知　慶樹",
+    "position":"助教",
+    "affiliation":"大学院工学系研究科",
+    "url":"/focus/ja/people/k0001_06596.html"
   }
 ,
   {
@@ -65,11 +113,27 @@
   }
 ,
   {
+    "tag":"000029053",
+    "name":"中島　壽視",
+    "position":"特任助教",
+    "affiliation":"大気海洋研究所",
+    "url":"/focus/ja/people/k0001_06591.html"
+  }
+,
+  {
     "tag":"000029051",
     "name":"長岡　勇也",
     "position":"特任助教",
     "affiliation":"定量生命科学研究所",
     "url":"/focus/ja/people/k0001_06589.html"
+  }
+,
+  {
+    "tag":"000029050",
+    "name":"中野　静香",
+    "position":"特任助教",
+    "affiliation":"生産技術研究所",
+    "url":"/focus/ja/people/k0001_06588.html"
   }
 ,
   {
@@ -89,6 +153,22 @@
   }
 ,
   {
+    "tag":"000029042",
+    "name":"吉田　博信",
+    "position":"助教",
+    "affiliation":"大学院理学系研究科",
+    "url":"/focus/ja/people/k0001_06580.html"
+  }
+,
+  {
+    "tag":"000029041",
+    "name":"VINK JACOB",
+    "position":"特任准教授",
+    "affiliation":"大学院理学系研究科",
+    "url":"/focus/ja/people/k0001_06579.html"
+  }
+,
+  {
     "tag":"000029040",
     "name":"麻生　洋一",
     "position":"教授",
@@ -97,11 +177,59 @@
   }
 ,
   {
+    "tag":"000029039",
+    "name":"向山　信治",
+    "position":"教授",
+    "affiliation":"大学院理学系研究科",
+    "url":"/focus/ja/people/k0001_06577.html"
+  }
+,
+  {
+    "tag":"000029038",
+    "name":"ZOU LUBING",
+    "position":"助教",
+    "affiliation":"大学院工学系研究科",
+    "url":"/focus/ja/people/k0001_06576.html"
+  }
+,
+  {
     "tag":"000029037",
     "name":"飯田　史也",
     "position":"教授",
     "affiliation":"大学院工学系研究科",
     "url":"/focus/ja/people/k0001_06575.html"
+  }
+,
+  {
+    "tag":"000029036",
+    "name":"内藤　智也",
+    "position":"特任助教",
+    "affiliation":"大学院工学系研究科",
+    "url":"/focus/ja/people/k0001_06574.html"
+  }
+,
+  {
+    "tag":"000029035",
+    "name":"ZENG JING",
+    "position":"特任助教",
+    "affiliation":"大学院工学系研究科",
+    "url":"/focus/ja/people/k0001_06573.html"
+  }
+,
+  {
+    "tag":"000029032",
+    "name":"RUAN HAOOU",
+    "position":"特任助教",
+    "affiliation":"大学院工学系研究科",
+    "url":"/focus/ja/people/k0001_06570.html"
+  }
+,
+  {
+    "tag":"000029031",
+    "name":"TRAN THI THU TRANG",
+    "position":"特任助教",
+    "affiliation":"大学院工学系研究科",
+    "url":"/focus/ja/people/k0001_06569.html"
   }
 ,
   {
@@ -129,11 +257,35 @@
   }
 ,
   {
+    "tag":"000029027",
+    "name":"今井　志織",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_06565.html"
+  }
+,
+  {
     "tag":"000029026",
     "name":"浦山　大紀",
     "position":"助教",
     "affiliation":"医学部附属病院",
     "url":"/focus/ja/people/k0001_06564.html"
+  }
+,
+  {
+    "tag":"000029025",
+    "name":"上田　崇貴",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_06563.html"
+  }
+,
+  {
+    "tag":"000029024",
+    "name":"小島　伸介",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_06562.html"
   }
 ,
   {
@@ -145,11 +297,35 @@
   }
 ,
   {
+    "tag":"000029022",
+    "name":"中嶋　荘太郎",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_06560.html"
+  }
+,
+  {
+    "tag":"000029021",
+    "name":"井上　双葉",
+    "position":"特任助教",
+    "affiliation":"保健・健康推進本部",
+    "url":"/focus/ja/people/k0001_06559.html"
+  }
+,
+  {
     "tag":"000029019",
     "name":"東條　真希",
     "position":"特任助教",
     "affiliation":"相談支援研究開発センター",
     "url":"/focus/ja/people/k0001_06557.html"
+  }
+,
+  {
+    "tag":"000029018",
+    "name":"宇野　瑛人",
+    "position":"准教授",
+    "affiliation":"大学院法学政治学研究科",
+    "url":"/focus/ja/people/k0001_06556.html"
   }
 ,
   {
@@ -174,6 +350,30 @@
     "position":"教授",
     "affiliation":"大学院理学系研究科",
     "url":"/focus/ja/people/k0001_06552.html"
+  }
+,
+  {
+    "tag":"000029013",
+    "name":"宮本　エジソン正",
+    "position":"助教",
+    "affiliation":"大学院総合文化研究科",
+    "url":"/focus/ja/people/k0001_06551.html"
+  }
+,
+  {
+    "tag":"000029012",
+    "name":"塚原　小百合",
+    "position":"特任助教",
+    "affiliation":"大学院理学系研究科",
+    "url":"/focus/ja/people/k0001_06550.html"
+  }
+,
+  {
+    "tag":"000029011",
+    "name":"SHI QUAN",
+    "position":"助教",
+    "affiliation":"大学院新領域創成科学研究科",
+    "url":"/focus/ja/people/k0001_06549.html"
   }
 ,
   {
