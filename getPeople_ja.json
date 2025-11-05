@@ -1,6 +1,142 @@
 [
 
   {
+    "tag":"000029133",
+    "name":"村上　敬亮",
+    "position":"特任教授",
+    "affiliation":"大学院公共政策学連携研究部",
+    "url":"/focus/ja/people/k0001_06637.html"
+  }
+,
+  {
+    "tag":"000029132",
+    "name":"小林　智哉",
+    "position":"特任助教",
+    "affiliation":"大学院医学系研究科",
+    "url":"/focus/ja/people/k0001_06636.html"
+  }
+,
+  {
+    "tag":"000029131",
+    "name":"石田　夏子",
+    "position":"特任助教",
+    "affiliation":"先端科学技術研究センター",
+    "url":"/focus/ja/people/k0001_06635.html"
+  }
+,
+  {
+    "tag":"000029127",
+    "name":"大庭　ジーナ未来",
+    "position":"特任助教",
+    "affiliation":"定量生命科学研究所",
+    "url":"/focus/ja/people/k0001_06631.html"
+  }
+,
+  {
+    "tag":"000029126",
+    "name":"水野　嶺",
+    "position":"特任准教授",
+    "affiliation":"史料編纂所",
+    "url":"/focus/ja/people/k0001_06630.html"
+  }
+,
+  {
+    "tag":"000029125",
+    "name":"竹島　功高",
+    "position":"助教",
+    "affiliation":"医科学研究所",
+    "url":"/focus/ja/people/k0001_06629.html"
+  }
+,
+  {
+    "tag":"000029122",
+    "name":"朴　建雄",
+    "position":"特任助教",
+    "affiliation":"大学院総合文化研究科",
+    "url":"/focus/ja/people/k0001_06626.html"
+  }
+,
+  {
+    "tag":"000029121",
+    "name":"大岩　雄典",
+    "position":"特任助教",
+    "affiliation":"大学院総合文化研究科",
+    "url":"/focus/ja/people/k0001_06625.html"
+  }
+,
+  {
+    "tag":"000029120",
+    "name":"西原　尚",
+    "position":"特任助教",
+    "affiliation":"大学院総合文化研究科",
+    "url":"/focus/ja/people/k0001_06624.html"
+  }
+,
+  {
+    "tag":"000029115",
+    "name":"大鳥　弘雅",
+    "position":"助教",
+    "affiliation":"大学院工学系研究科",
+    "url":"/focus/ja/people/k0001_06619.html"
+  }
+,
+  {
+    "tag":"000029114",
+    "name":"平田　猛",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_06618.html"
+  }
+,
+  {
+    "tag":"000029113",
+    "name":"岸川　理紗",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_06617.html"
+  }
+,
+  {
+    "tag":"000029112",
+    "name":"南野　安正",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_06616.html"
+  }
+,
+  {
+    "tag":"000029111",
+    "name":"秋山　拓也",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_06615.html"
+  }
+,
+  {
+    "tag":"000029110",
+    "name":"蔵並　慧",
+    "position":"特任助教",
+    "affiliation":"大学院医学系研究科",
+    "url":"/focus/ja/people/k0001_06614.html"
+  }
+,
+  {
+    "tag":"000029108",
+    "name":"賀　云野",
+    "position":"助教",
+    "affiliation":"大学院新領域創成科学研究科",
+    "url":"/focus/ja/people/k0001_06612.html"
+  }
+,
+  {
+    "tag":"000029107",
+    "name":"仲山　美沙子",
+    "position":"特任准教授",
+    "affiliation":"医科学研究所",
+    "url":"/focus/ja/people/k0001_06611.html"
+  }
+,
+  {
     "tag":"000029072",
     "name":"兵郷　喬哉",
     "position":"特任助教",
@@ -11922,7 +12058,7 @@
 ,
   {
     "tag":"000025400",
-    "name":"MARRESE TAYLOR EDISO",
+    "name":"MARRESE TAYLOR EDISON",
     "position":"特任助教",
     "affiliation":"大学院工学系研究科",
     "url":"/focus/ja/people/k0001_04840.html"
