@@ -1,6 +1,158 @@
 [
 
   {
+    "tag":"000029274",
+    "name":"大橋　亮",
+    "position":"特任助教",
+    "affiliation":"大学院情報理工学系研究科",
+    "url":"/focus/ja/people/k0001_06688.html"
+  }
+,
+  {
+    "tag":"000029273",
+    "name":"馬田　隆明",
+    "position":"特任准教授",
+    "affiliation":"産学協創推進本部",
+    "url":"/focus/ja/people/k0001_06687.html"
+  }
+,
+  {
+    "tag":"000029272",
+    "name":"菅原　岳人",
+    "position":"特任准教授",
+    "affiliation":"産学協創推進本部",
+    "url":"/focus/ja/people/k0001_06686.html"
+  }
+,
+  {
+    "tag":"000029268",
+    "name":"有澤　琴子",
+    "position":"特任講師",
+    "affiliation":"大学院農学生命科学研究科",
+    "url":"/focus/ja/people/k0001_06682.html"
+  }
+,
+  {
+    "tag":"000029267",
+    "name":"雷帆　たんじら",
+    "position":"特任助教",
+    "affiliation":"大学院農学生命科学研究科",
+    "url":"/focus/ja/people/k0001_06681.html"
+  }
+,
+  {
+    "tag":"000029265",
+    "name":"石川　祐希",
+    "position":"助教",
+    "affiliation":"定量生命科学研究所",
+    "url":"/focus/ja/people/k0001_06679.html"
+  }
+,
+  {
+    "tag":"000029263",
+    "name":"山本　章人",
+    "position":"特任准教授",
+    "affiliation":"医科学研究所",
+    "url":"/focus/ja/people/k0001_06677.html"
+  }
+,
+  {
+    "tag":"000029262",
+    "name":"安藤　匠平",
+    "position":"助教",
+    "affiliation":"医科学研究所",
+    "url":"/focus/ja/people/k0001_06676.html"
+  }
+,
+  {
+    "tag":"000029259",
+    "name":"山崎　陽子",
+    "position":"特任助教",
+    "affiliation":"大学院農学生命科学研究科",
+    "url":"/focus/ja/people/k0001_06673.html"
+  }
+,
+  {
+    "tag":"000029257",
+    "name":"白鳥　佐紀子",
+    "position":"准教授",
+    "affiliation":"大学院農学生命科学研究科",
+    "url":"/focus/ja/people/k0001_06671.html"
+  }
+,
+  {
+    "tag":"000029256",
+    "name":"牧野　由佳",
+    "position":"准教授",
+    "affiliation":"大学院農学生命科学研究科",
+    "url":"/focus/ja/people/k0001_06670.html"
+  }
+,
+  {
+    "tag":"000029254",
+    "name":"鈴木　史花",
+    "position":"特任助教",
+    "affiliation":"素粒子物理国際研究センター",
+    "url":"/focus/ja/people/k0001_06668.html"
+  }
+,
+  {
+    "tag":"000029252",
+    "name":"柳　至",
+    "position":"准教授",
+    "affiliation":"大学院理学系研究科",
+    "url":"/focus/ja/people/k0001_06666.html"
+  }
+,
+  {
+    "tag":"000029250",
+    "name":"神保　泰俊",
+    "position":"講師",
+    "affiliation":"大学院工学系研究科",
+    "url":"/focus/ja/people/k0001_06664.html"
+  }
+,
+  {
+    "tag":"000029249",
+    "name":"田中　峻",
+    "position":"助教",
+    "affiliation":"大学院工学系研究科",
+    "url":"/focus/ja/people/k0001_06663.html"
+  }
+,
+  {
+    "tag":"000029248",
+    "name":"瀬戸　瑛子",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_06662.html"
+  }
+,
+  {
+    "tag":"000029247",
+    "name":"橋本　昌樹",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_06661.html"
+  }
+,
+  {
+    "tag":"000029246",
+    "name":"秋山　玲奈",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_06660.html"
+  }
+,
+  {
+    "tag":"000029242",
+    "name":"王　小醒",
+    "position":"特任助教",
+    "affiliation":"生産技術研究所",
+    "url":"/focus/ja/people/k0001_06656.html"
+  }
+,
+  {
     "tag":"000029213",
     "name":"LEM WEY GUAN",
     "position":"特任助教",
