@@ -1,6 +1,206 @@
 [
 
   {
+    "tag":"000030539",
+    "name":"高谷　和樹",
+    "position":"特任助教",
+    "affiliation":"生産技術研究所",
+    "url":"/focus/ja/people/k0001_07030.html"
+  }
+,
+  {
+    "tag":"000030537",
+    "name":"麦田　真秀人",
+    "position":"特任助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_07028.html"
+  }
+,
+  {
+    "tag":"000030522",
+    "name":"高橋　一史",
+    "position":"助教",
+    "affiliation":"大学院理学系研究科",
+    "url":"/focus/ja/people/k0001_07013.html"
+  }
+,
+  {
+    "tag":"000030517",
+    "name":"高橋　知子",
+    "position":"講師",
+    "affiliation":"東洋文化研究所",
+    "url":"/focus/ja/people/k0001_07008.html"
+  }
+,
+  {
+    "tag":"000030504",
+    "name":"黒川　穂高",
+    "position":"助教",
+    "affiliation":"生産技術研究所",
+    "url":"/focus/ja/people/k0001_06995.html"
+  }
+,
+  {
+    "tag":"000030486",
+    "name":"鳥海　哲郎",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_06977.html"
+  }
+,
+  {
+    "tag":"000030485",
+    "name":"高橋　光成",
+    "position":"特任助教",
+    "affiliation":"宇宙線研究所",
+    "url":"/focus/ja/people/k0001_06976.html"
+  }
+,
+  {
+    "tag":"000030477",
+    "name":"青木　健",
+    "position":"特任講師",
+    "affiliation":"情報基盤センター",
+    "url":"/focus/ja/people/k0001_06968.html"
+  }
+,
+  {
+    "tag":"000030461",
+    "name":"高橋　一郎",
+    "position":"特任准教授",
+    "affiliation":"物性研究所",
+    "url":"/focus/ja/people/k0001_06952.html"
+  }
+,
+  {
+    "tag":"000030459",
+    "name":"青木　基",
+    "position":"助教",
+    "affiliation":"物性研究所",
+    "url":"/focus/ja/people/k0001_06950.html"
+  }
+,
+  {
+    "tag":"000030458",
+    "name":"須藤　健太",
+    "position":"助教",
+    "affiliation":"物性研究所",
+    "url":"/focus/ja/people/k0001_06949.html"
+  }
+,
+  {
+    "tag":"000030450",
+    "name":"高見澤　和彦",
+    "position":"助教",
+    "affiliation":"生産技術研究所",
+    "url":"/focus/ja/people/k0001_06941.html"
+  }
+,
+  {
+    "tag":"000030447",
+    "name":"高原　柚",
+    "position":"特任助教",
+    "affiliation":"生産技術研究所",
+    "url":"/focus/ja/people/k0001_06938.html"
+  }
+,
+  {
+    "tag":"000030446",
+    "name":"高羽　悠樹",
+    "position":"助教",
+    "affiliation":"生産技術研究所",
+    "url":"/focus/ja/people/k0001_06937.html"
+  }
+,
+  {
+    "tag":"000030440",
+    "name":"高森　翔",
+    "position":"助教",
+    "affiliation":"大学院総合文化研究科",
+    "url":"/focus/ja/people/k0001_06931.html"
+  }
+,
+  {
+    "tag":"000030410",
+    "name":"高木　翼",
+    "position":"助教",
+    "affiliation":"大学院総合文化研究科",
+    "url":"/focus/ja/people/k0001_06901.html"
+  }
+,
+  {
+    "tag":"000030400",
+    "name":"青木　誠志郎",
+    "position":"准教授",
+    "affiliation":"大学院総合文化研究科",
+    "url":"/focus/ja/people/k0001_06891.html"
+  }
+,
+  {
+    "tag":"000030399",
+    "name":"馬場　一貴",
+    "position":"助教",
+    "affiliation":"大学院経済学研究科",
+    "url":"/focus/ja/people/k0001_06890.html"
+  }
+,
+  {
+    "tag":"000030397",
+    "name":"鳥居　勇気",
+    "position":"特任助教",
+    "affiliation":"大学院農学生命科学研究科",
+    "url":"/focus/ja/people/k0001_06888.html"
+  }
+,
+  {
+    "tag":"000030349",
+    "name":"齋藤　俊樹",
+    "position":"教授",
+    "affiliation":"医学部",
+    "url":"/focus/ja/people/k0001_06840.html"
+  }
+,
+  {
+    "tag":"000030319",
+    "name":"鳥井　大輝",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_06810.html"
+  }
+,
+  {
+    "tag":"000030307",
+    "name":"鳥山　義郷",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_06798.html"
+  }
+,
+  {
+    "tag":"000030294",
+    "name":"高橋　秀臣",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_06785.html"
+  }
+,
+  {
+    "tag":"000030286",
+    "name":"高野　嘉史",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_06777.html"
+  }
+,
+  {
+    "tag":"000030225",
+    "name":"鴻　浩介",
+    "position":"助教",
+    "affiliation":"大学院人文社会系研究科",
+    "url":"/focus/ja/people/k0001_06716.html"
+  }
+,
+  {
     "tag":"000029436",
     "name":"CINDY LIM SHU YING",
     "position":"特任助教",
@@ -25886,6 +26086,14 @@
     "position":"准教授",
     "affiliation":"大学院工学系研究科",
     "url":"/focus/ja/people/k0001_00800.html"
+  }
+,
+  {
+    "tag":"000015843",
+    "name":"森主　絵美",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_00797.html"
   }
 ,
   {

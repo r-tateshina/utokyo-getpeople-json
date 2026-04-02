@@ -1,6 +1,206 @@
 [
 
   {
+    "tag":"000030539",
+    "name":"TAKAYA Kazuki",
+    "position":"Project Research Associate",
+    "affiliation":"Institute of Industrial Science",
+    "url":"/focus/en/people/k0001_07030.html"
+  }
+,
+  {
+    "tag":"000030537",
+    "name":"MUGITA Mahoto",
+    "position":"Project Research Associate",
+    "affiliation":"University Hospital",
+    "url":"/focus/en/people/k0001_07028.html"
+  }
+,
+  {
+    "tag":"000030522",
+    "name":"TAKAHASHI Kazufumi",
+    "position":"Research Associate",
+    "affiliation":"Graduate School of Science",
+    "url":"/focus/en/people/k0001_07013.html"
+  }
+,
+  {
+    "tag":"000030517",
+    "name":"TAKAHASHI Tomoko",
+    "position":"Lecturer",
+    "affiliation":"Institute for Advanced Studies on Asia",
+    "url":"/focus/en/people/k0001_07008.html"
+  }
+,
+  {
+    "tag":"000030504",
+    "name":"KUROKAWA Hodaka",
+    "position":"Research Associate",
+    "affiliation":"Institute of Industrial Science",
+    "url":"/focus/en/people/k0001_06995.html"
+  }
+,
+  {
+    "tag":"000030486",
+    "name":"TORIUMI Tetsuro",
+    "position":"Research Associate",
+    "affiliation":"University Hospital",
+    "url":"/focus/en/people/k0001_06977.html"
+  }
+,
+  {
+    "tag":"000030485",
+    "name":"TAKAHASHI Mitsunari",
+    "position":"Project Research Associate",
+    "affiliation":"Institute for Cosmic Ray Research",
+    "url":"/focus/en/people/k0001_06976.html"
+  }
+,
+  {
+    "tag":"000030477",
+    "name":"AOKI Takeru",
+    "position":"Project Lecturer",
+    "affiliation":"Information Technology Center",
+    "url":"/focus/en/people/k0001_06968.html"
+  }
+,
+  {
+    "tag":"000030461",
+    "name":"TAKAHASHI Ichiro",
+    "position":"Project Associate Professor",
+    "affiliation":"Institute for Solid State Physics",
+    "url":"/focus/en/people/k0001_06952.html"
+  }
+,
+  {
+    "tag":"000030459",
+    "name":"AOKI Motomi",
+    "position":"Research Associate",
+    "affiliation":"Institute for Solid State Physics",
+    "url":"/focus/en/people/k0001_06950.html"
+  }
+,
+  {
+    "tag":"000030458",
+    "name":"SUDO Kenta",
+    "position":"Research Associate",
+    "affiliation":"Institute for Solid State Physics",
+    "url":"/focus/en/people/k0001_06949.html"
+  }
+,
+  {
+    "tag":"000030450",
+    "name":"TAKAMIZAWA Kazuhiko",
+    "position":"Research Associate",
+    "affiliation":"Institute of Industrial Science",
+    "url":"/focus/en/people/k0001_06941.html"
+  }
+,
+  {
+    "tag":"000030447",
+    "name":"TAKAHARA Yu",
+    "position":"Project Research Associate",
+    "affiliation":"Institute of Industrial Science",
+    "url":"/focus/en/people/k0001_06938.html"
+  }
+,
+  {
+    "tag":"000030446",
+    "name":"TAKAHA Yuki",
+    "position":"Research Associate",
+    "affiliation":"Institute of Industrial Science",
+    "url":"/focus/en/people/k0001_06937.html"
+  }
+,
+  {
+    "tag":"000030440",
+    "name":"TAKAMORI Sho",
+    "position":"Research Associate",
+    "affiliation":"Graduate School of Arts and Sciences",
+    "url":"/focus/en/people/k0001_06931.html"
+  }
+,
+  {
+    "tag":"000030410",
+    "name":"TAKAGI Tsubasa",
+    "position":"Research Associate",
+    "affiliation":"Graduate School of Arts and Sciences",
+    "url":"/focus/en/people/k0001_06901.html"
+  }
+,
+  {
+    "tag":"000030400",
+    "name":"AOKI Seishiro",
+    "position":"Associate Professor",
+    "affiliation":"Graduate School of Arts and Sciences",
+    "url":"/focus/en/people/k0001_06891.html"
+  }
+,
+  {
+    "tag":"000030399",
+    "name":"BABA Kazutaka",
+    "position":"Research Associate",
+    "affiliation":"Graduate School of Economics",
+    "url":"/focus/en/people/k0001_06890.html"
+  }
+,
+  {
+    "tag":"000030397",
+    "name":"TORII Yuki",
+    "position":"Project Research Associate",
+    "affiliation":"Graduate School of Agricultural and Life Sciences",
+    "url":"/focus/en/people/k0001_06888.html"
+  }
+,
+  {
+    "tag":"000030349",
+    "name":"SAITO Toshiki",
+    "position":"Professor",
+    "affiliation":"Faculty of Medicine",
+    "url":"/focus/en/people/k0001_06840.html"
+  }
+,
+  {
+    "tag":"000030319",
+    "name":"TORII Daiki",
+    "position":"Research Associate",
+    "affiliation":"University Hospital",
+    "url":"/focus/en/people/k0001_06810.html"
+  }
+,
+  {
+    "tag":"000030307",
+    "name":"TORIYAMA Yoshisato",
+    "position":"Research Associate",
+    "affiliation":"University Hospital",
+    "url":"/focus/en/people/k0001_06798.html"
+  }
+,
+  {
+    "tag":"000030294",
+    "name":"TAKAHASHI Hidetomi",
+    "position":"Research Associate",
+    "affiliation":"University Hospital",
+    "url":"/focus/en/people/k0001_06785.html"
+  }
+,
+  {
+    "tag":"000030286",
+    "name":"TAKANO Hirofumi",
+    "position":"Research Associate",
+    "affiliation":"University Hospital",
+    "url":"/focus/en/people/k0001_06777.html"
+  }
+,
+  {
+    "tag":"000030225",
+    "name":"BISHAGO Kosuke",
+    "position":"Research Associate",
+    "affiliation":"Graduate School of Humanities and Sociology",
+    "url":"/focus/en/people/k0001_06716.html"
+  }
+,
+  {
     "tag":"000029436",
     "name":"CINDY LIM SHU YING",
     "position":"Project Research Associate",
@@ -25886,6 +26086,14 @@
     "position":"Associate Professor",
     "affiliation":"Graduate School of Engineering",
     "url":"/focus/en/people/k0001_00800.html"
+  }
+,
+  {
+    "tag":"000015843",
+    "name":"MORINUSHI Emi",
+    "position":"Research Associate",
+    "affiliation":"University Hospital",
+    "url":"/focus/en/people/k0001_00797.html"
   }
 ,
   {
