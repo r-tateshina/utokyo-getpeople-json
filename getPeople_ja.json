@@ -9,6 +9,14 @@
   }
 ,
   {
+    "tag":"000030556",
+    "name":"泉　有紀",
+    "position":"特任助教",
+    "affiliation":"大学院医学系研究科",
+    "url":"/focus/ja/people/k0001_07047.html"
+  }
+,
+  {
     "tag":"000030554",
     "name":"酒井　美鳥",
     "position":"特任助教",
@@ -33,6 +41,14 @@
   }
 ,
   {
+    "tag":"000030546",
+    "name":"照屋　寛之",
+    "position":"特任助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_07037.html"
+  }
+,
+  {
     "tag":"000030545",
     "name":"結城　颯",
     "position":"特任助教",
@@ -46,6 +62,14 @@
     "position":"特任助教",
     "affiliation":"医学部附属病院",
     "url":"/focus/ja/people/k0001_07035.html"
+  }
+,
+  {
+    "tag":"000030543",
+    "name":"猪口　智広",
+    "position":"特任助教",
+    "affiliation":"大学院情報学環",
+    "url":"/focus/ja/people/k0001_07034.html"
   }
 ,
   {
@@ -81,6 +105,14 @@
   }
 ,
   {
+    "tag":"000030535",
+    "name":"櫻井　政昭",
+    "position":"特任講師",
+    "affiliation":"大学院薬学系研究科",
+    "url":"/focus/ja/people/k0001_07026.html"
+  }
+,
+  {
     "tag":"000030534",
     "name":"金　智慧",
     "position":"特任助教",
@@ -102,6 +134,14 @@
     "position":"准教授",
     "affiliation":"大学院工学系研究科",
     "url":"/focus/ja/people/k0001_07020.html"
+  }
+,
+  {
+    "tag":"000030524",
+    "name":"田中　政輝",
+    "position":"特任助教",
+    "affiliation":"大学院情報理工学系研究科",
+    "url":"/focus/ja/people/k0001_07015.html"
   }
 ,
   {
@@ -158,6 +198,14 @@
     "position":"教授",
     "affiliation":"医科学研究所",
     "url":"/focus/ja/people/k0001_06999.html"
+  }
+,
+  {
+    "tag":"000030507",
+    "name":"毛塚　由佳子",
+    "position":"准教授",
+    "affiliation":"大学院数理科学研究科",
+    "url":"/focus/ja/people/k0001_06998.html"
   }
 ,
   {
@@ -225,6 +273,14 @@
   }
 ,
   {
+    "tag":"000030492",
+    "name":"江田　尚弘",
+    "position":"特任助教",
+    "affiliation":"大学院情報理工学系研究科",
+    "url":"/focus/ja/people/k0001_06983.html"
+  }
+,
+  {
     "tag":"000030486",
     "name":"鳥海　哲郎",
     "position":"助教",
@@ -246,6 +302,14 @@
     "position":"講師",
     "affiliation":"医学部",
     "url":"/focus/ja/people/k0001_06974.html"
+  }
+,
+  {
+    "tag":"000030482",
+    "name":"田中　広輔",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_06973.html"
   }
 ,
   {
@@ -278,6 +342,14 @@
     "position":"特任講師",
     "affiliation":"情報基盤センター",
     "url":"/focus/ja/people/k0001_06968.html"
+  }
+,
+  {
+    "tag":"000030471",
+    "name":"爲末　大",
+    "position":"教授",
+    "affiliation":"先端科学技術研究センター",
+    "url":"/focus/ja/people/k0001_06962.html"
   }
 ,
   {
@@ -401,6 +473,22 @@
   }
 ,
   {
+    "tag":"000030413",
+    "name":"渥美　芹香",
+    "position":"特任助教",
+    "affiliation":"大学院総合文化研究科",
+    "url":"/focus/ja/people/k0001_06904.html"
+  }
+,
+  {
+    "tag":"000030412",
+    "name":"武正　泰史",
+    "position":"講師",
+    "affiliation":"大学院総合文化研究科",
+    "url":"/focus/ja/people/k0001_06903.html"
+  }
+,
+  {
     "tag":"000030410",
     "name":"高木　翼",
     "position":"助教",
@@ -505,11 +593,35 @@
   }
 ,
   {
+    "tag":"000030346",
+    "name":"田島　夕貴",
+    "position":"特任助教",
+    "affiliation":"グローバル教育センター",
+    "url":"/focus/ja/people/k0001_06837.html"
+  }
+,
+  {
     "tag":"000030343",
     "name":"窪田　優",
     "position":"助教",
     "affiliation":"医学部附属病院",
     "url":"/focus/ja/people/k0001_06834.html"
+  }
+,
+  {
+    "tag":"000030342",
+    "name":"畑　昌宏",
+    "position":"特任助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_06833.html"
+  }
+,
+  {
+    "tag":"000030340",
+    "name":"田渕　あゆ",
+    "position":"特任助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_06831.html"
   }
 ,
   {
@@ -537,11 +649,27 @@
   }
 ,
   {
+    "tag":"000030325",
+    "name":"池上　学歩",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_06816.html"
+  }
+,
+  {
     "tag":"000030324",
     "name":"陣内　遥",
     "position":"助教",
     "affiliation":"医学部附属病院",
     "url":"/focus/ja/people/k0001_06815.html"
+  }
+,
+  {
+    "tag":"000030323",
+    "name":"水上　颯",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_06814.html"
   }
 ,
   {
@@ -673,6 +801,22 @@
   }
 ,
   {
+    "tag":"000030282",
+    "name":"浅田　佳代",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_06773.html"
+  }
+,
+  {
+    "tag":"000030277",
+    "name":"浅野 真輝",
+    "position":"助教",
+    "affiliation":"大学院情報理工学系研究科",
+    "url":"/focus/ja/people/k0001_06768.html"
+  }
+,
+  {
     "tag":"000030275",
     "name":"鈴木　嵩茂",
     "position":"特任助教",
@@ -694,6 +838,14 @@
     "position":"特任助教",
     "affiliation":"大学院医学系研究科",
     "url":"/focus/ja/people/k0001_06761.html"
+  }
+,
+  {
+    "tag":"000030269",
+    "name":"猪塚　真志",
+    "position":"特任助教",
+    "affiliation":"大学院医学系研究科",
+    "url":"/focus/ja/people/k0001_06760.html"
   }
 ,
   {
@@ -729,11 +881,27 @@
   }
 ,
   {
+    "tag":"000030261",
+    "name":"瀧川　健司",
+    "position":"助教",
+    "affiliation":"大学院医学系研究科",
+    "url":"/focus/ja/people/k0001_06752.html"
+  }
+,
+  {
     "tag":"000030256",
     "name":"郭　紫荊",
     "position":"特任助教",
     "affiliation":"大学院新領域創成科学研究科",
     "url":"/focus/ja/people/k0001_06747.html"
+  }
+,
+  {
+    "tag":"000030253",
+    "name":"渡邉　杜",
+    "position":"助教",
+    "affiliation":"大学院新領域創成科学研究科",
+    "url":"/focus/ja/people/k0001_06744.html"
   }
 ,
   {
@@ -745,6 +913,14 @@
   }
 ,
   {
+    "tag":"000030247",
+    "name":"田沼　和樹",
+    "position":"助教",
+    "affiliation":"大学院法学政治学研究科",
+    "url":"/focus/ja/people/k0001_06738.html"
+  }
+,
+  {
     "tag":"000030235",
     "name":"西本　健太郎",
     "position":"教授",
@@ -753,11 +929,35 @@
   }
 ,
   {
+    "tag":"000030234",
+    "name":"片桐　美香子",
+    "position":"特任助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_06725.html"
+  }
+,
+  {
+    "tag":"000030231",
+    "name":"深田　孝太朗",
+    "position":"助教",
+    "affiliation":"大学院人文社会系研究科",
+    "url":"/focus/ja/people/k0001_06722.html"
+  }
+,
+  {
     "tag":"000030225",
     "name":"鴻　浩介",
     "position":"助教",
     "affiliation":"大学院人文社会系研究科",
     "url":"/focus/ja/people/k0001_06716.html"
+  }
+,
+  {
+    "tag":"000030218",
+    "name":"津久井　久美子",
+    "position":"准教授",
+    "affiliation":"大学院医学系研究科",
+    "url":"/focus/ja/people/k0001_06709.html"
   }
 ,
   {
