@@ -49,6 +49,14 @@
   }
 ,
   {
+    "tag":"000030551",
+    "name":"ZOHNER CONSTANTIN MA",
+    "position":"特任准教授",
+    "affiliation":"未来ビジョン研究センター",
+    "url":"/focus/ja/people/k0001_07042.html"
+  }
+,
+  {
     "tag":"000030550",
     "name":"川上　耕季",
     "position":"特任准教授",
@@ -129,11 +137,27 @@
   }
 ,
   {
+    "tag":"000030540",
+    "name":"QIAO LING",
+    "position":"特任助教",
+    "affiliation":"生産技術研究所",
+    "url":"/focus/ja/people/k0001_07031.html"
+  }
+,
+  {
     "tag":"000030539",
     "name":"高谷　和樹",
     "position":"特任助教",
     "affiliation":"生産技術研究所",
     "url":"/focus/ja/people/k0001_07030.html"
+  }
+,
+  {
+    "tag":"000030538",
+    "name":"CHEN YAN",
+    "position":"特任助教",
+    "affiliation":"生産技術研究所",
+    "url":"/focus/ja/people/k0001_07029.html"
   }
 ,
   {
@@ -169,6 +193,14 @@
   }
 ,
   {
+    "tag":"000030533",
+    "name":"SAENGKAEW JITTRAPORN",
+    "position":"特任助教",
+    "affiliation":"生産技術研究所",
+    "url":"/focus/ja/people/k0001_07024.html"
+  }
+,
+  {
     "tag":"000030532",
     "name":"佐藤　広大",
     "position":"特任助教",
@@ -185,6 +217,14 @@
   }
 ,
   {
+    "tag":"000030530",
+    "name":"PUYO BAPTISTE",
+    "position":"准教授",
+    "affiliation":"大学院総合文化研究科",
+    "url":"/focus/ja/people/k0001_07021.html"
+  }
+,
+  {
     "tag":"000030529",
     "name":"藤川　貴弘",
     "position":"准教授",
@@ -198,6 +238,14 @@
     "position":"教授",
     "affiliation":"大学院新領域創成科学研究科",
     "url":"/focus/ja/people/k0001_07019.html"
+  }
+,
+  {
+    "tag":"000030527",
+    "name":"NOTTAGE LUKE RICHARD",
+    "position":"教授",
+    "affiliation":"大学院法学政治学研究科",
+    "url":"/focus/ja/people/k0001_07018.html"
   }
 ,
   {
@@ -286,6 +334,14 @@
     "position":"准教授",
     "affiliation":"大学院薬学系研究科",
     "url":"/focus/ja/people/k0001_07007.html"
+  }
+,
+  {
+    "tag":"000030515",
+    "name":"付　東升",
+    "position":"助教",
+    "affiliation":"生産技術研究所",
+    "url":"/focus/ja/people/k0001_07006.html"
   }
 ,
   {
@@ -393,6 +449,14 @@
   }
 ,
   {
+    "tag":"000030501",
+    "name":"YAN YUYUE",
+    "position":"特任助教",
+    "affiliation":"大学院情報理工学系研究科",
+    "url":"/focus/ja/people/k0001_06992.html"
+  }
+,
+  {
     "tag":"000030500",
     "name":"藤芳　暁",
     "position":"特任准教授",
@@ -449,6 +513,14 @@
   }
 ,
   {
+    "tag":"000030493",
+    "name":"ZHENG CHENGWEI",
+    "position":"特任助教",
+    "affiliation":"大学院情報理工学系研究科",
+    "url":"/focus/ja/people/k0001_06984.html"
+  }
+,
+  {
     "tag":"000030492",
     "name":"江田　尚弘",
     "position":"特任助教",
@@ -457,11 +529,35 @@
   }
 ,
   {
+    "tag":"000030491",
+    "name":"中井　智也",
+    "position":"准教授",
+    "affiliation":"大学院情報理工学系研究科",
+    "url":"/focus/ja/people/k0001_06982.html"
+  }
+,
+  {
     "tag":"000030490",
     "name":"早川　知志",
     "position":"助教",
     "affiliation":"大学院情報理工学系研究科",
     "url":"/focus/ja/people/k0001_06981.html"
+  }
+,
+  {
+    "tag":"000030489",
+    "name":"ORSHOLITS ALEX",
+    "position":"特任助教",
+    "affiliation":"大学院情報理工学系研究科",
+    "url":"/focus/ja/people/k0001_06980.html"
+  }
+,
+  {
+    "tag":"000030488",
+    "name":"ZHAO CHENBO",
+    "position":"特任助教",
+    "affiliation":"空間情報科学研究センター",
+    "url":"/focus/ja/people/k0001_06979.html"
   }
 ,
   {
@@ -545,6 +641,14 @@
   }
 ,
   {
+    "tag":"000030476",
+    "name":"REN XUANZHENGBO",
+    "position":"特任助教",
+    "affiliation":"情報基盤センター",
+    "url":"/focus/ja/people/k0001_06967.html"
+  }
+,
+  {
     "tag":"000030475",
     "name":"寺川　寿子",
     "position":"教授",
@@ -561,11 +665,51 @@
   }
 ,
   {
+    "tag":"000030473",
+    "name":"JIA　YUN",
+    "position":"特任助教",
+    "affiliation":"先端科学技術研究センター",
+    "url":"/focus/ja/people/k0001_06964.html"
+  }
+,
+  {
+    "tag":"000030472",
+    "name":"BONACINA CAMILLA NIC",
+    "position":"特任助教",
+    "affiliation":"先端科学技術研究センター",
+    "url":"/focus/ja/people/k0001_06963.html"
+  }
+,
+  {
     "tag":"000030471",
     "name":"爲末　大",
     "position":"教授",
     "affiliation":"先端科学技術研究センター",
     "url":"/focus/ja/people/k0001_06962.html"
+  }
+,
+  {
+    "tag":"000030470",
+    "name":"XU ZIYI",
+    "position":"特任助教",
+    "affiliation":"先端科学技術研究センター",
+    "url":"/focus/ja/people/k0001_06961.html"
+  }
+,
+  {
+    "tag":"000030469",
+    "name":"LU GUANGTAI",
+    "position":"特任助教",
+    "affiliation":"先端科学技術研究センター",
+    "url":"/focus/ja/people/k0001_06960.html"
+  }
+,
+  {
+    "tag":"000030468",
+    "name":"Ng Shan Xian Chelsea",
+    "position":"特任助教",
+    "affiliation":"先端科学技術研究センター",
+    "url":"/focus/ja/people/k0001_06959.html"
   }
 ,
   {
@@ -601,6 +745,14 @@
   }
 ,
   {
+    "tag":"000030463",
+    "name":"久保田　雄也",
+    "position":"准教授",
+    "affiliation":"物性研究所",
+    "url":"/focus/ja/people/k0001_06954.html"
+  }
+,
+  {
     "tag":"000030462",
     "name":"塩谷　太基",
     "position":"助教",
@@ -617,6 +769,14 @@
   }
 ,
   {
+    "tag":"000030460",
+    "name":"PIYAWONGWATTHANA PHA",
+    "position":"助教",
+    "affiliation":"物性研究所",
+    "url":"/focus/ja/people/k0001_06951.html"
+  }
+,
+  {
     "tag":"000030459",
     "name":"青木　基",
     "position":"助教",
@@ -630,6 +790,14 @@
     "position":"助教",
     "affiliation":"物性研究所",
     "url":"/focus/ja/people/k0001_06949.html"
+  }
+,
+  {
+    "tag":"000030457",
+    "name":"今野　雅恵",
+    "position":"特任助教",
+    "affiliation":"大学院新領域創成科学研究科",
+    "url":"/focus/ja/people/k0001_06948.html"
   }
 ,
   {
@@ -697,6 +865,14 @@
   }
 ,
   {
+    "tag":"000030448",
+    "name":"WU XIN",
+    "position":"特任助教",
+    "affiliation":"生産技術研究所",
+    "url":"/focus/ja/people/k0001_06939.html"
+  }
+,
+  {
     "tag":"000030447",
     "name":"高原　柚",
     "position":"特任助教",
@@ -713,11 +889,43 @@
   }
 ,
   {
+    "tag":"000030445",
+    "name":"伊佐野　雄司",
+    "position":"特任助教",
+    "affiliation":"生産技術研究所",
+    "url":"/focus/ja/people/k0001_06936.html"
+  }
+,
+  {
+    "tag":"000030444",
+    "name":"KONIETZNY　ANJA",
+    "position":"特任助教",
+    "affiliation":"生産技術研究所",
+    "url":"/focus/ja/people/k0001_06935.html"
+  }
+,
+  {
+    "tag":"000030443",
+    "name":"丸山　純矢",
+    "position":"特任助教",
+    "affiliation":"生産技術研究所",
+    "url":"/focus/ja/people/k0001_06934.html"
+  }
+,
+  {
     "tag":"000030442",
     "name":"原田　和典",
     "position":"助教",
     "affiliation":"生産技術研究所",
     "url":"/focus/ja/people/k0001_06933.html"
+  }
+,
+  {
+    "tag":"000030441",
+    "name":"ドゥンキー　智也ルカ",
+    "position":"助教",
+    "affiliation":"生産技術研究所",
+    "url":"/focus/ja/people/k0001_06932.html"
   }
 ,
   {
@@ -734,6 +942,14 @@
     "position":"特任助教",
     "affiliation":"社会科学研究所",
     "url":"/focus/ja/people/k0001_06930.html"
+  }
+,
+  {
+    "tag":"000030438",
+    "name":"伊藤　有佑",
+    "position":"特任助教",
+    "affiliation":"東洋文化研究所",
+    "url":"/focus/ja/people/k0001_06929.html"
   }
 ,
   {
@@ -785,11 +1001,35 @@
   }
 ,
   {
+    "tag":"000030431",
+    "name":"伊東山　舞",
+    "position":"助教",
+    "affiliation":"医科学研究所",
+    "url":"/focus/ja/people/k0001_06922.html"
+  }
+,
+  {
+    "tag":"000030430",
+    "name":"YANG　YITAO",
+    "position":"助教",
+    "affiliation":"医科学研究所",
+    "url":"/focus/ja/people/k0001_06921.html"
+  }
+,
+  {
     "tag":"000030429",
     "name":"堀江　智子",
     "position":"助教",
     "affiliation":"医科学研究所",
     "url":"/focus/ja/people/k0001_06920.html"
+  }
+,
+  {
+    "tag":"000030428",
+    "name":"RAJABY RAMESH",
+    "position":"助教",
+    "affiliation":"大学院新領域創成科学研究科",
+    "url":"/focus/ja/people/k0001_06919.html"
   }
 ,
   {
@@ -825,11 +1065,43 @@
   }
 ,
   {
+    "tag":"000030423",
+    "name":"PEREZ VALDES VICTOR",
+    "position":"特任助教",
+    "affiliation":"大学院数理科学研究科",
+    "url":"/focus/ja/people/k0001_06914.html"
+  }
+,
+  {
+    "tag":"000030422",
+    "name":"SHINDER EVGENY",
+    "position":"特任教授",
+    "affiliation":"大学院数理科学研究科",
+    "url":"/focus/ja/people/k0001_06913.html"
+  }
+,
+  {
+    "tag":"000030421",
+    "name":"CHEN FEI",
+    "position":"特任講師",
+    "affiliation":"グローバル教育センター",
+    "url":"/focus/ja/people/k0001_06912.html"
+  }
+,
+  {
     "tag":"000030420",
     "name":"鉾井　喬",
     "position":"特任助教",
     "affiliation":"大学院総合文化研究科",
     "url":"/focus/ja/people/k0001_06911.html"
+  }
+,
+  {
+    "tag":"000030419",
+    "name":"KIM SEUNGTAE",
+    "position":"助教",
+    "affiliation":"大学院総合文化研究科",
+    "url":"/focus/ja/people/k0001_06910.html"
   }
 ,
   {
@@ -846,6 +1118,14 @@
     "position":"特任助教",
     "affiliation":"教養学部",
     "url":"/focus/ja/people/k0001_06908.html"
+  }
+,
+  {
+    "tag":"000030416",
+    "name":"CHEN　THAKUN",
+    "position":"助教",
+    "affiliation":"大学院総合文化研究科",
+    "url":"/focus/ja/people/k0001_06907.html"
   }
 ,
   {
@@ -881,6 +1161,14 @@
   }
 ,
   {
+    "tag":"000030411",
+    "name":"SODE FRANK",
+    "position":"特任准教授",
+    "affiliation":"教養学部",
+    "url":"/focus/ja/people/k0001_06902.html"
+  }
+,
+  {
     "tag":"000030410",
     "name":"高木　翼",
     "position":"助教",
@@ -913,6 +1201,14 @@
   }
 ,
   {
+    "tag":"000030406",
+    "name":"TARANCO LORENTE DA",
+    "position":"准教授",
+    "affiliation":"教養学部",
+    "url":"/focus/ja/people/k0001_06897.html"
+  }
+,
+  {
     "tag":"000030405",
     "name":"森　史奈",
     "position":"助教",
@@ -921,11 +1217,27 @@
   }
 ,
   {
+    "tag":"000030404",
+    "name":"YUAN SHUAI",
+    "position":"特任講師",
+    "affiliation":"大学院総合文化研究科",
+    "url":"/focus/ja/people/k0001_06895.html"
+  }
+,
+  {
     "tag":"000030403",
     "name":"小林　和弘",
     "position":"特任助教",
     "affiliation":"先端科学技術研究センター",
     "url":"/focus/ja/people/k0001_06894.html"
+  }
+,
+  {
+    "tag":"000030402",
+    "name":"ZHANG CONGCONG",
+    "position":"特任助教",
+    "affiliation":"先端科学技術研究センター",
+    "url":"/focus/ja/people/k0001_06893.html"
   }
 ,
   {
@@ -969,6 +1281,14 @@
   }
 ,
   {
+    "tag":"000030396",
+    "name":"佐久間　大樹",
+    "position":"特任助教",
+    "affiliation":"大学院農学生命科学研究科",
+    "url":"/focus/ja/people/k0001_06887.html"
+  }
+,
+  {
     "tag":"000030395",
     "name":"島　啓志",
     "position":"助教",
@@ -1001,11 +1321,27 @@
   }
 ,
   {
+    "tag":"000030391",
+    "name":"QU YUCHEN",
+    "position":"特任助教",
+    "affiliation":"大学院農学生命科学研究科",
+    "url":"/focus/ja/people/k0001_06882.html"
+  }
+,
+  {
     "tag":"000030390",
     "name":"綿貫　園子",
     "position":"特任助教",
     "affiliation":"大学院農学生命科学研究科",
     "url":"/focus/ja/people/k0001_06881.html"
+  }
+,
+  {
+    "tag":"000030389",
+    "name":"WANG HAOZHOU",
+    "position":"特任助教",
+    "affiliation":"大学院農学生命科学研究科",
+    "url":"/focus/ja/people/k0001_06880.html"
   }
 ,
   {
@@ -1030,6 +1366,14 @@
     "position":"特任准教授",
     "affiliation":"大気海洋研究所",
     "url":"/focus/ja/people/k0001_06877.html"
+  }
+,
+  {
+    "tag":"000030385",
+    "name":"MARLOVITS THOMAS CHR",
+    "position":"教授",
+    "affiliation":"大学院理学系研究科",
+    "url":"/focus/ja/people/k0001_06876.html"
   }
 ,
   {
@@ -1113,6 +1457,14 @@
   }
 ,
   {
+    "tag":"000030374",
+    "name":"ILIES LAUREAN",
+    "position":"教授",
+    "affiliation":"大学院理学系研究科",
+    "url":"/focus/ja/people/k0001_06865.html"
+  }
+,
+  {
     "tag":"000030373",
     "name":"佐藤　昇",
     "position":"教授",
@@ -1153,6 +1505,14 @@
   }
 ,
   {
+    "tag":"000030366",
+    "name":"HUANG LIQIAO",
+    "position":"助教",
+    "affiliation":"大学院工学系研究科",
+    "url":"/focus/ja/people/k0001_06857.html"
+  }
+,
+  {
     "tag":"000030365",
     "name":"檜作　未央子",
     "position":"助教",
@@ -1166,6 +1526,14 @@
     "position":"助教",
     "affiliation":"大学院工学系研究科",
     "url":"/focus/ja/people/k0001_06855.html"
+  }
+,
+  {
+    "tag":"000030363",
+    "name":"中川　恵",
+    "position":"助教",
+    "affiliation":"大学院工学系研究科",
+    "url":"/focus/ja/people/k0001_06854.html"
   }
 ,
   {
@@ -1201,11 +1569,59 @@
   }
 ,
   {
+    "tag":"000030358",
+    "name":"PARK　HYUNGJUN",
+    "position":"助教",
+    "affiliation":"大学院工学系研究科",
+    "url":"/focus/ja/people/k0001_06849.html"
+  }
+,
+  {
+    "tag":"000030357",
+    "name":"YAMAMOTO KENZO",
+    "position":"特任助教",
+    "affiliation":"大学院工学系研究科",
+    "url":"/focus/ja/people/k0001_06848.html"
+  }
+,
+  {
+    "tag":"000030356",
+    "name":"二塚　俊洋",
+    "position":"助教",
+    "affiliation":"大学院工学系研究科",
+    "url":"/focus/ja/people/k0001_06847.html"
+  }
+,
+  {
     "tag":"000030355",
     "name":"宮西　大樹",
     "position":"特任講師",
     "affiliation":"大学院工学系研究科",
     "url":"/focus/ja/people/k0001_06846.html"
+  }
+,
+  {
+    "tag":"000030354",
+    "name":"PASQUALIN PARIS",
+    "position":"特任助教",
+    "affiliation":"大学院工学系研究科",
+    "url":"/focus/ja/people/k0001_06845.html"
+  }
+,
+  {
+    "tag":"000030353",
+    "name":"DANG　JIAQIANG",
+    "position":"特任助教",
+    "affiliation":"大学院工学系研究科",
+    "url":"/focus/ja/people/k0001_06844.html"
+  }
+,
+  {
+    "tag":"000030352",
+    "name":"HE　QING",
+    "position":"助教",
+    "affiliation":"大学院工学系研究科",
+    "url":"/focus/ja/people/k0001_06843.html"
   }
 ,
   {
@@ -1265,6 +1681,14 @@
   }
 ,
   {
+    "tag":"000030344",
+    "name":"Hettige Don Karunara",
+    "position":"特任教授",
+    "affiliation":"東京カレッジ",
+    "url":"/focus/ja/people/k0001_06835.html"
+  }
+,
+  {
     "tag":"000030343",
     "name":"窪田　優",
     "position":"助教",
@@ -1310,6 +1734,14 @@
     "position":"特任助教",
     "affiliation":"医学部附属病院",
     "url":"/focus/ja/people/k0001_06829.html"
+  }
+,
+  {
+    "tag":"000030337",
+    "name":"中野　秀比古",
+    "position":"特任助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_06828.html"
   }
 ,
   {
@@ -1441,6 +1873,14 @@
   }
 ,
   {
+    "tag":"000030320",
+    "name":"中村　新太郎",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_06811.html"
+  }
+,
+  {
     "tag":"000030319",
     "name":"鳥井　大輝",
     "position":"助教",
@@ -1489,6 +1929,14 @@
   }
 ,
   {
+    "tag":"000030313",
+    "name":"久保　隆盛",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_06804.html"
+  }
+,
+  {
     "tag":"000030312",
     "name":"張　眞宇",
     "position":"助教",
@@ -1502,6 +1950,22 @@
     "position":"助教",
     "affiliation":"医学部附属病院",
     "url":"/focus/ja/people/k0001_06802.html"
+  }
+,
+  {
+    "tag":"000030310",
+    "name":"三輪　哲史",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_06801.html"
+  }
+,
+  {
+    "tag":"000030309",
+    "name":"中山　圭太",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_06800.html"
   }
 ,
   {
@@ -1542,6 +2006,14 @@
     "position":"助教",
     "affiliation":"医学部附属病院",
     "url":"/focus/ja/people/k0001_06795.html"
+  }
+,
+  {
+    "tag":"000030303",
+    "name":"中村　壮臣",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_06794.html"
   }
 ,
   {
@@ -1721,6 +2193,14 @@
   }
 ,
   {
+    "tag":"000030280",
+    "name":"SZE WEI THING",
+    "position":"助教",
+    "affiliation":"大学院情報学環",
+    "url":"/focus/ja/people/k0001_06771.html"
+  }
+,
+  {
     "tag":"000030279",
     "name":"楊　暁杰",
     "position":"特任助教",
@@ -1769,11 +2249,27 @@
   }
 ,
   {
+    "tag":"000030273",
+    "name":"GUI XINYUE",
+    "position":"特任助教",
+    "affiliation":"大学院情報理工学系研究科",
+    "url":"/focus/ja/people/k0001_06764.html"
+  }
+,
+  {
     "tag":"000030272",
     "name":"大日方　慶樹",
     "position":"特任助教",
     "affiliation":"大学院情報理工学系研究科",
     "url":"/focus/ja/people/k0001_06763.html"
+  }
+,
+  {
+    "tag":"000030271",
+    "name":"三木　章寛",
+    "position":"特任助教",
+    "affiliation":"大学院情報理工学系研究科",
+    "url":"/focus/ja/people/k0001_06762.html"
   }
 ,
   {
@@ -1881,6 +2377,14 @@
   }
 ,
   {
+    "tag":"000030257",
+    "name":"伊藤　美菜子",
+    "position":"助教",
+    "affiliation":"大学院新領域創成科学研究科",
+    "url":"/focus/ja/people/k0001_06748.html"
+  }
+,
+  {
     "tag":"000030256",
     "name":"郭　紫荊",
     "position":"特任助教",
@@ -1889,11 +2393,43 @@
   }
 ,
   {
+    "tag":"000030255",
+    "name":"Chang Yu Hsuan",
+    "position":"特任助教",
+    "affiliation":"大学院新領域創成科学研究科",
+    "url":"/focus/ja/people/k0001_06746.html"
+  }
+,
+  {
+    "tag":"000030254",
+    "name":"五十嵐　多紀子",
+    "position":"助教",
+    "affiliation":"大学院新領域創成科学研究科",
+    "url":"/focus/ja/people/k0001_06745.html"
+  }
+,
+  {
     "tag":"000030253",
     "name":"渡邉　杜",
     "position":"助教",
     "affiliation":"大学院新領域創成科学研究科",
     "url":"/focus/ja/people/k0001_06744.html"
+  }
+,
+  {
+    "tag":"000030252",
+    "name":"YILDIZ DILEK",
+    "position":"特任助教",
+    "affiliation":"大学院新領域創成科学研究科",
+    "url":"/focus/ja/people/k0001_06743.html"
+  }
+,
+  {
+    "tag":"000030251",
+    "name":"Wang Junjue",
+    "position":"特任助教",
+    "affiliation":"大学院新領域創成科学研究科",
+    "url":"/focus/ja/people/k0001_06742.html"
   }
 ,
   {
@@ -1913,6 +2449,14 @@
   }
 ,
   {
+    "tag":"000030248",
+    "name":"久保　京子",
+    "position":"特任助教",
+    "affiliation":"多様性包摂共創センター",
+    "url":"/focus/ja/people/k0001_06739.html"
+  }
+,
+  {
     "tag":"000030247",
     "name":"田沼　和樹",
     "position":"助教",
@@ -1926,6 +2470,14 @@
     "position":"助教",
     "affiliation":"大学院法学政治学研究科",
     "url":"/focus/ja/people/k0001_06737.html"
+  }
+,
+  {
+    "tag":"000030245",
+    "name":"CHEN EMILY SZU HUA",
+    "position":"特任助教",
+    "affiliation":"未来ビジョン研究センター",
+    "url":"/focus/ja/people/k0001_06736.html"
   }
 ,
   {
@@ -1953,11 +2505,27 @@
   }
 ,
   {
+    "tag":"000030241",
+    "name":"上村　剛",
+    "position":"准教授",
+    "affiliation":"大学院法学政治学研究科",
+    "url":"/focus/ja/people/k0001_06732.html"
+  }
+,
+  {
     "tag":"000030240",
     "name":"山城　一真",
     "position":"教授",
     "affiliation":"大学院法学政治学研究科",
     "url":"/focus/ja/people/k0001_06731.html"
+  }
+,
+  {
+    "tag":"000030239",
+    "name":"CHEN JINGYI",
+    "position":"特任助教",
+    "affiliation":"大学院法学政治学研究科",
+    "url":"/focus/ja/people/k0001_06730.html"
   }
 ,
   {
@@ -2009,6 +2577,14 @@
   }
 ,
   {
+    "tag":"000030232",
+    "name":"HABJAN VILLARREAL NI",
+    "position":"助教",
+    "affiliation":"大学院人文社会系研究科",
+    "url":"/focus/ja/people/k0001_06723.html"
+  }
+,
+  {
     "tag":"000030231",
     "name":"深田　孝太朗",
     "position":"助教",
@@ -2049,6 +2625,14 @@
   }
 ,
   {
+    "tag":"000030226",
+    "name":"LAI SIH YU",
+    "position":"助教",
+    "affiliation":"大学院人文社会系研究科",
+    "url":"/focus/ja/people/k0001_06717.html"
+  }
+,
+  {
     "tag":"000030225",
     "name":"鴻　浩介",
     "position":"助教",
@@ -2078,6 +2662,14 @@
     "position":"准教授",
     "affiliation":"大学院人文社会系研究科",
     "url":"/focus/ja/people/k0001_06713.html"
+  }
+,
+  {
+    "tag":"000030221",
+    "name":"WANG RUCI",
+    "position":"助教",
+    "affiliation":"空間情報科学研究センター",
+    "url":"/focus/ja/people/k0001_06712.html"
   }
 ,
   {
@@ -2150,6 +2742,14 @@
     "position":"教授",
     "affiliation":"大学院人文社会系研究科",
     "url":"/focus/ja/people/k0001_06703.html"
+  }
+,
+  {
+    "tag":"000030211",
+    "name":"QIAN BO",
+    "position":"特任助教",
+    "affiliation":"大学院情報理工学系研究科",
+    "url":"/focus/ja/people/k0001_06702.html"
   }
 ,
   {
