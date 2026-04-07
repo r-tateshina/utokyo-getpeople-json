@@ -1,6 +1,14 @@
 [
 
   {
+    "tag":"000030567",
+    "name":"DI  CARLO DINO",
+    "position":"Project Professor",
+    "affiliation":"EXPERT-GRI Promotion Office",
+    "url":"/focus/en/people/k0001_07049.html"
+  }
+,
+  {
     "tag":"000030557",
     "name":"NAGAO Hikari",
     "position":"Project Research Associate",
@@ -3153,14 +3161,6 @@
   }
 ,
   {
-    "tag":"000029207",
-    "name":"MORITA Shigeki",
-    "position":"Associate Professor",
-    "affiliation":"Institute of Medical Science",
-    "url":"/focus/en/people/k0001_06649.html"
-  }
-,
-  {
     "tag":"000029206",
     "name":"ZHOU YUJIAO",
     "position":"Project Research Associate",
@@ -4273,14 +4273,6 @@
   }
 ,
   {
-    "tag":"000028822",
-    "name":"IKEGAMI Kei",
-    "position":"Project Research Associate",
-    "affiliation":"Graduate School of Economics",
-    "url":"/focus/en/people/k0001_06493.html"
-  }
-,
-  {
     "tag":"000028821",
     "name":"AWAYA Yu",
     "position":"Professor",
@@ -4539,7 +4531,7 @@
   {
     "tag":"000028626",
     "name":"LEELAPRACHAKUL TATCHAPHON",
-    "position":"Project Research Associate",
+    "position":"Research Associate",
     "affiliation":"Institute of Industrial Science",
     "url":"/focus/en/people/k0001_06454.html"
   }
@@ -7113,14 +7105,6 @@
   }
 ,
   {
-    "tag":"000028131",
-    "name":"YOKOMORI Maasa",
-    "position":"Project Research Associate",
-    "affiliation":"Graduate School of Arts and Sciences",
-    "url":"/focus/en/people/k0001_06100.html"
-  }
-,
-  {
     "tag":"000028130",
     "name":"OTABE Sotatsu",
     "position":"Project Research Associate",
@@ -7614,14 +7598,6 @@
     "position":"Project Research Associate",
     "affiliation":"University Hospital",
     "url":"/focus/en/people/k0001_06033.html"
-  }
-,
-  {
-    "tag":"000027933",
-    "name":"OKIMOTO Naomasa",
-    "position":"Project Research Associate",
-    "affiliation":"Institute of Medical Science",
-    "url":"/focus/en/people/k0001_06032.html"
   }
 ,
   {
@@ -8153,14 +8129,6 @@
   }
 ,
   {
-    "tag":"000027568",
-    "name":"HIGAKI Tatsuya",
-    "position":"Research Associate",
-    "affiliation":"Institute of Industrial Science",
-    "url":"/focus/en/people/k0001_05934.html"
-  }
-,
-  {
     "tag":"000027567",
     "name":"SUZUKI Kenta",
     "position":"Research Associate",
@@ -8507,7 +8475,7 @@
   {
     "tag":"000027427",
     "name":"Zhu Yaonan",
-    "position":"Project Assistant Professor",
+    "position":"Project Lecturer",
     "affiliation":"Graduate School of Engineering",
     "url":"/focus/en/people/k0001_05879.html"
   }
@@ -8670,14 +8638,6 @@
     "position":"Research Associate",
     "affiliation":"Division for Health Service Promotion",
     "url":"/focus/en/people/k0001_05853.html"
-  }
-,
-  {
-    "tag":"000027400",
-    "name":"KAWASHIMA Yuki",
-    "position":"Research Associate",
-    "affiliation":"University Hospital",
-    "url":"/focus/en/people/k0001_05852.html"
   }
 ,
   {
@@ -8907,7 +8867,7 @@
   {
     "tag":"000027297",
     "name":"ICHIHARA Naruki",
-    "position":"Project Research Associate",
+    "position":"Assistant Professor",
     "affiliation":"Graduate School of Engineering",
     "url":"/focus/en/people/k0001_05816.html"
   }
@@ -9769,14 +9729,6 @@
   }
 ,
   {
-    "tag":"000027087",
-    "name":"HAYASHI Hiroaki",
-    "position":"Project Research Associate",
-    "affiliation":"Institute for Solid State Physics",
-    "url":"/focus/en/people/k0001_05681.html"
-  }
-,
-  {
     "tag":"000027086",
     "name":"YANG ZHUO",
     "position":"Project Research Associate",
@@ -9814,14 +9766,6 @@
     "position":"Research Associate, Assistant Professor",
     "affiliation":"Historiographical Institute",
     "url":"/focus/en/people/k0001_05675.html"
-  }
-,
-  {
-    "tag":"000027079",
-    "name":"IKEYA Fuma",
-    "position":"Project Research Associate",
-    "affiliation":"Institute of Industrial Science",
-    "url":"/focus/en/people/k0001_05673.html"
   }
 ,
   {
@@ -9993,14 +9937,6 @@
   }
 ,
   {
-    "tag":"000027051",
-    "name":"MIZUTANI Taku",
-    "position":"Research Associate",
-    "affiliation":"Graduate School of Pharmaceutical Sciences",
-    "url":"/focus/en/people/k0001_05645.html"
-  }
-,
-  {
     "tag":"000027050",
     "name":"TOYODA Yui",
     "position":"Project Research Associate",
@@ -10166,14 +10102,6 @@
     "position":"Professor",
     "affiliation":"Graduate School of Economics",
     "url":"/focus/en/people/k0001_05623.html"
-  }
-,
-  {
-    "tag":"000027028",
-    "name":"YOKOTE Koji",
-    "position":"Project Assistant Professor",
-    "affiliation":"Graduate School of Economics",
-    "url":"/focus/en/people/k0001_05622.html"
   }
 ,
   {
@@ -10758,14 +10686,6 @@
     "position":"Research Associate",
     "affiliation":"University Hospital",
     "url":"/focus/en/people/k0001_05524.html"
-  }
-,
-  {
-    "tag":"000026929",
-    "name":"NEMOTO Hotaka",
-    "position":"Assistant Professor",
-    "affiliation":"University Hospital",
-    "url":"/focus/en/people/k0001_05523.html"
   }
 ,
   {
@@ -12641,14 +12561,6 @@
   }
 ,
   {
-    "tag":"000025939",
-    "name":"NAGANO Rento",
-    "position":"Project Research Associate",
-    "affiliation":"International Center for Elementary Particle Physics",
-    "url":"/focus/en/people/k0001_05184.html"
-  }
-,
-  {
     "tag":"000025938",
     "name":"SATO Shoichi",
     "position":"Project Lecturer",
@@ -13297,14 +13209,6 @@
   }
 ,
   {
-    "tag":"000025837",
-    "name":"IKEO Satoshi",
-    "position":"Project Research Associate",
-    "affiliation":"Institute of Industrial Science",
-    "url":"/focus/en/people/k0001_05082.html"
-  }
-,
-  {
     "tag":"000025836",
     "name":"HUANG XIN",
     "position":"Project Associate Professor",
@@ -13734,14 +13638,6 @@
     "position":"Research Associate",
     "affiliation":"Graduate School of Engineering",
     "url":"/focus/en/people/k0001_05008.html"
-  }
-,
-  {
-    "tag":"000025675",
-    "name":"MIZUTA Kaoru",
-    "position":"Research Associate",
-    "affiliation":"Graduate School of Engineering",
-    "url":"/focus/en/people/k0001_05007.html"
   }
 ,
   {
@@ -14614,14 +14510,6 @@
     "position":"Project Assistant Professor",
     "affiliation":"Graduate School of Engineering",
     "url":"/focus/en/people/k0001_04824.html"
-  }
-,
-  {
-    "tag":"000025381",
-    "name":"MIZUTANI Hiroya",
-    "position":"Project Research Associate",
-    "affiliation":"Graduate School of Medicine",
-    "url":"/focus/en/people/k0001_04821.html"
   }
 ,
   {
@@ -16449,14 +16337,6 @@
   }
 ,
   {
-    "tag":"000024435",
-    "name":"KURIHARA Ryota",
-    "position":"Research Associate",
-    "affiliation":"Graduate School of Engineering",
-    "url":"/focus/en/people/k0001_04378.html"
-  }
-,
-  {
     "tag":"000024434",
     "name":"KINO Kanon",
     "position":"Research Associate",
@@ -17001,14 +16881,6 @@
   }
 ,
   {
-    "tag":"000024259",
-    "name":"KURIU Satoru",
-    "position":"Research Associate",
-    "affiliation":"Institute of Industrial Science",
-    "url":"/focus/en/people/k0001_04259.html"
-  }
-,
-  {
     "tag":"000024258",
     "name":"MATSUHISA Naoji",
     "position":"Associate Professor",
@@ -17369,14 +17241,6 @@
   }
 ,
   {
-    "tag":"000023997",
-    "name":"ITAKURA Hikaru",
-    "position":"Assistant Professor",
-    "affiliation":"Atmosphere and Ocean Research Institute",
-    "url":"/focus/en/people/k0001_04185.html"
-  }
-,
-  {
     "tag":"000023995",
     "name":"TAKEMOTO Shinichiro",
     "position":"Project Professor",
@@ -17454,14 +17318,6 @@
     "position":"Project Professor",
     "affiliation":"Research Center for Advanced Science and Technology",
     "url":"/focus/en/people/k0001_04159.html"
-  }
-,
-  {
-    "tag":"000023823",
-    "name":"KAWAHARA Michiko",
-    "position":"Project Professor",
-    "affiliation":"Interfaculty Initiative in Information Studies",
-    "url":"/focus/en/people/k0001_04158.html"
   }
 ,
   {
@@ -18262,14 +18118,6 @@
     "position":"Lecturer",
     "affiliation":"Graduate School of Medicine",
     "url":"/focus/en/people/k0001_03977.html"
-  }
-,
-  {
-    "tag":"000023390",
-    "name":"MATSUO Yoshitaka",
-    "position":"Associate Professor",
-    "affiliation":"Institute of Medical Science",
-    "url":"/focus/en/people/k0001_03971.html"
   }
 ,
   {
@@ -19161,14 +19009,6 @@
   }
 ,
   {
-    "tag":"000022571",
-    "name":"YOKOKAWA Hideyuki",
-    "position":"Research Associate",
-    "affiliation":"University Hospital",
-    "url":"/focus/en/people/k0001_03736.html"
-  }
-,
-  {
     "tag":"000022570",
     "name":"YOKOYAMA Akira",
     "position":"Research Associate",
@@ -19190,14 +19030,6 @@
     "position":"Research Associate",
     "affiliation":"University Hospital",
     "url":"/focus/en/people/k0001_03730.html"
-  }
-,
-  {
-    "tag":"000022563",
-    "name":"HIWATASHI Kengo",
-    "position":"Research Associate",
-    "affiliation":"University Hospital",
-    "url":"/focus/en/people/k0001_03728.html"
   }
 ,
   {
@@ -19590,14 +19422,6 @@
     "position":"Professor",
     "affiliation":"Research Center for Advanced Science and Technology",
     "url":"/focus/en/people/k0001_03627.html"
-  }
-,
-  {
-    "tag":"000022007",
-    "name":"MATSUURA Kohei",
-    "position":"Research Associate",
-    "affiliation":"Graduate School of Engineering",
-    "url":"/focus/en/people/k0001_03623.html"
   }
 ,
   {
@@ -20374,14 +20198,6 @@
     "position":"Research Associate",
     "affiliation":"Graduate School of Engineering",
     "url":"/focus/en/people/k0001_03431.html"
-  }
-,
-  {
-    "tag":"000021523",
-    "name":"MASAKI Yusuke",
-    "position":"Project Associate Professor",
-    "affiliation":"Graduate School of Public Policy",
-    "url":"/focus/en/people/k0001_03426.html"
   }
 ,
   {
@@ -22585,14 +22401,6 @@
   }
 ,
   {
-    "tag":"000019685",
-    "name":"MIZUNO Tomoya",
-    "position":"Project Research Associate",
-    "affiliation":"Institute for Solid State Physics",
-    "url":"/focus/en/people/k0001_02818.html"
-  }
-,
-  {
     "tag":"000019682",
     "name":"OHJI Kenta",
     "position":"Professor",
@@ -23473,14 +23281,6 @@
   }
 ,
   {
-    "tag":"000019294",
-    "name":"HAYASHI Kanako ",
-    "position":"Research Associate",
-    "affiliation":"University Hospital",
-    "url":"/focus/en/people/k0001_02516.html"
-  }
-,
-  {
     "tag":"000019293",
     "name":"TOKUDA Keita ",
     "position":"Research Associate",
@@ -24046,14 +23846,6 @@
     "position":"Associate Professor",
     "affiliation":"Graduate School of Arts and Sciences",
     "url":"/focus/en/people/k0001_02335.html"
-  }
-,
-  {
-    "tag":"000019111",
-    "name":"MORIMOTO Takahiro ",
-    "position":"Associate Professor",
-    "affiliation":"Graduate School of Engineering",
-    "url":"/focus/en/people/k0001_02333.html"
   }
 ,
   {
@@ -25009,14 +24801,6 @@
   }
 ,
   {
-    "tag":"000017737",
-    "name":"NAGATA Shin",
-    "position":"Project Professor",
-    "affiliation":"Graduate School of Agricultural and Life Sciences",
-    "url":"/focus/en/people/k0001_02091.html"
-  }
-,
-  {
     "tag":"000017735",
     "name":"KOJIMA Kunio",
     "position":"Senior Assistant Professor",
@@ -25529,14 +25313,6 @@
   }
 ,
   {
-    "tag":"000016937",
-    "name":"KAJIHO Yuko",
-    "position":"Research Associate",
-    "affiliation":"University Hospital",
-    "url":"/focus/en/people/k0001_01891.html"
-  }
-,
-  {
     "tag":"000016936",
     "name":"Sodabanlu Hassanet",
     "position":"Project Research Associate",
@@ -25726,14 +25502,6 @@
     "position":"Project Research Associate",
     "affiliation":"College of Arts and Sciences",
     "url":"/focus/en/people/k0001_01823.html"
-  }
-,
-  {
-    "tag":"000016866",
-    "name":"KASHIWAGI Yutaro",
-    "position":"Research Associate",
-    "affiliation":"Graduate School of Medicine",
-    "url":"/focus/en/people/k0001_01820.html"
   }
 ,
   {
@@ -27462,14 +27230,6 @@
     "position":"Project Professor",
     "affiliation":"Kavli IPMU",
     "url":"/focus/en/people/k0001_01082.html"
-  }
-,
-  {
-    "tag":"000016124",
-    "name":"YANAGI Yoshio",
-    "position":"Project Professor",
-    "affiliation":"Interfaculty Initiative in Information Studies",
-    "url":"/focus/en/people/k0001_01078.html"
   }
 ,
   {
@@ -29337,14 +29097,6 @@
   }
 ,
   {
-    "tag":"000015389",
-    "name":"MORITA Hiroyuki",
-    "position":"Lecturer",
-    "affiliation":"Graduate School of Medicine",
-    "url":"/focus/en/people/k0001_00343.html"
-  }
-,
-  {
     "tag":"000015387",
     "name":"SUZUKI Kan",
     "position":"Lecturer",
@@ -30494,14 +30246,6 @@
     "position":"Professor",
     "affiliation":"Graduate Schools for Law and Politics",
     "url":"/focus/en/people/k0001_00139.html"
-  }
-,
-  {
-    "tag":"000015184",
-    "name":"ENOMOTO Yukiko",
-    "position":"Associate Professor",
-    "affiliation":"Graduate School of Agricultural and Life Sciences",
-    "url":"/focus/en/people/k0001_00138.html"
   }
 ,
   {
@@ -32729,14 +32473,6 @@
   }
 ,
   {
-    "tag":"000012733",
-    "name":"Takeshi Sakurai",
-    "position":"Professor",
-    "affiliation":"Graduate School of Agricultural and Life Sciences",
-    "url":"/focus/en/people/people100390.html"
-  }
-,
-  {
     "tag":"000012737",
     "name":"OSHIMA Yasushi",
     "position":"Associate Professor",
@@ -33510,14 +33246,6 @@
     "position":"Associate Professor",
     "affiliation":"Graduate School of Engineering",
     "url":"/focus/en/people/people100124.html"
-  }
-,
-  {
-    "tag":"000011753",
-    "name":"MORITA Yusuke",
-    "position":"Research Associate",
-    "affiliation":"Graduate School of Science",
-    "url":"/focus/en/people/people100122.html"
   }
 ,
   {
@@ -35929,14 +35657,6 @@
   }
 ,
   {
-    "tag":"000010721",
-    "name":"HAYASHI Hiroshi",
-    "position":"Research Associate",
-    "affiliation":"Institute of Industrial Science",
-    "url":"/focus/en/people/people003004.html"
-  }
-,
-  {
     "tag":"000010714",
     "name":"YAMANASHI Yuji",
     "position":"Professor",
@@ -36206,14 +35926,6 @@
     "position":"Professor",
     "affiliation":"Institute of Industrial Science",
     "url":"/focus/en/people/people002852.html"
-  }
-,
-  {
-    "tag":"000013491",
-    "name":"NAGAE Genta",
-    "position":"Project Associate Professor",
-    "affiliation":"Research Center for Advanced Science and Technology",
-    "url":"/focus/en/people/people002851.html"
   }
 ,
   {
@@ -36510,14 +36222,6 @@
     "position":"Professor",
     "affiliation":"Graduate School of Medicine",
     "url":"/focus/en/people/people002748.html"
-  }
-,
-  {
-    "tag":"000013808",
-    "name":"ENOMOTO Atsushi",
-    "position":"Lecturer",
-    "affiliation":"Graduate School of Medicine",
-    "url":"/focus/en/people/people002745.html"
   }
 ,
   {
@@ -37726,14 +37430,6 @@
     "position":"Professor",
     "affiliation":"Institute for Advanced Studies on Asia",
     "url":"/focus/en/people/people002150.html"
-  }
-,
-  {
-    "tag":"000012203",
-    "name":"KAWAI Shoichiro",
-    "position":"Professor",
-    "affiliation":"Graduate School of Arts and Sciences",
-    "url":"/focus/en/people/people002149.html"
   }
 ,
   {
@@ -39217,14 +38913,6 @@
   }
 ,
   {
-    "tag":"000013829",
-    "name":"SHIBAYAMA Etsuya",
-    "position":"Project Professor",
-    "affiliation":"Office of Senior Professor",
-    "url":"/focus/en/people/people001746.html"
-  }
-,
-  {
     "tag":"000013841",
     "name":"TANAKA Tetsuro",
     "position":"Associate Professor",
@@ -39657,14 +39345,6 @@
   }
 ,
   {
-    "tag":"000012830",
-    "name":"MORISHITA Shinichi",
-    "position":"Professor",
-    "affiliation":"Graduate School of Frontier Sciences",
-    "url":"/focus/en/people/people001605.html"
-  }
-,
-  {
     "tag":"000012826",
     "name":"YAMAMURO Masumi",
     "position":"Professor",
@@ -39838,14 +39518,6 @@
     "position":"Professor",
     "affiliation":"Atmosphere and Ocean Research Institute",
     "url":"/focus/en/people/people001559.html"
-  }
-,
-  {
-    "tag":"000012933",
-    "name":"KAWAMURA Tomohiko",
-    "position":"Professor",
-    "affiliation":"Atmosphere and Ocean Research Institute",
-    "url":"/focus/en/people/people001558.html"
   }
 ,
   {
@@ -40078,14 +39750,6 @@
     "position":"Project Professor",
     "affiliation":"Institute for Nano Quantum Information Electronics",
     "url":"/focus/en/people/people001500.html"
-  }
-,
-  {
-    "tag":"000013270",
-    "name":"MORITA Kazuki",
-    "position":"Professor",
-    "affiliation":"Graduate School of Engineering",
-    "url":"/focus/en/people/people001499.html"
   }
 ,
   {
@@ -40342,14 +40006,6 @@
     "position":"Professor",
     "affiliation":"Institute of Industrial Science",
     "url":"/focus/en/people/people001441.html"
-  }
-,
-  {
-    "tag":"000011180",
-    "name":"YOKOI Nobumitsu",
-    "position":"Research Associate",
-    "affiliation":"Institute of Industrial Science",
-    "url":"/focus/en/people/people001439.html"
   }
 ,
   {
@@ -40985,14 +40641,6 @@
   }
 ,
   {
-    "tag":"000013948",
-    "name":"MORI Hatsumi",
-    "position":"Professor",
-    "affiliation":"Institute for Solid State Physics",
-    "url":"/focus/en/people/people001243.html"
-  }
-,
-  {
     "tag":"000013949",
     "name":"MATSUDA Iwao",
     "position":"Professor",
@@ -41222,14 +40870,6 @@
     "position":"Project Professor",
     "affiliation":"Graduate School of Agricultural and Life Sciences",
     "url":"/focus/en/people/people001163.html"
-  }
-,
-  {
-    "tag":"000012640",
-    "name":"NEMOTO Keisuke",
-    "position":"Professor",
-    "affiliation":"Graduate School of Agricultural and Life Sciences",
-    "url":"/focus/en/people/people001162.html"
   }
 ,
   {
@@ -42393,14 +42033,6 @@
   }
 ,
   {
-    "tag":"000012181",
-    "name":"MATSUO Yutaka",
-    "position":"Professor",
-    "affiliation":"Graduate School of Science",
-    "url":"/focus/en/people/people000831.html"
-  }
-,
-  {
     "tag":"000012175",
     "name":"AIHARA Hiroaki",
     "position":"Executive Vice President",
@@ -43206,14 +42838,6 @@
     "position":"Professor",
     "affiliation":"Graduate School of Engineering",
     "url":"/focus/en/people/people000611.html"
-  }
-,
-  {
-    "tag":"000013312",
-    "name":"MATSUO Seiji",
-    "position":"Research Associate",
-    "affiliation":"Graduate School of Engineering",
-    "url":"/focus/en/people/people000610.html"
   }
 ,
   {
@@ -44041,14 +43665,6 @@
   }
 ,
   {
-    "tag":"000012530",
-    "name":"IKEDA Hiroshi",
-    "position":"Associate Professor",
-    "affiliation":"University Museum",
-    "url":"/focus/en/people/people000330.html"
-  }
-,
-  {
     "tag":"000012547",
     "name":"SASAKI Takenori",
     "position":"Associate Professor",
@@ -44294,14 +43910,6 @@
     "position":"Research Associate",
     "affiliation":"Graduate School of Humanities and Sociology",
     "url":"/focus/en/people/people000212.html"
-  }
-,
-  {
-    "tag":"000010917",
-    "name":"HASHIBA Yuzuru",
-    "position":"Professor",
-    "affiliation":"Graduate School of Humanities and Sociology",
-    "url":"/focus/en/people/people000208.html"
   }
 ,
   {
