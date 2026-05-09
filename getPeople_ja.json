@@ -1,6 +1,206 @@
 [
 
   {
+    "tag":"000030650",
+    "name":"ベイリー小林　菜穂子",
+    "position":"特任助教",
+    "affiliation":"大学院農学生命科学研究科",
+    "url":"/focus/ja/people/k0001_07074.html"
+  }
+,
+  {
+    "tag":"000030649",
+    "name":" 橋本　隆二",
+    "position":"特任教授",
+    "affiliation":"新世代感染症センター",
+    "url":"/focus/ja/people/k0001_07073.html"
+  }
+,
+  {
+    "tag":"000030648",
+    "name":"ボルター　智里",
+    "position":"特任助教",
+    "affiliation":"大学院医学系研究科",
+    "url":"/focus/ja/people/k0001_07072.html"
+  }
+,
+  {
+    "tag":"000030647",
+    "name":"FANG ZHENG",
+    "position":"特任助教",
+    "affiliation":"生産技術研究所",
+    "url":"/focus/ja/people/k0001_07071.html"
+  }
+,
+  {
+    "tag":"000030646",
+    "name":"山口　諒",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_07070.html"
+  }
+,
+  {
+    "tag":"000030645",
+    "name":"宮武　里沙",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_07069.html"
+  }
+,
+  {
+    "tag":"000030644",
+    "name":"寺井　愛",
+    "position":"特任助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_07068.html"
+  }
+,
+  {
+    "tag":"000030643",
+    "name":"吉野　華恵",
+    "position":"特任助教",
+    "affiliation":"先端科学技術研究センター",
+    "url":"/focus/ja/people/k0001_07067.html"
+  }
+,
+  {
+    "tag":"000030642",
+    "name":"JEOUNG HYEONGJUN",
+    "position":"助教",
+    "affiliation":"生産技術研究所",
+    "url":"/focus/ja/people/k0001_07066.html"
+  }
+,
+  {
+    "tag":"000030641",
+    "name":"木山　竜二",
+    "position":"助教",
+    "affiliation":"生産技術研究所",
+    "url":"/focus/ja/people/k0001_07065.html"
+  }
+,
+  {
+    "tag":"000030640",
+    "name":"KOMANDER KRISTINA",
+    "position":"特任助教",
+    "affiliation":"生産技術研究所",
+    "url":"/focus/ja/people/k0001_07064.html"
+  }
+,
+  {
+    "tag":"000030639",
+    "name":"MENG SHUOYANG",
+    "position":"助教",
+    "affiliation":"東洋文化研究所",
+    "url":"/focus/ja/people/k0001_07063.html"
+  }
+,
+  {
+    "tag":"000030638",
+    "name":"石田　英子",
+    "position":"助教",
+    "affiliation":"大学院新領域創成科学研究科",
+    "url":"/focus/ja/people/k0001_07062.html"
+  }
+,
+  {
+    "tag":"000030637",
+    "name":"RUGGERI AZZURRA",
+    "position":"特任准教授",
+    "affiliation":"大学院教育学研究科",
+    "url":"/focus/ja/people/k0001_07061.html"
+  }
+,
+  {
+    "tag":"000030636",
+    "name":"DURING ELIE KHODADAD",
+    "position":"特任教授",
+    "affiliation":"大学院総合文化研究科",
+    "url":"/focus/ja/people/k0001_07060.html"
+  }
+,
+  {
+    "tag":"000030635",
+    "name":"鈴木　路子",
+    "position":"特任助教",
+    "affiliation":"先端科学技術研究センター",
+    "url":"/focus/ja/people/k0001_07059.html"
+  }
+,
+  {
+    "tag":"000030634",
+    "name":"半沢　真帆",
+    "position":"特任助教",
+    "affiliation":"大学院農学生命科学研究科",
+    "url":"/focus/ja/people/k0001_07058.html"
+  }
+,
+  {
+    "tag":"000030633",
+    "name":"井上　紗葉璃",
+    "position":"特任助教",
+    "affiliation":"大学院農学生命科学研究科",
+    "url":"/focus/ja/people/k0001_07057.html"
+  }
+,
+  {
+    "tag":"000030632",
+    "name":"HAMILTON KEVIN PEARD",
+    "position":"特任教授",
+    "affiliation":"大学院理学系研究科",
+    "url":"/focus/ja/people/k0001_07056.html"
+  }
+,
+  {
+    "tag":"000030631",
+    "name":"JACKSON JAMES MICHAE",
+    "position":"特任教授",
+    "affiliation":"大学院理学系研究科",
+    "url":"/focus/ja/people/k0001_07055.html"
+  }
+,
+  {
+    "tag":"000030630",
+    "name":"神田　循大",
+    "position":"助教",
+    "affiliation":"大学院工学系研究科",
+    "url":"/focus/ja/people/k0001_07054.html"
+  }
+,
+  {
+    "tag":"000030629",
+    "name":"LYU WEIDA",
+    "position":"特任助教",
+    "affiliation":"大学院農学生命科学研究科",
+    "url":"/focus/ja/people/k0001_07053.html"
+  }
+,
+  {
+    "tag":"000030628",
+    "name":"池上　慶祐",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_07052.html"
+  }
+,
+  {
+    "tag":"000030627",
+    "name":"澤出　成意人",
+    "position":"助教",
+    "affiliation":"大学院法学政治学研究科",
+    "url":"/focus/ja/people/k0001_07051.html"
+  }
+,
+  {
+    "tag":"000030626",
+    "name":"神谷　英礼",
+    "position":"助教",
+    "affiliation":"生産技術研究所",
+    "url":"/focus/ja/people/k0001_07050.html"
+  }
+,
+  {
     "tag":"000030567",
     "name":"DI  CARLO DINO",
     "position":"特任教授",
