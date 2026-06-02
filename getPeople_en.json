@@ -1,8 +1,208 @@
 [
 
   {
+    "tag":"000030778",
+    "name":"KIMURA Seiichiro",
+    "position":"Project Professor",
+    "affiliation":"Institute for Future Initiatives",
+    "url":"/focus/en/people/k0001_07099.html"
+  }
+,
+  {
+    "tag":"000030777",
+    "name":"SAKASEGAWA Meiko",
+    "position":"Project Research Associate",
+    "affiliation":"Interfaculty Initiative in Information Studies",
+    "url":"/focus/en/people/k0001_07098.html"
+  }
+,
+  {
+    "tag":"000030776",
+    "name":"NISHIYAMA Keita",
+    "position":"Project Professor",
+    "affiliation":"Institute for Future Initiatives",
+    "url":"/focus/en/people/k0001_07097.html"
+  }
+,
+  {
+    "tag":"000030775",
+    "name":"王 索奥",
+    "position":"Project Research Associate",
+    "affiliation":"Graduate School of Engineering",
+    "url":"/focus/en/people/k0001_07096.html"
+  }
+,
+  {
+    "tag":"000030774",
+    "name":"MIZUMA Keita",
+    "position":"Project Research Associate",
+    "affiliation":"The University of Tokyo Pandemic Preparedness Infection and Advanced Research Center",
+    "url":"/focus/en/people/k0001_07095.html"
+  }
+,
+  {
+    "tag":"000030773",
+    "name":"KAKIHARA Shinji",
+    "position":"Research Associate",
+    "affiliation":"University Hospital",
+    "url":"/focus/en/people/k0001_07094.html"
+  }
+,
+  {
+    "tag":"000030772",
+    "name":"陳 佳玉",
+    "position":"Project Research Associate",
+    "affiliation":"Institute of Social Science",
+    "url":"/focus/en/people/k0001_07093.html"
+  }
+,
+  {
+    "tag":"000030771",
+    "name":"YAMASHITA Hiroshi",
+    "position":"Project Lecturer",
+    "affiliation":"International Research Center for Neurointelligence",
+    "url":"/focus/en/people/k0001_07092.html"
+  }
+,
+  {
+    "tag":"000030770",
+    "name":"蘭 小東",
+    "position":"Project Research Associate",
+    "affiliation":"Research Center for Advanced Science and Technology",
+    "url":"/focus/en/people/k0001_07091.html"
+  }
+,
+  {
+    "tag":"000030769",
+    "name":"RONETTI FLAVIO",
+    "position":"Project Professor",
+    "affiliation":"Institute for Solid State Physics",
+    "url":"/focus/en/people/k0001_07090.html"
+  }
+,
+  {
+    "tag":"000030768",
+    "name":"YAGOSHI Yoko",
+    "position":"Associate Professor",
+    "affiliation":"Historiographical Institute",
+    "url":"/focus/en/people/k0001_07089.html"
+  }
+,
+  {
+    "tag":"000030767",
+    "name":"FUESS HARALD",
+    "position":"Project Professor",
+    "affiliation":"Graduate School of Arts and Sciences",
+    "url":"/focus/en/people/k0001_07088.html"
+  }
+,
+  {
+    "tag":"000030766",
+    "name":"ZHANG JI",
+    "position":"Research Associate",
+    "affiliation":"Earthquake Research Institute",
+    "url":"/focus/en/people/k0001_07087.html"
+  }
+,
+  {
+    "tag":"000030765",
+    "name":"WATANABE Saori",
+    "position":"Project Research Associate",
+    "affiliation":"Institute of Medical Science",
+    "url":"/focus/en/people/k0001_07086.html"
+  }
+,
+  {
+    "tag":"000030764",
+    "name":"ITO Aine",
+    "position":"Project Associate Professor",
+    "affiliation":"Graduate School of Arts and Sciences",
+    "url":"/focus/en/people/k0001_07085.html"
+  }
+,
+  {
+    "tag":"000030763",
+    "name":"NAKAGAWA Yuta",
+    "position":"Project Research Associate",
+    "affiliation":"EXPERT-GRI Promotion Office",
+    "url":"/focus/en/people/k0001_07084.html"
+  }
+,
+  {
+    "tag":"000030762",
+    "name":"PATRA AMITAVA",
+    "position":"Professor",
+    "affiliation":"Graduate School of Science",
+    "url":"/focus/en/people/k0001_07083.html"
+  }
+,
+  {
+    "tag":"000030761",
+    "name":"TAMIYA Shiro",
+    "position":"Research Associate",
+    "affiliation":"Graduate School of Engineering",
+    "url":"/focus/en/people/k0001_07082.html"
+  }
+,
+  {
+    "tag":"000030760",
+    "name":"SHIMIZU Yuta",
+    "position":"Research Associate",
+    "affiliation":"Graduate School of Engineering",
+    "url":"/focus/en/people/k0001_07081.html"
+  }
+,
+  {
+    "tag":"000030759",
+    "name":"DUESTER EMMA LOUISE",
+    "position":"Associate Professor",
+    "affiliation":"College of Design Planning and Coordination Office",
+    "url":"/focus/en/people/k0001_07080.html"
+  }
+,
+  {
+    "tag":"000030758",
+    "name":"WANG HEQUN",
+    "position":"Project Research Associate",
+    "affiliation":"Center for Research on Counseling and Support Services",
+    "url":"/focus/en/people/k0001_07079.html"
+  }
+,
+  {
+    "tag":"000030757",
+    "name":"SHIOHARA Kaede",
+    "position":"Project Research Associate",
+    "affiliation":"Graduate School of Information Science and Technology",
+    "url":"/focus/en/people/k0001_07078.html"
+  }
+,
+  {
+    "tag":"000030756",
+    "name":"YAMASHITA Shiho",
+    "position":"Project Research Associate",
+    "affiliation":"Graduate School of Medicine",
+    "url":"/focus/en/people/k0001_07077.html"
+  }
+,
+  {
+    "tag":"000030755",
+    "name":"SHIBATA Naoko",
+    "position":"Project Research Associate",
+    "affiliation":"The University of Tokyo Pandemic Preparedness Infection and Advanced Research Center",
+    "url":"/focus/en/people/k0001_07076.html"
+  }
+,
+  {
+    "tag":"000030754",
+    "name":"MIYOSHI Keita",
+    "position":"Research Associate",
+    "affiliation":"Graduate School of Science",
+    "url":"/focus/en/people/k0001_07075.html"
+  }
+,
+  {
     "tag":"000030650",
-    "name":"BEIRIKOBAYASHI Nahoko",
+    "name":"BAILEY-KOBAYASHI Nahoko",
     "position":"Project Research Associate",
     "affiliation":"Graduate School of Agricultural and Life Sciences",
     "url":"/focus/en/people/k0001_07074.html"
@@ -21043,7 +21243,7 @@
   {
     "tag":"000019889",
     "name":"SHIMIZU Kenji",
-    "position":"Project Research Associate",
+    "position":"Assistant Professor",
     "affiliation":"Institute for Quantitative Biosciences",
     "url":"/focus/en/people/k0001_02940.html"
   }
@@ -31258,8 +31458,8 @@
 ,
   {
     "tag":"000010475",
-    "name":"Cabral Lorenzo Horac",
-    "position":"Associate Professor",
+    "name":"Cabral Horacio ",
+    "position":"Professor",
     "affiliation":"Graduate School of Engineering",
     "url":"/focus/en/people/people100401.html"
   }
