@@ -305,22 +305,6 @@
   }
 ,
   {
-    "tag":"000030637",
-    "name":"RUGGERI AZZURRA",
-    "position":"特任准教授",
-    "affiliation":"大学院教育学研究科",
-    "url":"/focus/ja/people/k0001_07061.html"
-  }
-,
-  {
-    "tag":"000030636",
-    "name":"DURING ELIE KHODADAD",
-    "position":"特任教授",
-    "affiliation":"大学院総合文化研究科",
-    "url":"/focus/ja/people/k0001_07060.html"
-  }
-,
-  {
     "tag":"000030635",
     "name":"鈴木　路子",
     "position":"特任助教",
@@ -1774,14 +1758,6 @@
     "position":"特任准教授",
     "affiliation":"大気海洋研究所",
     "url":"/focus/ja/people/k0001_06877.html"
-  }
-,
-  {
-    "tag":"000030385",
-    "name":"MARLOVITS THOMAS CHR",
-    "position":"教授",
-    "affiliation":"大学院理学系研究科",
-    "url":"/focus/ja/people/k0001_06876.html"
   }
 ,
   {
@@ -3697,14 +3673,6 @@
   }
 ,
   {
-    "tag":"000029125",
-    "name":"竹島　功高",
-    "position":"助教",
-    "affiliation":"医科学研究所",
-    "url":"/focus/ja/people/k0001_06629.html"
-  }
-,
-  {
     "tag":"000029122",
     "name":"朴　建雄",
     "position":"特任助教",
@@ -3771,7 +3739,7 @@
   {
     "tag":"000029113",
     "name":"岸川　理紗",
-    "position":"助教",
+    "position":"特任助教",
     "affiliation":"医学部附属病院",
     "url":"/focus/ja/people/k0001_06617.html"
   }
@@ -4027,7 +3995,7 @@
   {
     "tag":"000029045",
     "name":"LEE CHAK MAN",
-    "position":"特任助教",
+    "position":"助教",
     "affiliation":"大学院理学系研究科",
     "url":"/focus/ja/people/k0001_06583.html"
   }
@@ -4172,7 +4140,7 @@
     "tag":"000029021",
     "name":"井上　双葉",
     "position":"特任助教",
-    "affiliation":"保健・健康推進本部",
+    "affiliation":"医学部附属病院",
     "url":"/focus/ja/people/k0001_06559.html"
   }
 ,
@@ -4355,7 +4323,7 @@
   {
     "tag":"000028955",
     "name":"LEHTONEN MIIKKA JUHA",
-    "position":"特任准教授",
+    "position":"准教授",
     "affiliation":"College of Design 企画調整室",
     "url":"/focus/ja/people/k0001_06533.html"
   }
@@ -4764,7 +4732,7 @@
     "tag":"000019665",
     "name":"山田　育穂",
     "position":"教授",
-    "affiliation":"空間情報科学研究センター",
+    "affiliation":"大学院情報学環",
     "url":"/focus/ja/people/k0001_02798.html"
   }
 ,
@@ -4923,7 +4891,7 @@
   {
     "tag":"000028622",
     "name":"邱　文心",
-    "position":"特任助教",
+    "position":"助教",
     "affiliation":"大学院工学系研究科",
     "url":"/focus/ja/people/k0001_06450.html"
   }
@@ -5481,14 +5449,6 @@
   }
 ,
   {
-    "tag":"000028488",
-    "name":"豊原　佑典",
-    "position":"助教",
-    "affiliation":"医学部附属病院",
-    "url":"/focus/ja/people/k0001_06370.html"
-  }
-,
-  {
     "tag":"000028487",
     "name":"國光　真生",
     "position":"講師",
@@ -5614,14 +5574,6 @@
     "position":"特任助教",
     "affiliation":"宇宙線研究所",
     "url":"/focus/ja/people/k0001_06352.html"
-  }
-,
-  {
-    "tag":"000028469",
-    "name":"吉野　次郎",
-    "position":"特任助教",
-    "affiliation":"大学院理学系研究科",
-    "url":"/focus/ja/people/k0001_06351.html"
   }
 ,
   {
@@ -6401,14 +6353,6 @@
   }
 ,
   {
-    "tag":"000028352",
-    "name":"進藤　彰人",
-    "position":"特任助教",
-    "affiliation":"医学部附属病院",
-    "url":"/focus/ja/people/k0001_06238.html"
-  }
-,
-  {
     "tag":"000028351",
     "name":"佐立　崚",
     "position":"特任助教",
@@ -6644,7 +6588,7 @@
     "tag":"000028306",
     "name":"中村　優太",
     "position":"特任助教",
-    "affiliation":"医学部附属病院",
+    "affiliation":"大学院医学系研究科",
     "url":"/focus/ja/people/k0001_06192.html"
   }
 ,
@@ -6659,7 +6603,7 @@
   {
     "tag":"000028302",
     "name":"浅見　優介",
-    "position":"特任助教",
+    "position":"助教",
     "affiliation":"医学部附属病院",
     "url":"/focus/ja/people/k0001_06188.html"
   }
@@ -6667,7 +6611,7 @@
   {
     "tag":"000028301",
     "name":"佐藤　裕子",
-    "position":"特任助教",
+    "position":"助教",
     "affiliation":"医学部附属病院",
     "url":"/focus/ja/people/k0001_06187.html"
   }
@@ -6675,7 +6619,7 @@
   {
     "tag":"000028300",
     "name":"坂本　直也",
-    "position":"特任助教",
+    "position":"助教",
     "affiliation":"医学部附属病院",
     "url":"/focus/ja/people/k0001_06186.html"
   }
@@ -6779,7 +6723,7 @@
   {
     "tag":"000028284",
     "name":"福井　美苗",
-    "position":"特任助教",
+    "position":"助教",
     "affiliation":"大学院医学系研究科",
     "url":"/focus/ja/people/k0001_06170.html"
   }
@@ -7075,7 +7019,7 @@
   {
     "tag":"000028244",
     "name":"行岡　睦彦",
-    "position":"准教授",
+    "position":"教授",
     "affiliation":"大学院法学政治学研究科",
     "url":"/focus/ja/people/k0001_06130.html"
   }
@@ -7651,7 +7595,7 @@
   {
     "tag":"000027995",
     "name":"佐藤　玄",
-    "position":"助教",
+    "position":"准教授",
     "affiliation":"大学院農学生命科学研究科",
     "url":"/focus/ja/people/k0001_06048.html"
   }
@@ -7963,8 +7907,8 @@
   {
     "tag":"000027662",
     "name":"高橋　潤",
-    "position":"特任助教",
-    "affiliation":"医科学研究所",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
     "url":"/focus/ja/people/k0001_05993.html"
   }
 ,
@@ -8012,7 +7956,7 @@
     "tag":"000027655",
     "name":"井出　倫滉",
     "position":"講師",
-    "affiliation":"生産技術研究所",
+    "affiliation":"大学院工学系研究科",
     "url":"/focus/ja/people/k0001_05986.html"
   }
 ,
@@ -8417,14 +8361,6 @@
   }
 ,
   {
-    "tag":"000027544",
-    "name":"MODAK RAJKUMAR",
-    "position":"特任助教",
-    "affiliation":"大学院新領域創成科学研究科",
-    "url":"/focus/ja/people/k0001_05910.html"
-  }
-,
-  {
     "tag":"000027542",
     "name":"Zhang Qianxue",
     "position":"講師",
@@ -8475,8 +8411,8 @@
   {
     "tag":"000027500",
     "name":"CAO VU QUYNH ANH",
-    "position":"特任助教",
-    "affiliation":"生産技術研究所",
+    "position":"助教",
+    "affiliation":"大学院工学系研究科",
     "url":"/focus/ja/people/k0001_05901.html"
   }
 ,
@@ -8595,7 +8531,7 @@
   {
     "tag":"000027428",
     "name":"遠藤　英樹",
-    "position":"特任助教",
+    "position":"特任講師",
     "affiliation":"大学院医学系研究科",
     "url":"/focus/ja/people/k0001_05880.html"
   }
@@ -8699,7 +8635,7 @@
   {
     "tag":"000027411",
     "name":"川上　聖司",
-    "position":"助教",
+    "position":"特任助教",
     "affiliation":"医科学研究所",
     "url":"/focus/ja/people/k0001_05863.html"
   }
@@ -9363,8 +9299,8 @@
   {
     "tag":"000027155",
     "name":"豊川　剛二",
-    "position":"助教",
-    "affiliation":"医学部附属病院",
+    "position":"特任講師",
+    "affiliation":"大学院医学系研究科",
     "url":"/focus/ja/people/k0001_05749.html"
   }
 ,
@@ -9731,7 +9667,7 @@
   {
     "tag":"000027099",
     "name":"江口　晃弘",
-    "position":"特任助教",
+    "position":"助教",
     "affiliation":"先端科学技術研究センター",
     "url":"/focus/ja/people/k0001_05693.html"
   }
@@ -9948,7 +9884,7 @@
     "tag":"000027063",
     "name":"塩谷　昌之",
     "position":"助教",
-    "affiliation":"社会科学研究所",
+    "affiliation":"大学院人文社会系研究科",
     "url":"/focus/ja/people/k0001_05657.html"
   }
 ,
@@ -10025,14 +9961,6 @@
   }
 ,
   {
-    "tag":"000027047",
-    "name":"石橋　篤季",
-    "position":"特任助教",
-    "affiliation":"大学院総合文化研究科",
-    "url":"/focus/ja/people/k0001_05641.html"
-  }
-,
-  {
     "tag":"000027046",
     "name":"谷崎　祐太",
     "position":"准教授",
@@ -10044,7 +9972,7 @@
     "tag":"000027045",
     "name":"高山　春花",
     "position":"助教",
-    "affiliation":"大学院総合文化研究科",
+    "affiliation":"教養学部",
     "url":"/focus/ja/people/k0001_05639.html"
   }
 ,
@@ -10065,17 +9993,9 @@
   }
 ,
   {
-    "tag":"000027042",
-    "name":"汪　牧耘",
-    "position":"特任助教",
-    "affiliation":"教養学部",
-    "url":"/focus/ja/people/k0001_05636.html"
-  }
-,
-  {
     "tag":"000027041",
     "name":"青山　英正",
-    "position":"准教授",
+    "position":"教授",
     "affiliation":"大学院総合文化研究科",
     "url":"/focus/ja/people/k0001_05635.html"
   }
@@ -10116,7 +10036,7 @@
     "tag":"000027035",
     "name":"JENA AJAY KUMAR",
     "position":"特任准教授",
-    "affiliation":"大学院総合文化研究科",
+    "affiliation":"先端科学技術研究センター",
     "url":"/focus/ja/people/k0001_05629.html"
   }
 ,
@@ -10267,7 +10187,7 @@
   {
     "tag":"000027011",
     "name":"三原　芳秋",
-    "position":"准教授",
+    "position":"教授",
     "affiliation":"大学院総合文化研究科",
     "url":"/focus/ja/people/k0001_05605.html"
   }
@@ -10331,7 +10251,7 @@
   {
     "tag":"000026997",
     "name":"服部　皓大",
-    "position":"特任助教",
+    "position":"助教",
     "affiliation":"大学院工学系研究科",
     "url":"/focus/ja/people/k0001_05591.html"
   }
@@ -11115,7 +11035,7 @@
   {
     "tag":"000026864",
     "name":"樋渡　雅人",
-    "position":"准教授",
+    "position":"教授",
     "affiliation":"大学院総合文化研究科",
     "url":"/focus/ja/people/k0001_05458.html"
   }
@@ -11283,7 +11203,7 @@
   {
     "tag":"000026614",
     "name":"宇野　究人",
-    "position":"特任助教",
+    "position":"助教",
     "affiliation":"大学院情報理工学系研究科",
     "url":"/focus/ja/people/k0001_05419.html"
   }
@@ -11331,7 +11251,7 @@
   {
     "tag":"000026608",
     "name":"大谷　克",
-    "position":"特任助教",
+    "position":"特任講師",
     "affiliation":"大学院経済学研究科",
     "url":"/focus/ja/people/k0001_05413.html"
   }
@@ -11339,7 +11259,7 @@
   {
     "tag":"000026607",
     "name":"久野　寛",
-    "position":"特任助教",
+    "position":"特任講師",
     "affiliation":"大学院経済学研究科",
     "url":"/focus/ja/people/k0001_05412.html"
   }
@@ -11723,8 +11643,8 @@
   {
     "tag":"000026355",
     "name":"上田　遥",
-    "position":"助教",
-    "affiliation":"大学院農学生命科学研究科",
+    "position":"講師",
+    "affiliation":"東洋文化研究所",
     "url":"/focus/ja/people/k0001_05343.html"
   }
 ,
@@ -11881,14 +11801,6 @@
   }
 ,
   {
-    "tag":"000026231",
-    "name":"室谷　悠太",
-    "position":"助教",
-    "affiliation":"物性研究所",
-    "url":"/focus/ja/people/k0001_05305.html"
-  }
-,
-  {
     "tag":"000026230",
     "name":"林　智哉",
     "position":"助教",
@@ -11963,7 +11875,7 @@
   {
     "tag":"000026220",
     "name":"BURRIDGE JAMES DAVID",
-    "position":"特任助教",
+    "position":"特任准教授",
     "affiliation":"大学院農学生命科学研究科",
     "url":"/focus/ja/people/k0001_05294.html"
   }
@@ -12217,14 +12129,6 @@
   }
 ,
   {
-    "tag":"000026089",
-    "name":"LI SHUO",
-    "position":"助教",
-    "affiliation":"大学院工学系研究科",
-    "url":"/focus/ja/people/k0001_05242.html"
-  }
-,
-  {
     "tag":"000026085",
     "name":"力武　諒子",
     "position":"助教",
@@ -12246,14 +12150,6 @@
     "position":"助教",
     "affiliation":"医学部附属病院",
     "url":"/focus/ja/people/k0001_05235.html"
-  }
-,
-  {
-    "tag":"000026080",
-    "name":"蒋　妍",
-    "position":"助教",
-    "affiliation":"大学総合教育研究センター",
-    "url":"/focus/ja/people/k0001_05233.html"
   }
 ,
   {
@@ -12516,7 +12412,7 @@
     "tag":"000025932",
     "name":"上田　一生",
     "position":"特任助教",
-    "affiliation":"大学院総合文化研究科",
+    "affiliation":"医学部附属病院",
     "url":"/focus/ja/people/k0001_05177.html"
   }
 ,
@@ -12708,7 +12604,7 @@
     "tag":"000025899",
     "name":"栗栖　大輔",
     "position":"准教授",
-    "affiliation":"空間情報科学研究センター",
+    "affiliation":"大学院経済学研究科",
     "url":"/focus/ja/people/k0001_05144.html"
   }
 ,
@@ -12771,8 +12667,8 @@
   {
     "tag":"000025890",
     "name":"坂下　碧",
-    "position":"特任助教",
-    "affiliation":"大学院医学系研究科",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
     "url":"/focus/ja/people/k0001_05135.html"
   }
 ,
@@ -12884,7 +12780,7 @@
     "tag":"000025870",
     "name":"木村　麗子",
     "position":"特任助教",
-    "affiliation":"大学院医学系研究科",
+    "affiliation":"医学部附属病院",
     "url":"/focus/ja/people/k0001_05115.html"
   }
 ,
@@ -13411,7 +13307,7 @@
   {
     "tag":"000025690",
     "name":"中条　雅貴",
-    "position":"特任助教",
+    "position":"助教",
     "affiliation":"大学院工学系研究科",
     "url":"/focus/ja/people/k0001_05014.html"
   }
@@ -13540,7 +13436,7 @@
     "tag":"000025662",
     "name":"大長　一帆",
     "position":"助教",
-    "affiliation":"大学院工学系研究科",
+    "affiliation":"大学院農学生命科学研究科",
     "url":"/focus/ja/people/k0001_04994.html"
   }
 ,
@@ -13611,7 +13507,7 @@
   {
     "tag":"000025651",
     "name":"石黒　健介",
-    "position":"特任助教",
+    "position":"助教",
     "affiliation":"大学院工学系研究科",
     "url":"/focus/ja/people/k0001_04983.html"
   }
@@ -13651,8 +13547,8 @@
   {
     "tag":"000025643",
     "name":"板宮　孝紘",
-    "position":"特任助教",
-    "affiliation":"大学院医学系研究科",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
     "url":"/focus/ja/people/k0001_04975.html"
   }
 ,
@@ -13755,7 +13651,7 @@
   {
     "tag":"000025628",
     "name":"三浦　裕子",
-    "position":"特任助教",
+    "position":"助教",
     "affiliation":"医学部附属病院",
     "url":"/focus/ja/people/k0001_04960.html"
   }
@@ -13790,14 +13686,6 @@
     "position":"特任助教",
     "affiliation":"医学部附属病院",
     "url":"/focus/ja/people/k0001_04952.html"
-  }
-,
-  {
-    "tag":"000025619",
-    "name":"大図　正実",
-    "position":"助教",
-    "affiliation":"医学部附属病院",
-    "url":"/focus/ja/people/k0001_04951.html"
   }
 ,
   {
@@ -13979,7 +13867,7 @@
   {
     "tag":"000025564",
     "name":"石川　風太",
-    "position":"助教",
+    "position":"講師",
     "affiliation":"大学院法学政治学研究科",
     "url":"/focus/ja/people/k0001_04896.html"
   }
@@ -13995,7 +13883,7 @@
   {
     "tag":"000025561",
     "name":"杉本　優太",
-    "position":"助教",
+    "position":"講師",
     "affiliation":"大学院法学政治学研究科",
     "url":"/focus/ja/people/k0001_04893.html"
   }
@@ -14075,7 +13963,7 @@
   {
     "tag":"000025542",
     "name":"中島　誠也",
-    "position":"特任准教授",
+    "position":"准教授",
     "affiliation":"大学院薬学系研究科",
     "url":"/focus/ja/people/k0001_04874.html"
   }
@@ -14139,7 +14027,7 @@
   {
     "tag":"000025534",
     "name":"東島　雅昌",
-    "position":"准教授",
+    "position":"教授",
     "affiliation":"社会科学研究所",
     "url":"/focus/ja/people/k0001_04866.html"
   }
@@ -14321,14 +14209,6 @@
   }
 ,
   {
-    "tag":"000025340",
-    "name":"善光　純子",
-    "position":"特任助教",
-    "affiliation":"大学院新領域創成科学研究科",
-    "url":"/focus/ja/people/k0001_04816.html"
-  }
-,
-  {
     "tag":"000025338",
     "name":"松永　朋子",
     "position":"特任助教",
@@ -14436,7 +14316,7 @@
     "tag":"000025284",
     "name":"山本　博之",
     "position":"特任准教授",
-    "affiliation":"大学院医学系研究科",
+    "affiliation":"医学部附属病院",
     "url":"/focus/ja/people/k0001_04789.html"
   }
 ,
@@ -14707,7 +14587,7 @@
   {
     "tag":"000025172",
     "name":"WANG YUSHENG",
-    "position":"助教",
+    "position":"特任講師",
     "affiliation":"大学院工学系研究科",
     "url":"/focus/ja/people/k0001_04709.html"
   }
@@ -15203,7 +15083,7 @@
   {
     "tag":"000024655",
     "name":"JAVANMARDI EHSAN",
-    "position":"特任助教",
+    "position":"特任講師",
     "affiliation":"大学院情報理工学系研究科",
     "url":"/focus/ja/people/k0001_04549.html"
   }
@@ -15595,7 +15475,7 @@
   {
     "tag":"000024519",
     "name":"鳥海　尚之",
-    "position":"講師",
+    "position":"特任准教授",
     "affiliation":"大学院薬学系研究科",
     "url":"/focus/ja/people/k0001_04462.html"
   }
@@ -15651,7 +15531,7 @@
   {
     "tag":"000024511",
     "name":"西尾　卓純",
-    "position":"助教",
+    "position":"講師",
     "affiliation":"大学院情報理工学系研究科",
     "url":"/focus/ja/people/k0001_04454.html"
   }
@@ -15739,7 +15619,7 @@
   {
     "tag":"000024492",
     "name":"八代　悠歌",
-    "position":"特任助教",
+    "position":"助教",
     "affiliation":"大学院新領域創成科学研究科",
     "url":"/focus/ja/people/k0001_04435.html"
   }
@@ -15819,8 +15699,8 @@
   {
     "tag":"000024476",
     "name":"高三　和晃",
-    "position":"助教",
-    "affiliation":"大学院理学系研究科",
+    "position":"准教授",
+    "affiliation":"大学院工学系研究科",
     "url":"/focus/ja/people/k0001_04419.html"
   }
 ,
@@ -15875,8 +15755,8 @@
   {
     "tag":"000024466",
     "name":"細井　達矢",
-    "position":"助教",
-    "affiliation":"医学部附属病院",
+    "position":"講師",
+    "affiliation":"医学部",
     "url":"/focus/ja/people/k0001_04409.html"
   }
 ,
@@ -16035,8 +15915,8 @@
   {
     "tag":"000024434",
     "name":"木野　佳音",
-    "position":"助教",
-    "affiliation":"大学院工学系研究科",
+    "position":"講師",
+    "affiliation":"生産技術研究所",
     "url":"/focus/ja/people/k0001_04377.html"
   }
 ,
@@ -16139,7 +16019,7 @@
   {
     "tag":"000024414",
     "name":"八百山　博恵",
-    "position":"助教",
+    "position":"講師",
     "affiliation":"大学院法学政治学研究科",
     "url":"/focus/ja/people/k0001_04357.html"
   }
@@ -16270,14 +16150,6 @@
     "position":"助教",
     "affiliation":"医学部附属病院",
     "url":"/focus/ja/people/k0001_04315.html"
-  }
-,
-  {
-    "tag":"000024342",
-    "name":"櫛田　千晴",
-    "position":"助教",
-    "affiliation":"医学部附属病院",
-    "url":"/focus/ja/people/k0001_04314.html"
   }
 ,
   {
@@ -16443,8 +16315,8 @@
   {
     "tag":"000024276",
     "name":"田口　慧",
-    "position":"講師",
-    "affiliation":"医学部",
+    "position":"准教授",
+    "affiliation":"大学院医学系研究科",
     "url":"/focus/ja/people/k0001_04276.html"
   }
 ,
@@ -16843,7 +16715,7 @@
   {
     "tag":"000024004",
     "name":"中尾　俊介",
-    "position":"助教",
+    "position":"講師",
     "affiliation":"大学院工学系研究科",
     "url":"/focus/ja/people/k0001_04192.html"
   }
@@ -16899,7 +16771,7 @@
   {
     "tag":"000023987",
     "name":"GOUVEA MAURICIO FERR",
-    "position":"特任助教",
+    "position":"准教授",
     "affiliation":"カブリ数物連携宇宙研究機構",
     "url":"/focus/ja/people/k0001_04175.html"
   }
@@ -17019,7 +16891,7 @@
   {
     "tag":"000023805",
     "name":"石井　悠",
-    "position":"助教",
+    "position":"講師",
     "affiliation":"大学院教育学研究科",
     "url":"/focus/ja/people/k0001_04140.html"
   }
@@ -17091,8 +16963,8 @@
   {
     "tag":"000023790",
     "name":"藤井　陽一",
-    "position":"助教",
-    "affiliation":"医学部附属病院",
+    "position":"講師",
+    "affiliation":"医学部",
     "url":"/focus/ja/people/k0001_04125.html"
   }
 ,
@@ -17251,7 +17123,7 @@
   {
     "tag":"000023744",
     "name":"阿部　司",
-    "position":"助教",
+    "position":"講師",
     "affiliation":"大学院総合文化研究科",
     "url":"/focus/ja/people/k0001_04079.html"
   }
@@ -17403,7 +17275,7 @@
   {
     "tag":"000023718",
     "name":"LIU JIA",
-    "position":"特任准教授",
+    "position":"准教授",
     "affiliation":"カブリ数物連携宇宙研究機構",
     "url":"/focus/ja/people/k0001_04053.html"
   }
@@ -17875,8 +17747,8 @@
   {
     "tag":"000022756",
     "name":"飯野　正光",
-    "position":"特命教授",
-    "affiliation":"特命教授室",
+    "position":"特任教授",
+    "affiliation":"ニューロインテリジェンス国際研究機構",
     "url":"/focus/ja/people/k0001_03921.html"
   }
 ,
@@ -17900,7 +17772,7 @@
     "tag":"000022751",
     "name":"渋川　周平",
     "position":"特任助教",
-    "affiliation":"大学院総合文化研究科",
+    "affiliation":"医学部附属病院",
     "url":"/focus/ja/people/k0001_03916.html"
   }
 ,
@@ -18003,7 +17875,7 @@
   {
     "tag":"000022726",
     "name":"末次　憲之",
-    "position":"准教授",
+    "position":"教授",
     "affiliation":"大学院総合文化研究科",
     "url":"/focus/ja/people/k0001_03891.html"
   }
@@ -18243,7 +18115,7 @@
   {
     "tag":"000022665",
     "name":"山口　信義",
-    "position":"助教",
+    "position":"特任助教",
     "affiliation":"先端科学技術研究センター",
     "url":"/focus/ja/people/k0001_03830.html"
   }
@@ -18331,7 +18203,7 @@
   {
     "tag":"000022643",
     "name":"小松　洋介",
-    "position":"特任助教",
+    "position":"特任講師",
     "affiliation":"生産技術研究所",
     "url":"/focus/ja/people/k0001_03808.html"
   }
@@ -18468,7 +18340,7 @@
     "tag":"000022595",
     "name":"アマニ　レザ",
     "position":"特任准教授",
-    "affiliation":"大学院理学系研究科",
+    "affiliation":"先端科学技術研究センター",
     "url":"/focus/ja/people/k0001_03760.html"
   }
 ,
@@ -18675,7 +18547,7 @@
   {
     "tag":"000022513",
     "name":"村岡　恒輝",
-    "position":"助教",
+    "position":"准教授",
     "affiliation":"大学院工学系研究科",
     "url":"/focus/ja/people/k0001_03678.html"
   }
@@ -18819,7 +18691,7 @@
   {
     "tag":"000022482",
     "name":"宗像　直子",
-    "position":"教授",
+    "position":"特任教授",
     "affiliation":"大学院公共政策学研究部",
     "url":"/focus/ja/people/k0001_03647.html"
   }
@@ -18835,7 +18707,7 @@
   {
     "tag":"000022474",
     "name":"中島　弘貴",
-    "position":"特任講師",
+    "position":"准教授",
     "affiliation":"大学院工学系研究科",
     "url":"/focus/ja/people/k0001_03639.html"
   }
@@ -18859,7 +18731,7 @@
   {
     "tag":"000022468",
     "name":"増記　隆介",
-    "position":"准教授",
+    "position":"教授",
     "affiliation":"大学院人文社会系研究科",
     "url":"/focus/ja/people/k0001_03633.html"
   }
@@ -18980,7 +18852,7 @@
     "tag":"000021841",
     "name":"中部　貴央",
     "position":"特任講師",
-    "affiliation":"医学部附属病院",
+    "affiliation":"医学部",
     "url":"/focus/ja/people/k0001_03593.html"
   }
 ,
@@ -19020,7 +18892,7 @@
     "tag":"000021835",
     "name":"舞草　伯秀",
     "position":"特任助教",
-    "affiliation":"大学院総合文化研究科",
+    "affiliation":"医学部附属病院",
     "url":"/focus/ja/people/k0001_03587.html"
   }
 ,
@@ -19420,7 +19292,7 @@
     "tag":"000021594",
     "name":"服部　孝洋",
     "position":"特任准教授",
-    "affiliation":"大学院公共政策学研究部",
+    "affiliation":"大学院経済学研究科",
     "url":"/focus/ja/people/k0001_03478.html"
   }
 ,
@@ -19915,8 +19787,8 @@
   {
     "tag":"000021334",
     "name":"今村　理世",
-    "position":"特任講師",
-    "affiliation":"創薬機構",
+    "position":"特任准教授",
+    "affiliation":"大学院薬学系研究科",
     "url":"/focus/ja/people/k0001_03337.html"
   }
 ,
@@ -19971,7 +19843,7 @@
   {
     "tag":"000021298",
     "name":"小西　いずみ",
-    "position":"准教授",
+    "position":"教授",
     "affiliation":"大学院人文社会系研究科",
     "url":"/focus/ja/people/k0001_03312.html"
   }
@@ -20003,7 +19875,7 @@
   {
     "tag":"000021291",
     "name":"土畑　重人",
-    "position":"准教授",
+    "position":"教授",
     "affiliation":"大学院総合文化研究科",
     "url":"/focus/ja/people/k0001_03305.html"
   }
@@ -20459,7 +20331,7 @@
   {
     "tag":"000021129",
     "name":"秦　邦生",
-    "position":"准教授",
+    "position":"教授",
     "affiliation":"大学院総合文化研究科",
     "url":"/focus/ja/people/k0001_03175.html"
   }
@@ -20499,7 +20371,7 @@
   {
     "tag":"000021123",
     "name":"上野　雄己",
-    "position":"特任講師",
+    "position":"特任准教授",
     "affiliation":"大学院教育学研究科",
     "url":"/focus/ja/people/k0001_03169.html"
   }
@@ -20515,7 +20387,7 @@
   {
     "tag":"000021121",
     "name":"仲田　泰祐",
-    "position":"准教授",
+    "position":"教授",
     "affiliation":"大学院公共政策学研究部",
     "url":"/focus/ja/people/k0001_03167.html"
   }
@@ -20907,7 +20779,7 @@
   {
     "tag":"000020914",
     "name":"野村　尚吾",
-    "position":"特任講師",
+    "position":"特任准教授",
     "affiliation":"大学院医学系研究科",
     "url":"/focus/ja/people/k0001_03039.html"
   }
@@ -21307,7 +21179,7 @@
   {
     "tag":"000019877",
     "name":"森田　隆太郎",
-    "position":"助教",
+    "position":"講師",
     "affiliation":"大学院農学生命科学研究科",
     "url":"/focus/ja/people/k0001_02928.html"
   }
@@ -21459,7 +21331,7 @@
   {
     "tag":"000019775",
     "name":"葛　杭麗",
-    "position":"特任講師",
+    "position":"特任准教授",
     "affiliation":"大学院情報学環",
     "url":"/focus/ja/people/k0001_02873.html"
   }
@@ -21819,8 +21691,8 @@
   {
     "tag":"000019656",
     "name":"星　岳雄",
-    "position":"教授",
-    "affiliation":"大学院経済学研究科",
+    "position":"特任教授",
+    "affiliation":"東京カレッジ",
     "url":"/focus/ja/people/k0001_02789.html"
   }
 ,
@@ -22059,7 +21931,7 @@
   {
     "tag":"000019482",
     "name":"永井　栄寿",
-    "position":"特任講師",
+    "position":"准教授",
     "affiliation":"大学院新領域創成科学研究科",
     "url":"/focus/ja/people/k0001_02700.html"
   }
@@ -22187,7 +22059,7 @@
   {
     "tag":"000019429",
     "name":"小川　芳樹",
-    "position":"准教授",
+    "position":"特任准教授",
     "affiliation":"空間情報科学研究センター",
     "url":"/focus/ja/people/k0001_02651.html"
   }
@@ -22347,8 +22219,8 @@
   {
     "tag":"000019355",
     "name":"小田　悠加",
-    "position":"特任助教",
-    "affiliation":"大学院情報理工学系研究科",
+    "position":"助教",
+    "affiliation":"先端科学技術研究センター",
     "url":"/focus/ja/people/k0001_02577.html"
   }
 ,
@@ -22475,7 +22347,7 @@
   {
     "tag":"000019319",
     "name":"加藤　涼",
-    "position":"特任教授",
+    "position":"教授",
     "affiliation":"大学院公共政策学研究部",
     "url":"/focus/ja/people/k0001_02541.html"
   }
@@ -22539,7 +22411,7 @@
   {
     "tag":"000019301",
     "name":"関　岳人",
-    "position":"講師",
+    "position":"准教授",
     "affiliation":"大学院工学系研究科",
     "url":"/focus/ja/people/k0001_02523.html"
   }
@@ -22643,8 +22515,8 @@
   {
     "tag":"000019278",
     "name":"井上　玲央",
-    "position":"講師",
-    "affiliation":"医学部",
+    "position":"特任准教授",
+    "affiliation":"大学院医学系研究科",
     "url":"/focus/ja/people/k0001_02500.html"
   }
 ,
@@ -22745,14 +22617,6 @@
   }
 ,
   {
-    "tag":"000019240",
-    "name":"北村　想太",
-    "position":"助教",
-    "affiliation":"大学院工学系研究科",
-    "url":"/focus/ja/people/k0001_02462.html"
-  }
-,
-  {
     "tag":"000019238",
     "name":"柴田　彩",
     "position":"准教授",
@@ -22763,7 +22627,7 @@
   {
     "tag":"000019237",
     "name":"関　倫久",
-    "position":"助教",
+    "position":"特任助教",
     "affiliation":"医学部附属病院",
     "url":"/focus/ja/people/k0001_02459.html"
   }
@@ -22811,7 +22675,7 @@
   {
     "tag":"000019219",
     "name":"平野　良憲",
-    "position":"助教",
+    "position":"講師",
     "affiliation":"大学院薬学系研究科",
     "url":"/focus/ja/people/k0001_02441.html"
   }
@@ -22867,8 +22731,8 @@
   {
     "tag":"000019195",
     "name":"遠藤　護",
-    "position":"講師",
-    "affiliation":"大学院工学系研究科",
+    "position":"准教授",
+    "affiliation":"物性研究所",
     "url":"/focus/ja/people/k0001_02417.html"
   }
 ,
@@ -23275,7 +23139,7 @@
   {
     "tag":"000019085",
     "name":"木下　華子",
-    "position":"准教授",
+    "position":"教授",
     "affiliation":"大学院人文社会系研究科",
     "url":"/focus/ja/people/k0001_02307.html"
   }
@@ -23363,7 +23227,7 @@
   {
     "tag":"000019072",
     "name":"村上　克尚",
-    "position":"准教授",
+    "position":"教授",
     "affiliation":"大学院総合文化研究科",
     "url":"/focus/ja/people/k0001_02294.html"
   }
@@ -23387,7 +23251,7 @@
   {
     "tag":"000019069",
     "name":"遠藤　智子",
-    "position":"准教授",
+    "position":"教授",
     "affiliation":"大学院総合文化研究科",
     "url":"/focus/ja/people/k0001_02291.html"
   }
@@ -23875,7 +23739,7 @@
   {
     "tag":"000017805",
     "name":"兼松　祐一郎",
-    "position":"特任助教",
+    "position":"特任講師",
     "affiliation":"総括プロジェクト機構",
     "url":"/focus/ja/people/k0001_02159.html"
   }
@@ -23883,7 +23747,7 @@
   {
     "tag":"000017800",
     "name":"井口　高志",
-    "position":"准教授",
+    "position":"教授",
     "affiliation":"大学院人文社会系研究科",
     "url":"/focus/ja/people/k0001_02154.html"
   }
@@ -24659,8 +24523,8 @@
   {
     "tag":"000016891",
     "name":"坂内　穎",
-    "position":"特任助教",
-    "affiliation":"医学部附属病院",
+    "position":"助教",
+    "affiliation":"環境安全本部",
     "url":"/focus/ja/people/k0001_01845.html"
   }
 ,
@@ -24683,8 +24547,8 @@
   {
     "tag":"000016880",
     "name":"根岸　英雄",
-    "position":"特任講師",
-    "affiliation":"定量生命科学研究所",
+    "position":"准教授",
+    "affiliation":"医科学研究所",
     "url":"/focus/ja/people/k0001_01834.html"
   }
 ,
@@ -25091,7 +24955,7 @@
   {
     "tag":"000016681",
     "name":"本阿彌　宗紀",
-    "position":"特任助教",
+    "position":"特任准教授",
     "affiliation":"大学院農学生命科学研究科",
     "url":"/focus/ja/people/k0001_01635.html"
   }
@@ -25132,7 +24996,7 @@
     "tag":"000016671",
     "name":"谷内　敏之",
     "position":"特任准教授",
-    "affiliation":"大学院新領域創成科学研究科",
+    "affiliation":"物性研究所",
     "url":"/focus/ja/people/k0001_01625.html"
   }
 ,
@@ -25203,7 +25067,7 @@
   {
     "tag":"000016622",
     "name":"木崎　通",
-    "position":"講師",
+    "position":"准教授",
     "affiliation":"大学院工学系研究科",
     "url":"/focus/ja/people/k0001_01576.html"
   }
@@ -25355,7 +25219,7 @@
   {
     "tag":"000016551",
     "name":"飯高　世子",
-    "position":"特任助教",
+    "position":"特任講師",
     "affiliation":"大学院医学系研究科",
     "url":"/focus/ja/people/k0001_01505.html"
   }
@@ -25571,8 +25435,8 @@
   {
     "tag":"000016445",
     "name":"金光　佳世子",
-    "position":"特任講師",
-    "affiliation":"創薬機構",
+    "position":"特任准教授",
+    "affiliation":"大学院薬学系研究科",
     "url":"/focus/ja/people/k0001_01399.html"
   }
 ,
@@ -25819,7 +25683,7 @@
   {
     "tag":"000016351",
     "name":"鈴木　絢子",
-    "position":"特任准教授",
+    "position":"教授",
     "affiliation":"大学院新領域創成科学研究科",
     "url":"/focus/ja/people/k0001_01305.html"
   }
@@ -26571,8 +26435,8 @@
   {
     "tag":"000016031",
     "name":"小前　兵衛",
-    "position":"助教",
-    "affiliation":"医学部附属病院",
+    "position":"特任助教",
+    "affiliation":"大学院医学系研究科",
     "url":"/focus/ja/people/k0001_00985.html"
   }
 ,
@@ -26580,7 +26444,7 @@
     "tag":"000016024",
     "name":"白岩　隆行",
     "position":"准教授",
-    "affiliation":"大学院工学系研究科",
+    "affiliation":"先端科学技術研究センター",
     "url":"/focus/ja/people/k0001_00978.html"
   }
 ,
@@ -26611,8 +26475,8 @@
   {
     "tag":"000016017",
     "name":"八坂　耕一郎",
-    "position":"助教",
-    "affiliation":"医学部附属病院",
+    "position":"講師",
+    "affiliation":"医科学研究所",
     "url":"/focus/ja/people/k0001_00971.html"
   }
 ,
@@ -26700,7 +26564,7 @@
     "tag":"000015981",
     "name":"皆月　隼",
     "position":"講師",
-    "affiliation":"医学部附属病院",
+    "affiliation":"医学部",
     "url":"/focus/ja/people/k0001_00935.html"
   }
 ,
@@ -26739,8 +26603,8 @@
   {
     "tag":"000015964",
     "name":"坂田　礼",
-    "position":"講師",
-    "affiliation":"医学部",
+    "position":"准教授",
+    "affiliation":"大学院医学系研究科",
     "url":"/focus/ja/people/k0001_00918.html"
   }
 ,
@@ -26795,8 +26659,8 @@
   {
     "tag":"000015947",
     "name":"西川　真子",
-    "position":"助教",
-    "affiliation":"医学部附属病院",
+    "position":"講師",
+    "affiliation":"医学部",
     "url":"/focus/ja/people/k0001_00901.html"
   }
 ,
@@ -26811,8 +26675,8 @@
   {
     "tag":"000015939",
     "name":"北之園　拓",
-    "position":"助教",
-    "affiliation":"大学院理学系研究科",
+    "position":"特任准教授",
+    "affiliation":"総括プロジェクト機構",
     "url":"/focus/ja/people/k0001_00893.html"
   }
 ,
@@ -26891,7 +26755,7 @@
   {
     "tag":"000015897",
     "name":"米澤　かおり",
-    "position":"講師",
+    "position":"准教授",
     "affiliation":"大学院医学系研究科",
     "url":"/focus/ja/people/k0001_00851.html"
   }
@@ -26971,7 +26835,7 @@
   {
     "tag":"000015865",
     "name":"藤澤　貴央",
-    "position":"助教",
+    "position":"講師",
     "affiliation":"大学院薬学系研究科",
     "url":"/focus/ja/people/k0001_00819.html"
   }
@@ -27102,14 +26966,6 @@
     "position":"准教授",
     "affiliation":"定量生命科学研究所",
     "url":"/focus/ja/people/k0001_00769.html"
-  }
-,
-  {
-    "tag":"000015804",
-    "name":"三浦　俊介",
-    "position":"助教",
-    "affiliation":"医学部附属病院",
-    "url":"/focus/ja/people/k0001_00758.html"
   }
 ,
   {
@@ -27460,7 +27316,7 @@
     "tag":"000015682",
     "name":"大野　久美子",
     "position":"特任講師",
-    "affiliation":"大学院医学系研究科",
+    "affiliation":"医学部",
     "url":"/focus/ja/people/k0001_00636.html"
   }
 ,
@@ -27619,7 +27475,7 @@
   {
     "tag":"000015600",
     "name":"竹澤　浩気",
-    "position":"特任准教授",
+    "position":"准教授",
     "affiliation":"大学院工学系研究科",
     "url":"/focus/ja/people/k0001_00554.html"
   }
@@ -27627,7 +27483,7 @@
   {
     "tag":"000015599",
     "name":"三津谷　有貴",
-    "position":"助教",
+    "position":"特任講師",
     "affiliation":"大学院工学系研究科",
     "url":"/focus/ja/people/k0001_00553.html"
   }
@@ -27899,8 +27755,8 @@
   {
     "tag":"000015499",
     "name":"志村　有香",
-    "position":"助教",
-    "affiliation":"医学部附属病院",
+    "position":"講師",
+    "affiliation":"医学部",
     "url":"/focus/ja/people/k0001_00453.html"
   }
 ,
@@ -28203,8 +28059,8 @@
   {
     "tag":"000015378",
     "name":"西山　敦哉",
-    "position":"准教授",
-    "affiliation":"医科学研究所",
+    "position":"教授",
+    "affiliation":"大学院新領域創成科学研究科",
     "url":"/focus/ja/people/k0001_00332.html"
   }
 ,
@@ -28699,8 +28555,8 @@
   {
     "tag":"000015281",
     "name":"小泉　宏之",
-    "position":"准教授",
-    "affiliation":"大学院新領域創成科学研究科",
+    "position":"教授",
+    "affiliation":"大学院工学系研究科",
     "url":"/focus/ja/people/k0001_00235.html"
   }
 ,
@@ -28723,8 +28579,8 @@
   {
     "tag":"000015278",
     "name":"井上　圭一",
-    "position":"准教授",
-    "affiliation":"物性研究所",
+    "position":"教授",
+    "affiliation":"大学院新領域創成科学研究科",
     "url":"/focus/ja/people/k0001_00232.html"
   }
 ,
@@ -28939,7 +28795,7 @@
   {
     "tag":"000015244",
     "name":"林　将光",
-    "position":"准教授",
+    "position":"教授",
     "affiliation":"大学院理学系研究科",
     "url":"/focus/ja/people/k0001_00198.html"
   }
@@ -29203,7 +29059,7 @@
   {
     "tag":"000015198",
     "name":"安原　幹",
-    "position":"准教授",
+    "position":"教授",
     "affiliation":"大学院工学系研究科",
     "url":"/focus/ja/people/k0001_00152.html"
   }
@@ -29220,7 +29076,7 @@
     "tag":"000015196",
     "name":"額定其労",
     "position":"准教授",
-    "affiliation":"東洋文化研究所",
+    "affiliation":"大学院情報学環",
     "url":"/focus/ja/people/k0001_00150.html"
   }
 ,
@@ -29387,7 +29243,7 @@
   {
     "tag":"000015168",
     "name":"守川　知子",
-    "position":"准教授",
+    "position":"教授",
     "affiliation":"大学院人文社会系研究科",
     "url":"/focus/ja/people/k0001_00122.html"
   }
@@ -29454,14 +29310,6 @@
     "position":"准教授",
     "affiliation":"物性研究所",
     "url":"/focus/ja/people/k0001_00114.html"
-  }
-,
-  {
-    "tag":"000015159",
-    "name":"齋藤　琢",
-    "position":"准教授",
-    "affiliation":"大学院医学系研究科",
-    "url":"/focus/ja/people/k0001_00113.html"
   }
 ,
   {
@@ -29827,7 +29675,7 @@
   {
     "tag":"000015095",
     "name":"池上　高志",
-    "position":"教授",
+    "position":"特任教授",
     "affiliation":"大学院総合文化研究科",
     "url":"/focus/ja/people/k0001_00049.html"
   }
@@ -29836,7 +29684,7 @@
     "tag":"000015094",
     "name":"山名　淳",
     "position":"教授",
-    "affiliation":"大学院情報学環",
+    "affiliation":"大学院教育学研究科",
     "url":"/focus/ja/people/k0001_00048.html"
   }
 ,
@@ -30067,7 +29915,7 @@
   {
     "tag":"000015057",
     "name":"中西　真",
-    "position":"教授",
+    "position":"特任教授",
     "affiliation":"医科学研究所",
     "url":"/focus/ja/people/k0001_00011.html"
   }
@@ -30403,7 +30251,7 @@
   {
     "tag":"000013031",
     "name":"福井　大",
-    "position":"講師",
+    "position":"准教授",
     "affiliation":"大学院農学生命科学研究科",
     "url":"/focus/ja/people/people100780.html"
   }
@@ -30604,7 +30452,7 @@
     "tag":"000013166",
     "name":"黒木　真理",
     "position":"准教授",
-    "affiliation":"大学院情報学環",
+    "affiliation":"大学院農学生命科学研究科",
     "url":"/focus/ja/people/people100702.html"
   }
 ,
@@ -30931,7 +30779,7 @@
   {
     "tag":"000012009",
     "name":"平松　英人",
-    "position":"講師",
+    "position":"准教授",
     "affiliation":"大学院総合文化研究科",
     "url":"/focus/ja/people/people100573.html"
   }
@@ -31012,7 +30860,7 @@
     "tag":"000012116",
     "name":"川越　至桜",
     "position":"教授",
-    "affiliation":"生産技術研究所",
+    "affiliation":"大学院情報学環",
     "url":"/focus/ja/people/people100542.html"
   }
 ,
@@ -31115,8 +30963,8 @@
   {
     "tag":"000012218",
     "name":"辻　陽介",
-    "position":"特任准教授",
-    "affiliation":"大学院医学系研究科",
+    "position":"講師",
+    "affiliation":"医学部",
     "url":"/focus/ja/people/people100506.html"
   }
 ,
@@ -31126,14 +30974,6 @@
     "position":"特任教授",
     "affiliation":"宇宙線研究所",
     "url":"/focus/ja/people/people100503.html"
-  }
-,
-  {
-    "tag":"000012241",
-    "name":"假屋　太郎",
-    "position":"准教授",
-    "affiliation":"大学院医学系研究科",
-    "url":"/focus/ja/people/people100500.html"
   }
 ,
   {
@@ -31155,7 +30995,7 @@
   {
     "tag":"000012243",
     "name":"細谷　将",
-    "position":"助教",
+    "position":"准教授",
     "affiliation":"大学院農学生命科学研究科",
     "url":"/focus/ja/people/people100497.html"
   }
@@ -31603,7 +31443,7 @@
   {
     "tag":"000012815",
     "name":"佐藤　淳",
-    "position":"准教授",
+    "position":"教授",
     "affiliation":"大学院新領域創成科学研究科",
     "url":"/focus/ja/people/people100350.html"
   }
@@ -31635,8 +31475,8 @@
   {
     "tag":"000012840",
     "name":"井手口　拓郎",
-    "position":"准教授",
-    "affiliation":"大学院理学系研究科",
+    "position":"教授",
+    "affiliation":"大学院新領域創成科学研究科",
     "url":"/focus/ja/people/people100339.html"
   }
 ,
@@ -31763,8 +31603,8 @@
   {
     "tag":"000012916",
     "name":"長谷川　禎彦",
-    "position":"准教授",
-    "affiliation":"大学院情報理工学系研究科",
+    "position":"教授",
+    "affiliation":"大学院工学系研究科",
     "url":"/focus/ja/people/people100309.html"
   }
 ,
@@ -32110,14 +31950,6 @@
     "position":"教授",
     "affiliation":"大学院新領域創成科学研究科",
     "url":"/focus/ja/people/people100183.html"
-  }
-,
-  {
-    "tag":"000011587",
-    "name":"秋山　了太",
-    "position":"助教",
-    "affiliation":"大学院理学系研究科",
-    "url":"/focus/ja/people/people100180.html"
   }
 ,
   {
@@ -32604,7 +32436,7 @@
     "tag":"000012379",
     "name":"仁平　典宏",
     "position":"教授",
-    "affiliation":"大学院教育学研究科",
+    "affiliation":"大学院情報学環",
     "url":"/focus/ja/people/people100002.html"
   }
 ,
@@ -32785,14 +32617,6 @@
   }
 ,
   {
-    "tag":"000011665",
-    "name":"加藤　哲久",
-    "position":"准教授",
-    "affiliation":"医科学研究所",
-    "url":"/focus/ja/people/people003719.html"
-  }
-,
-  {
     "tag":"000011671",
     "name":"金　太一",
     "position":"特任教授",
@@ -32907,8 +32731,8 @@
   {
     "tag":"000011826",
     "name":"八木　信行",
-    "position":"教授",
-    "affiliation":"大学院農学生命科学研究科",
+    "position":"特任教授",
+    "affiliation":"特命教授室",
     "url":"/focus/ja/people/people003671.html"
   }
 ,
@@ -33147,8 +32971,8 @@
   {
     "tag":"000010116",
     "name":"上野　匡",
-    "position":"助教",
-    "affiliation":"大学院薬学系研究科",
+    "position":"准教授",
+    "affiliation":"新世代感染症センター",
     "url":"/focus/ja/people/people003553.html"
   }
 ,
@@ -33163,7 +32987,7 @@
   {
     "tag":"000010119",
     "name":"鳴海　拓志",
-    "position":"准教授",
+    "position":"教授",
     "affiliation":"大学院情報理工学系研究科",
     "url":"/focus/ja/people/people003548.html"
   }
@@ -33204,7 +33028,7 @@
     "tag":"000010127",
     "name":"藤谷　武史",
     "position":"教授",
-    "affiliation":"社会科学研究所",
+    "affiliation":"大学院法学政治学研究科",
     "url":"/focus/ja/people/people003533.html"
   }
 ,
@@ -33356,7 +33180,7 @@
     "tag":"000010621",
     "name":"泉谷　昌志",
     "position":"講師",
-    "affiliation":"大学院医学系研究科",
+    "affiliation":"医学部",
     "url":"/focus/ja/people/people003465.html"
   }
 ,
@@ -33420,7 +33244,7 @@
     "tag":"000010644",
     "name":"松尾　隆嗣",
     "position":"准教授",
-    "affiliation":"大学院農学生命科学研究科",
+    "affiliation":"大学院情報学環",
     "url":"/focus/ja/people/people003439.html"
   }
 ,
@@ -33540,7 +33364,7 @@
     "tag":"000010998",
     "name":"中崎　城太郎",
     "position":"特任教授",
-    "affiliation":"教養学部",
+    "affiliation":"大学院総合文化研究科",
     "url":"/focus/ja/people/people003394.html"
   }
 ,
@@ -35083,7 +34907,7 @@
   {
     "tag":"000013713",
     "name":"AMATO LORENZO",
-    "position":"准教授",
+    "position":"教授",
     "affiliation":"大学院人文社会系研究科",
     "url":"/focus/ja/people/people002790.html"
   }
@@ -35579,7 +35403,7 @@
   {
     "tag":"000013235",
     "name":"齊藤　延人",
-    "position":"理事・副学長, 教授",
+    "position":"教授",
     "affiliation":"大学院医学系研究科",
     "url":"/focus/ja/people/people002497.html"
   }
@@ -35875,7 +35699,7 @@
   {
     "tag":"000011266",
     "name":"滝沢　龍",
-    "position":"准教授",
+    "position":"教授",
     "affiliation":"大学院教育学研究科",
     "url":"/focus/ja/people/people002325.html"
   }
@@ -37060,14 +36884,14 @@
     "tag":"000010880",
     "name":"開　一夫",
     "position":"教授",
-    "affiliation":"大学院情報学環",
+    "affiliation":"大学院総合文化研究科",
     "url":"/focus/ja/people/people001936.html"
   }
 ,
   {
     "tag":"000010900",
     "name":"藤垣　裕子",
-    "position":"理事・副学長, 教授",
+    "position":"教授",
     "affiliation":"大学院総合文化研究科",
     "url":"/focus/ja/people/people001935.html"
   }
@@ -37260,7 +37084,7 @@
     "tag":"000013454",
     "name":"稲田　奈津子",
     "position":"准教授",
-    "affiliation":"史料編纂所",
+    "affiliation":"大学院人文社会系研究科",
     "url":"/focus/ja/people/people001871.html"
   }
 ,
@@ -37459,7 +37283,7 @@
   {
     "tag":"000013536",
     "name":"岡　美穂子",
-    "position":"准教授",
+    "position":"教授",
     "affiliation":"史料編纂所",
     "url":"/focus/ja/people/people001828.html"
   }
@@ -37523,8 +37347,8 @@
   {
     "tag":"000013727",
     "name":"玄田　有史",
-    "position":"教授",
-    "affiliation":"社会科学研究所",
+    "position":"理事",
+    "affiliation":"総長室",
     "url":"/focus/ja/people/people001802.html"
   }
 ,
@@ -37587,7 +37411,7 @@
   {
     "tag":"000013739",
     "name":"石崎　雅人",
-    "position":"教授",
+    "position":"特任教授",
     "affiliation":"大学院情報学環",
     "url":"/focus/ja/people/people001786.html"
   }
@@ -37604,7 +37428,7 @@
     "tag":"000013749",
     "name":"大島　まり",
     "position":"教授",
-    "affiliation":"大学院情報学環",
+    "affiliation":"生産技術研究所",
     "url":"/focus/ja/people/people001782.html"
   }
 ,
@@ -37643,7 +37467,7 @@
   {
     "tag":"000013791",
     "name":"園田　茂人",
-    "position":"教授",
+    "position":"特任教授",
     "affiliation":"東洋文化研究所",
     "url":"/focus/ja/people/people001770.html"
   }
@@ -38083,7 +37907,7 @@
   {
     "tag":"000012775",
     "name":"松浦　宏行",
-    "position":"准教授",
+    "position":"教授",
     "affiliation":"大学院工学系研究科",
     "url":"/focus/ja/people/people001617.html"
   }
@@ -38851,7 +38675,7 @@
   {
     "tag":"000011642",
     "name":"美谷　周二朗",
-    "position":"助教",
+    "position":"特任講師",
     "affiliation":"生産技術研究所",
     "url":"/focus/ja/people/people001409.html"
   }
@@ -39147,8 +38971,8 @@
   {
     "tag":"000013885",
     "name":"山本　隆司",
-    "position":"教授",
-    "affiliation":"大学院法学政治学研究科",
+    "position":"理事",
+    "affiliation":"総長室",
     "url":"/focus/ja/people/people001311.html"
   }
 ,
@@ -39564,7 +39388,7 @@
     "tag":"000012642",
     "name":"堤　伸浩",
     "position":"特任教授",
-    "affiliation":"特命教授室",
+    "affiliation":"グリーントランスフォーメーション戦略推進センター",
     "url":"/focus/ja/people/people001164.html"
   }
 ,
@@ -39643,7 +39467,7 @@
   {
     "tag":"000012680",
     "name":"佐藤　隆一郎",
-    "position":"教授",
+    "position":"特任教授",
     "affiliation":"大学院農学生命科学研究科",
     "url":"/focus/ja/people/people001141.html"
   }
@@ -40131,7 +39955,7 @@
   {
     "tag":"000011294",
     "name":"廣嶋　卓也",
-    "position":"准教授",
+    "position":"教授",
     "affiliation":"大学院農学生命科学研究科",
     "url":"/focus/ja/people/people000979.html"
   }
@@ -40755,7 +40579,7 @@
   {
     "tag":"000010151",
     "name":"吉岡　孝高",
-    "position":"准教授",
+    "position":"教授",
     "affiliation":"大学院工学系研究科",
     "url":"/focus/ja/people/people000810.html"
   }
@@ -40844,7 +40668,7 @@
     "tag":"000010215",
     "name":"飯塚　敏晃",
     "position":"教授",
-    "affiliation":"大学院経済学研究科",
+    "affiliation":"大学院公共政策学研究部",
     "url":"/focus/ja/people/people000782.html"
   }
 ,
@@ -40915,8 +40739,8 @@
   {
     "tag":"000010341",
     "name":"松島　斉",
-    "position":"教授",
-    "affiliation":"大学院経済学研究科",
+    "position":"特任教授",
+    "affiliation":"東京カレッジ",
     "url":"/focus/ja/people/people000755.html"
   }
 ,
@@ -41547,7 +41371,7 @@
   {
     "tag":"000013352",
     "name":"関　宗俊",
-    "position":"准教授",
+    "position":"特任准教授",
     "affiliation":"大学院工学系研究科",
     "url":"/focus/ja/people/people000591.html"
   }
@@ -41715,8 +41539,8 @@
   {
     "tag":"000013484",
     "name":"大久保　達也",
-    "position":"教授",
-    "affiliation":"大学院工学系研究科",
+    "position":"特任教授",
+    "affiliation":"グリーントランスフォーメーション戦略推進センター",
     "url":"/focus/ja/people/people000530.html"
   }
 ,
@@ -41779,8 +41603,8 @@
   {
     "tag":"000013656",
     "name":"高橋　浩之",
-    "position":"教授",
-    "affiliation":"大学院工学系研究科",
+    "position":"特任教授",
+    "affiliation":"特命教授室",
     "url":"/focus/ja/people/people000500.html"
   }
 ,
@@ -42203,7 +42027,7 @@
   {
     "tag":"000012510",
     "name":"吉田　朋広",
-    "position":"教授",
+    "position":"特任教授",
     "affiliation":"大学院数理科学研究科",
     "url":"/focus/ja/people/people000343.html"
   }
@@ -42267,7 +42091,7 @@
   {
     "tag":"000012534",
     "name":"西秋　良宏",
-    "position":"教授",
+    "position":"特任教授",
     "affiliation":"総合研究博物館",
     "url":"/focus/ja/people/people000332.html"
   }
