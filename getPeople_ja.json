@@ -14641,6 +14641,14 @@
   }
 ,
   {
+    "tag":"000025159",
+    "name":"辻　正樹",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_04696.html"
+  }
+,
+  {
     "tag":"000025156",
     "name":"湯澤　紘子",
     "position":"助教",
@@ -19147,7 +19155,7 @@
   {
     "tag":"000021635",
     "name":"喜納(早下)　裕美",
-    "position":"特任助教",
+    "position":"助教",
     "affiliation":"医科学研究所",
     "url":"/focus/ja/people/k0001_03519.html"
   }
@@ -25625,6 +25633,14 @@
   }
 ,
   {
+    "tag":"000016369",
+    "name":"相川　光介",
+    "position":"特任准教授",
+    "affiliation":"大学院工学系研究科",
+    "url":"/focus/ja/people/k0001_01323.html"
+  }
+,
+  {
     "tag":"000016367",
     "name":"中嶋　浩平",
     "position":"准教授",
@@ -28154,9 +28170,9 @@
 ,
   {
     "tag":"000015354",
-    "name":"柳下　祥",
-    "position":"講師",
-    "affiliation":"大学院医学系研究科",
+    "name":"栁下　祥",
+    "position":"教授",
+    "affiliation":"先端科学技術研究センター",
     "url":"/focus/ja/people/k0001_00308.html"
   }
 ,
@@ -32227,7 +32243,7 @@
   {
     "tag":"000012280",
     "name":"松田　雄二",
-    "position":"准教授",
+    "position":"教授",
     "affiliation":"大学院工学系研究科",
     "url":"/focus/ja/people/people100071.html"
   }
