@@ -7273,6 +7273,14 @@
   }
 ,
   {
+    "tag":"000028125",
+    "name":"HARADA Saori",
+    "position":"Research Associate",
+    "affiliation":"University Hospital",
+    "url":"/focus/en/people/k0001_06094.html"
+  }
+,
+  {
     "tag":"000028124",
     "name":"ADELINE YEO SYIN LIA",
     "position":"Research Associate",
@@ -11729,6 +11737,14 @@
   }
 ,
   {
+    "tag":"000026331",
+    "name":"OISHI Shinnosuke",
+    "position":"Project Research Associate",
+    "affiliation":"Institute of Medical Science",
+    "url":"/focus/en/people/k0001_05319.html"
+  }
+,
+  {
     "tag":"000026328",
     "name":"IMAIZUMI Asuka",
     "position":"Associate Professor",
@@ -16145,6 +16161,14 @@
   }
 ,
   {
+    "tag":"000024353",
+    "name":"OKAJIMA Koichi",
+    "position":"Research Associate",
+    "affiliation":"University Hospital",
+    "url":"/focus/en/people/k0001_04325.html"
+  }
+,
+  {
     "tag":"000024352",
     "name":"ISHIKURA Hisatoshi",
     "position":"Project Research Associate",
@@ -16214,6 +16238,14 @@
     "position":"Research Associate",
     "affiliation":"University Hospital",
     "url":"/focus/en/people/k0001_04296.html"
+  }
+,
+  {
+    "tag":"000024323",
+    "name":"HIRAOKA Takehiro",
+    "position":"Research Associate",
+    "affiliation":"University Hospital",
+    "url":"/focus/en/people/k0001_04295.html"
   }
 ,
   {
@@ -16558,6 +16590,14 @@
     "position":"Project Assistant Professor",
     "affiliation":"Center for Global Education",
     "url":"/focus/en/people/k0001_04230.html"
+  }
+,
+  {
+    "tag":"000024228",
+    "name":"KAWASAKI Satoshi",
+    "position":"Lecturer",
+    "affiliation":"Graduate School of Arts and Sciences",
+    "url":"/focus/en/people/k0001_04228.html"
   }
 ,
   {
@@ -18537,6 +18577,14 @@
   }
 ,
   {
+    "tag":"000022525",
+    "name":"KITAGAWA Yuko",
+    "position":"Project Research Associate",
+    "affiliation":"Graduate School of Education",
+    "url":"/focus/en/people/k0001_03690.html"
+  }
+,
+  {
     "tag":"000022524",
     "name":"WAKASUGI Miki",
     "position":"Project Research Associate",
@@ -19550,6 +19598,14 @@
     "position":"Research Associate",
     "affiliation":"Graduate School of Engineering",
     "url":"/focus/en/people/k0001_03431.html"
+  }
+,
+  {
+    "tag":"000021526",
+    "name":"YAMAKAWA Yasuhiro",
+    "position":"Project Professor",
+    "affiliation":"Graduate School of Engineering",
+    "url":"/focus/en/people/k0001_03429.html"
   }
 ,
   {
@@ -23961,6 +24017,14 @@
   }
 ,
   {
+    "tag":"000017747",
+    "name":"TOYAMA Taku",
+    "position":"Lecturer",
+    "affiliation":"Faculty of Medicine",
+    "url":"/focus/en/people/k0001_02101.html"
+  }
+,
+  {
     "tag":"000017743",
     "name":"NARITA Rika",
     "position":"Research Associate",
@@ -24793,6 +24857,14 @@
   }
 ,
   {
+    "tag":"000016777",
+    "name":"SHIN Yuta",
+    "position":"Project Lecturer",
+    "affiliation":"Graduate School of Engineering",
+    "url":"/focus/en/people/k0001_01731.html"
+  }
+,
+  {
     "tag":"000016772",
     "name":"FUJIMOTO Kosuke",
     "position":"Project Associate Professor",
@@ -25222,6 +25294,14 @@
     "position":"Project Lecturer",
     "affiliation":"Graduate School of Medicine",
     "url":"/focus/en/people/k0001_01546.html"
+  }
+,
+  {
+    "tag":"000016590",
+    "name":"UCHIYAMA Yusuke",
+    "position":"Associate Professor",
+    "affiliation":"International Center for Elementary Particle Physics",
+    "url":"/focus/en/people/k0001_01544.html"
   }
 ,
   {
@@ -29190,6 +29270,14 @@
     "position":"Professor",
     "affiliation":"Graduate Schools for Law and Politics",
     "url":"/focus/en/people/k0001_00144.html"
+  }
+,
+  {
+    "tag":"000015189",
+    "name":"ARAI Satoko",
+    "position":"Professor",
+    "affiliation":"Graduate School of Agricultural and Life Sciences",
+    "url":"/focus/en/people/k0001_00143.html"
   }
 ,
   {
@@ -34254,6 +34342,14 @@
     "position":"Project Research Associate",
     "affiliation":"Graduate School of Medicine",
     "url":"/focus/en/people/people003112.html"
+  }
+,
+  {
+    "tag":"000010184",
+    "name":"KOMURO Issei",
+    "position":"Project Professor",
+    "affiliation":"University Hospital",
+    "url":"/focus/en/people/people003111.html"
   }
 ,
   {
@@ -41012,7 +41108,7 @@
     "tag":"000010689",
     "name":"SADAHIRO Yukio",
     "position":"Professor",
-    "affiliation":"Interfaculty Initiative in Information Studies",
+    "affiliation":"Center for Spatial Information Science",
     "url":"/focus/en/people/people000693.html"
   }
 ,
