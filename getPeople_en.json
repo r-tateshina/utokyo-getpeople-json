@@ -323,7 +323,7 @@
   {
     "tag":"000030633",
     "name":"INOUE Sahari",
-    "position":"Project Research Associate",
+    "position":"Project Assistant Professor",
     "affiliation":"Graduate School of Agricultural and Life Sciences",
     "url":"/focus/en/people/k0001_07057.html"
   }
@@ -1891,7 +1891,7 @@
   {
     "tag":"000030366",
     "name":"HUANG LIQIAO",
-    "position":"Research Associate",
+    "position":"Assistant Professor",
     "affiliation":"Graduate School of Engineering",
     "url":"/focus/en/people/k0001_06857.html"
   }
@@ -3302,6 +3302,14 @@
     "position":"Project Research Associate",
     "affiliation":"Graduate School of Agricultural and Life Sciences",
     "url":"/focus/en/people/k0001_06681.html"
+  }
+,
+  {
+    "tag":"000029266",
+    "name":"ITO Sayo",
+    "position":"Project Research Associate",
+    "affiliation":"Graduate School of Pharmaceutical Sciences",
+    "url":"/focus/en/people/k0001_06680.html"
   }
 ,
   {
@@ -4774,6 +4782,14 @@
     "position":"Associate Professor",
     "affiliation":"Research Center for Advanced Science and Technology",
     "url":"/focus/en/people/k0001_06466.html"
+  }
+,
+  {
+    "tag":"000028713",
+    "name":"De La Fuente Acosta ",
+    "position":"Project Professor",
+    "affiliation":"Institute for Cosmic Ray Research",
+    "url":"/focus/en/people/k0001_06464.html"
   }
 ,
   {
@@ -15292,7 +15308,7 @@
     "tag":"000024554",
     "name":"IZUMI Hiroto",
     "position":"Project Professor",
-    "affiliation":"Organization for Interdisciplinary Research Projects",
+    "affiliation":"UTokyo Regenerative Design Center for Urban Future",
     "url":"/focus/en/people/k0001_04497.html"
   }
 ,
@@ -17590,6 +17606,14 @@
     "position":"Project Lecturer",
     "affiliation":"Institute of Industrial Science",
     "url":"/focus/en/people/k0001_03997.html"
+  }
+,
+  {
+    "tag":"000023415",
+    "name":"ISSHIKI Mariko",
+    "position":"Project Research Associate",
+    "affiliation":"Graduate School of Science",
+    "url":"/focus/en/people/k0001_03996.html"
   }
 ,
   {
@@ -23961,14 +23985,6 @@
   }
 ,
   {
-    "tag":"000017772",
-    "name":"SHINODA Natsuki",
-    "position":"Assistant Professor",
-    "affiliation":"Graduate School of Pharmaceutical Sciences",
-    "url":"/focus/en/people/k0001_02126.html"
-  }
-,
-  {
     "tag":"000017765",
     "name":"OSHIMA Motohiko",
     "position":"Lecturer",
@@ -24134,6 +24150,14 @@
     "position":"Project Research Associate",
     "affiliation":"Graduate School of Medicine",
     "url":"/focus/en/people/k0001_02061.html"
+  }
+,
+  {
+    "tag":"000017705",
+    "name":"KUAN　SENG",
+    "position":"Project Professor",
+    "affiliation":"Organization for Interdisciplinary Research Projects",
+    "url":"/focus/en/people/k0001_02059.html"
   }
 ,
   {

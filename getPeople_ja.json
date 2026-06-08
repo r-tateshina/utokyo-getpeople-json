@@ -1890,7 +1890,7 @@
 ,
   {
     "tag":"000030366",
-    "name":"HUANG LIQIAO",
+    "name":"黄 立喬",
     "position":"助教",
     "affiliation":"大学院工学系研究科",
     "url":"/focus/ja/people/k0001_06857.html"
@@ -3302,6 +3302,14 @@
     "position":"特任助教",
     "affiliation":"大学院農学生命科学研究科",
     "url":"/focus/ja/people/k0001_06681.html"
+  }
+,
+  {
+    "tag":"000029266",
+    "name":"伊藤　紗代",
+    "position":"特任助教",
+    "affiliation":"大学院薬学系研究科",
+    "url":"/focus/ja/people/k0001_06680.html"
   }
 ,
   {
@@ -4782,6 +4790,14 @@
     "position":"准教授",
     "affiliation":"先端科学技術研究センター",
     "url":"/focus/ja/people/k0001_06466.html"
+  }
+,
+  {
+    "tag":"000028713",
+    "name":"De La Fuente Acosta ",
+    "position":"特任教授",
+    "affiliation":"宇宙線研究所",
+    "url":"/focus/ja/people/k0001_06464.html"
   }
 ,
   {
@@ -15300,7 +15316,7 @@
     "tag":"000024554",
     "name":"和泉　洋人",
     "position":"特任教授",
-    "affiliation":"総括プロジェクト機構",
+    "affiliation":"住宅都市再生研究センター",
     "url":"/focus/ja/people/k0001_04497.html"
   }
 ,
@@ -17598,6 +17614,14 @@
     "position":"特任講師",
     "affiliation":"生産技術研究所",
     "url":"/focus/ja/people/k0001_03997.html"
+  }
+,
+  {
+    "tag":"000023415",
+    "name":"一色　真理子",
+    "position":"特任助教",
+    "affiliation":"大学院理学系研究科",
+    "url":"/focus/ja/people/k0001_03996.html"
   }
 ,
   {
@@ -23961,14 +23985,6 @@
   }
 ,
   {
-    "tag":"000017772",
-    "name":"篠田　夏樹",
-    "position":"助教",
-    "affiliation":"大学院薬学系研究科",
-    "url":"/focus/ja/people/k0001_02126.html"
-  }
-,
-  {
     "tag":"000017765",
     "name":"大島　基彦",
     "position":"講師",
@@ -24134,6 +24150,14 @@
     "position":"特任助教",
     "affiliation":"大学院医学系研究科",
     "url":"/focus/ja/people/k0001_02061.html"
+  }
+,
+  {
+    "tag":"000017705",
+    "name":"KUAN　SENG",
+    "position":"特任教授",
+    "affiliation":"総括プロジェクト機構",
+    "url":"/focus/ja/people/k0001_02059.html"
   }
 ,
   {
