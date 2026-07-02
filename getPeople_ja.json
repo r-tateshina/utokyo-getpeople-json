@@ -1,6 +1,182 @@
 [
 
   {
+    "tag":"000030913",
+    "name":"宮澤　恵二",
+    "position":"特任教授",
+    "affiliation":"新世代感染症センター",
+    "url":"/focus/ja/people/k0001_07136.html"
+  }
+,
+  {
+    "tag":"000030911",
+    "name":"錦井　秀和",
+    "position":"准教授",
+    "affiliation":"医科学研究所",
+    "url":"/focus/ja/people/k0001_07134.html"
+  }
+,
+  {
+    "tag":"000030910",
+    "name":"浅子　壮美",
+    "position":"准教授",
+    "affiliation":"大学院理学系研究科",
+    "url":"/focus/ja/people/k0001_07133.html"
+  }
+,
+  {
+    "tag":"000030909",
+    "name":"易　利",
+    "position":"准教授",
+    "affiliation":"大学院工学系研究科",
+    "url":"/focus/ja/people/k0001_07132.html"
+  }
+,
+  {
+    "tag":"000030908",
+    "name":"竹内　孝",
+    "position":"准教授",
+    "affiliation":"大学院工学系研究科",
+    "url":"/focus/ja/people/k0001_07131.html"
+  }
+,
+  {
+    "tag":"000030907",
+    "name":"高木　優",
+    "position":"准教授",
+    "affiliation":"大学院情報理工学系研究科",
+    "url":"/focus/ja/people/k0001_07130.html"
+  }
+,
+  {
+    "tag":"000030904",
+    "name":"太田　智陽",
+    "position":"助教",
+    "affiliation":"物性研究所",
+    "url":"/focus/ja/people/k0001_07127.html"
+  }
+,
+  {
+    "tag":"000030903",
+    "name":"瀬尾　優太",
+    "position":"講師",
+    "affiliation":"生産技術研究所",
+    "url":"/focus/ja/people/k0001_07126.html"
+  }
+,
+  {
+    "tag":"000030902",
+    "name":"高島　響子",
+    "position":"准教授",
+    "affiliation":"大学院医学系研究科",
+    "url":"/focus/ja/people/k0001_07125.html"
+  }
+,
+  {
+    "tag":"000030901",
+    "name":"曹　芳慧",
+    "position":"特任助教",
+    "affiliation":"教養学部",
+    "url":"/focus/ja/people/k0001_07124.html"
+  }
+,
+  {
+    "tag":"000030897",
+    "name":"高吉　一郎",
+    "position":"特任教授",
+    "affiliation":"大学院総合文化研究科",
+    "url":"/focus/ja/people/k0001_07120.html"
+  }
+,
+  {
+    "tag":"000030894",
+    "name":"後藤　泰子",
+    "position":"特任講師",
+    "affiliation":"大学院農学生命科学研究科",
+    "url":"/focus/ja/people/k0001_07117.html"
+  }
+,
+  {
+    "tag":"000030890",
+    "name":"森合　勲武",
+    "position":"特任助教",
+    "affiliation":"大学院工学系研究科",
+    "url":"/focus/ja/people/k0001_07113.html"
+  }
+,
+  {
+    "tag":"000030889",
+    "name":"椋本　浩太",
+    "position":"助教",
+    "affiliation":"大学院工学系研究科",
+    "url":"/focus/ja/people/k0001_07112.html"
+  }
+,
+  {
+    "tag":"000030887",
+    "name":"松尾　秀明",
+    "position":"特任助教",
+    "affiliation":"生産技術研究所",
+    "url":"/focus/ja/people/k0001_07110.html"
+  }
+,
+  {
+    "tag":"000030886",
+    "name":"安藤　智",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_07109.html"
+  }
+,
+  {
+    "tag":"000030885",
+    "name":"安　忠鉉",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_07108.html"
+  }
+,
+  {
+    "tag":"000030884",
+    "name":"石沢　千尋",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_07107.html"
+  }
+,
+  {
+    "tag":"000030883",
+    "name":"濱崎　佐和子",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_07106.html"
+  }
+,
+  {
+    "tag":"000030882",
+    "name":"渡邊　真",
+    "position":"特任助教",
+    "affiliation":"大学院医学系研究科",
+    "url":"/focus/ja/people/k0001_07105.html"
+  }
+,
+  {
+    "tag":"000030879",
+    "name":"藤本　篤二郎",
+    "position":"助教",
+    "affiliation":"大学院情報学環",
+    "url":"/focus/ja/people/k0001_07102.html"
+  }
+,
+  {
+    "tag":"000030877",
+    "name":"玉川　克典",
+    "position":"助教",
+    "affiliation":"大学院新領域創成科学研究科",
+    "url":"/focus/ja/people/k0001_07100.html"
+  }
+,
+  {
     "tag":"000030778",
     "name":"木村　誠一郎",
     "position":"特任教授",
@@ -354,7 +530,7 @@
 ,
   {
     "tag":"000030629",
-    "name":"LYU WEIDA",
+    "name":"呂偉達",
     "position":"特任助教",
     "affiliation":"大学院農学生命科学研究科",
     "url":"/focus/ja/people/k0001_07053.html"
@@ -12033,14 +12209,6 @@
   }
 ,
   {
-    "tag":"000026109",
-    "name":"薛　凱",
-    "position":"特任助教",
-    "affiliation":"大学院工学系研究科",
-    "url":"/focus/ja/people/k0001_05262.html"
-  }
-,
-  {
     "tag":"000026108",
     "name":"遠藤　墾",
     "position":"助教",
@@ -14158,14 +14326,6 @@
     "position":"特任助教",
     "affiliation":"大学院工学系研究科",
     "url":"/focus/ja/people/k0001_04840.html"
-  }
-,
-  {
-    "tag":"000025399",
-    "name":"長江　裕亮",
-    "position":"助教",
-    "affiliation":"医学部附属病院",
-    "url":"/focus/ja/people/k0001_04839.html"
   }
 ,
   {
