@@ -9,6 +9,14 @@
   }
 ,
   {
+    "tag":"000030912",
+    "name":"KULKARNI SNEHA SHRIN",
+    "position":"Project Research Associate",
+    "affiliation":"Graduate School of Engineering",
+    "url":"/focus/en/people/k0001_07135.html"
+  }
+,
+  {
     "tag":"000030911",
     "name":"NISHIKII Hidekazu",
     "position":"Associate Professor",
@@ -49,6 +57,22 @@
   }
 ,
   {
+    "tag":"000030906",
+    "name":"PACKHAM CHRISTOPHER",
+    "position":"Project Professor",
+    "affiliation":"Graduate School of Science",
+    "url":"/focus/en/people/k0001_07129.html"
+  }
+,
+  {
+    "tag":"000030905",
+    "name":"WEI YI",
+    "position":"Research Associate",
+    "affiliation":"Information Technology Center",
+    "url":"/focus/en/people/k0001_07128.html"
+  }
+,
+  {
     "tag":"000030904",
     "name":"OTA Tomoharu",
     "position":"Research Associate",
@@ -81,6 +105,30 @@
   }
 ,
   {
+    "tag":"000030900",
+    "name":"PARK DAEWON",
+    "position":"Research Associate",
+    "affiliation":"Graduate School of Arts and Sciences",
+    "url":"/focus/en/people/k0001_07123.html"
+  }
+,
+  {
+    "tag":"000030899",
+    "name":"BARDAWIL FADI ABDO",
+    "position":"Project Associate Professor",
+    "affiliation":"Graduate School of Arts and Sciences",
+    "url":"/focus/en/people/k0001_07122.html"
+  }
+,
+  {
+    "tag":"000030898",
+    "name":"MIRKASIMOV BAKHROM R",
+    "position":"Project Professor",
+    "affiliation":"Graduate School of Arts and Sciences",
+    "url":"/focus/en/people/k0001_07121.html"
+  }
+,
+  {
     "tag":"000030897",
     "name":"TAKAYOSHI Ichiro",
     "position":"Project Professor",
@@ -89,11 +137,51 @@
   }
 ,
   {
+    "tag":"000030896",
+    "name":"NINOMIYA Keitaro",
+    "position":"Project Research Associate",
+    "affiliation":"Graduate School of Economics",
+    "url":"/focus/en/people/k0001_07119.html"
+  }
+,
+  {
+    "tag":"000030895",
+    "name":"NAKADA Kenji",
+    "position":"Project Research Associate",
+    "affiliation":"Graduate School of Economics",
+    "url":"/focus/en/people/k0001_07118.html"
+  }
+,
+  {
     "tag":"000030894",
     "name":"GOTO Yasuko",
     "position":"Project Lecturer",
     "affiliation":"Graduate School of Agricultural and Life Sciences",
     "url":"/focus/en/people/k0001_07117.html"
+  }
+,
+  {
+    "tag":"000030893",
+    "name":"CHEN SIYAO",
+    "position":"Research Associate",
+    "affiliation":"Graduate School of Agricultural and Life Sciences",
+    "url":"/focus/en/people/k0001_07116.html"
+  }
+,
+  {
+    "tag":"000030892",
+    "name":"CHOI YONGHYUN",
+    "position":"Project Research Associate",
+    "affiliation":"Graduate School of Science",
+    "url":"/focus/en/people/k0001_07115.html"
+  }
+,
+  {
+    "tag":"000030891",
+    "name":"Tsai ChiSan",
+    "position":"Project Research Associate",
+    "affiliation":"Graduate School of Frontier Sciences",
+    "url":"/focus/en/people/k0001_07114.html"
   }
 ,
   {
@@ -110,6 +198,14 @@
     "position":"Research Associate",
     "affiliation":"Graduate School of Engineering",
     "url":"/focus/en/people/k0001_07112.html"
+  }
+,
+  {
+    "tag":"000030888",
+    "name":"LU JIAXI",
+    "position":"Research Associate",
+    "affiliation":"Graduate School of Engineering",
+    "url":"/focus/en/people/k0001_07111.html"
   }
 ,
   {
@@ -161,11 +257,35 @@
   }
 ,
   {
+    "tag":"000030881",
+    "name":"SMITH JOSHUA RYAN",
+    "position":"Project Professor",
+    "affiliation":"Institute for Cosmic Ray Research",
+    "url":"/focus/en/people/k0001_07104.html"
+  }
+,
+  {
+    "tag":"000030880",
+    "name":"YOSHIDA Hiroki",
+    "position":"Research Associate",
+    "affiliation":"University Hospital",
+    "url":"/focus/en/people/k0001_07103.html"
+  }
+,
+  {
     "tag":"000030879",
     "name":"FUJIMOTO Atsujiro",
     "position":"Research Associate",
     "affiliation":"Interfaculty Initiative in Information Studies",
     "url":"/focus/en/people/k0001_07102.html"
+  }
+,
+  {
+    "tag":"000030878",
+    "name":"KODAMA Yuki",
+    "position":"Project Research Associate",
+    "affiliation":"Graduate School of Medicine",
+    "url":"/focus/en/people/k0001_07101.html"
   }
 ,
   {
@@ -3459,7 +3579,7 @@
   {
     "tag":"000029269",
     "name":"LAU CHUN YIN",
-    "position":"Project Research Associate",
+    "position":"Project Assistant Professor",
     "affiliation":"Graduate School of Engineering",
     "url":"/focus/en/people/k0001_06683.html"
   }
