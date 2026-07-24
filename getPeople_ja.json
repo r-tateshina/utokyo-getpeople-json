@@ -3579,7 +3579,7 @@
   {
     "tag":"000029261",
     "name":"周　翔宇",
-    "position":"特任助教",
+    "position":"助教",
     "affiliation":"大学院薬学系研究科",
     "url":"/focus/ja/people/k0001_06675.html"
   }
@@ -4814,6 +4814,14 @@
     "position":"教授",
     "affiliation":"大学院経済学研究科",
     "url":"/focus/ja/people/k0001_06492.html"
+  }
+,
+  {
+    "tag":"000028820",
+    "name":"PEREIRA DA SILVA LUI",
+    "position":"特任教授",
+    "affiliation":"大学院経済学研究科",
+    "url":"/focus/ja/people/k0001_06491.html"
   }
 ,
   {
@@ -24235,8 +24243,8 @@
   {
     "tag":"000017702",
     "name":"平池　勇雄",
-    "position":"特任講師",
-    "affiliation":"大学院医学系研究科",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
     "url":"/focus/ja/people/k0001_02056.html"
   }
 ,
@@ -27667,7 +27675,7 @@
   {
     "tag":"000015633",
     "name":"藤木　克則",
-    "position":"助教",
+    "position":"特任助教",
     "affiliation":"定量生命科学研究所",
     "url":"/focus/ja/people/k0001_00587.html"
   }
@@ -34486,6 +34494,14 @@
     "position":"准教授",
     "affiliation":"生産技術研究所",
     "url":"/focus/ja/people/people003084.html"
+  }
+,
+  {
+    "tag":"000010303",
+    "name":"金　炯俊",
+    "position":"特任教授",
+    "affiliation":"生産技術研究所",
+    "url":"/focus/ja/people/people003082.html"
   }
 ,
   {
