@@ -1,6 +1,182 @@
 [
 
   {
+    "tag":"000030988",
+    "name":"馬奈木　俊介",
+    "position":"特任教授",
+    "affiliation":"未来ビジョン研究センター",
+    "url":"/focus/ja/people/k0001_07158.html"
+  }
+,
+  {
+    "tag":"000030987",
+    "name":"中島　亘",
+    "position":"特任講師",
+    "affiliation":"大学院農学生命科学研究科",
+    "url":"/focus/ja/people/k0001_07157.html"
+  }
+,
+  {
+    "tag":"000030986",
+    "name":"CAO HAOZHI",
+    "position":"特任助教",
+    "affiliation":"大学院情報理工学系研究科",
+    "url":"/focus/ja/people/k0001_07156.html"
+  }
+,
+  {
+    "tag":"000030985",
+    "name":"石曽根　智昭",
+    "position":"特任教授",
+    "affiliation":"先端科学技術研究センター",
+    "url":"/focus/ja/people/k0001_07155.html"
+  }
+,
+  {
+    "tag":"000030984",
+    "name":"BEHRENS BETHANY CHRI",
+    "position":"特任助教",
+    "affiliation":"大気海洋研究所",
+    "url":"/focus/ja/people/k0001_07154.html"
+  }
+,
+  {
+    "tag":"000030983",
+    "name":"吉本　幸平",
+    "position":"講師",
+    "affiliation":"生産技術研究所",
+    "url":"/focus/ja/people/k0001_07153.html"
+  }
+,
+  {
+    "tag":"000030982",
+    "name":"LI YANG",
+    "position":"特任助教",
+    "affiliation":"ニューロインテリジェンス国際研究機構",
+    "url":"/focus/ja/people/k0001_07152.html"
+  }
+,
+  {
+    "tag":"000030981",
+    "name":"TOURNIER Vincent Fra",
+    "position":"特任教授",
+    "affiliation":"東洋文化研究所",
+    "url":"/focus/ja/people/k0001_07151.html"
+  }
+,
+  {
+    "tag":"000030980",
+    "name":"上田　修裕",
+    "position":"助教",
+    "affiliation":"大学院総合文化研究科",
+    "url":"/focus/ja/people/k0001_07150.html"
+  }
+,
+  {
+    "tag":"000030979",
+    "name":"池田　大",
+    "position":"助教",
+    "affiliation":"大学院総合文化研究科",
+    "url":"/focus/ja/people/k0001_07149.html"
+  }
+,
+  {
+    "tag":"000030978",
+    "name":"佐藤　優紀",
+    "position":"特任講師",
+    "affiliation":"大学院経済学研究科",
+    "url":"/focus/ja/people/k0001_07148.html"
+  }
+,
+  {
+    "tag":"000030977",
+    "name":"YEH YUN TING",
+    "position":"講師",
+    "affiliation":"大学院経済学研究科",
+    "url":"/focus/ja/people/k0001_07147.html"
+  }
+,
+  {
+    "tag":"000030976",
+    "name":"ZUBANOV NIKOLAY VLAD",
+    "position":"特任教授",
+    "affiliation":"大学院経済学研究科",
+    "url":"/focus/ja/people/k0001_07146.html"
+  }
+,
+  {
+    "tag":"000030975",
+    "name":"BOURG IAN CHARLES",
+    "position":"准教授",
+    "affiliation":"大学院理学系研究科",
+    "url":"/focus/ja/people/k0001_07145.html"
+  }
+,
+  {
+    "tag":"000030974",
+    "name":"辻　崚太郎",
+    "position":"特任助教",
+    "affiliation":"大学院理学系研究科",
+    "url":"/focus/ja/people/k0001_07144.html"
+  }
+,
+  {
+    "tag":"000030973",
+    "name":"冨田　湧介",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_07143.html"
+  }
+,
+  {
+    "tag":"000030972",
+    "name":"加藤　貴史",
+    "position":"助教",
+    "affiliation":"医学部附属病院",
+    "url":"/focus/ja/people/k0001_07142.html"
+  }
+,
+  {
+    "tag":"000030971",
+    "name":"並木　修司",
+    "position":"助教",
+    "affiliation":"大学院医学系研究科",
+    "url":"/focus/ja/people/k0001_07141.html"
+  }
+,
+  {
+    "tag":"000030970",
+    "name":"前原　寛年",
+    "position":"教授",
+    "affiliation":"大学院公共政策学研究部",
+    "url":"/focus/ja/people/k0001_07140.html"
+  }
+,
+  {
+    "tag":"000030969",
+    "name":"及川　景太",
+    "position":"教授",
+    "affiliation":"大学院公共政策学研究部",
+    "url":"/focus/ja/people/k0001_07139.html"
+  }
+,
+  {
+    "tag":"000030968",
+    "name":"山本　京子",
+    "position":"特任助教",
+    "affiliation":"大学院医学系研究科",
+    "url":"/focus/ja/people/k0001_07138.html"
+  }
+,
+  {
+    "tag":"000030967",
+    "name":"上杉　文彦",
+    "position":"特任教授",
+    "affiliation":"生産技術研究所",
+    "url":"/focus/ja/people/k0001_07137.html"
+  }
+,
+  {
     "tag":"000030913",
     "name":"宮澤　恵二",
     "position":"特任教授",
@@ -33302,6 +33478,14 @@
     "position":"准教授",
     "affiliation":"地震研究所",
     "url":"/focus/ja/people/people003520.html"
+  }
+,
+  {
+    "tag":"000010553",
+    "name":"石浦　浩之",
+    "position":"教授",
+    "affiliation":"大学院医学系研究科",
+    "url":"/focus/ja/people/people003516.html"
   }
 ,
   {

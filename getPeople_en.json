@@ -1,6 +1,182 @@
 [
 
   {
+    "tag":"000030988",
+    "name":"MANAGI Shunsuke",
+    "position":"Project Professor",
+    "affiliation":"Institute for Future Initiatives",
+    "url":"/focus/en/people/k0001_07158.html"
+  }
+,
+  {
+    "tag":"000030987",
+    "name":"NAKASHIMA Ko",
+    "position":"Project Lecturer",
+    "affiliation":"Graduate School of Agricultural and Life Sciences",
+    "url":"/focus/en/people/k0001_07157.html"
+  }
+,
+  {
+    "tag":"000030986",
+    "name":"CAO HAOZHI",
+    "position":"Project Research Associate",
+    "affiliation":"Graduate School of Information Science and Technology",
+    "url":"/focus/en/people/k0001_07156.html"
+  }
+,
+  {
+    "tag":"000030985",
+    "name":"ISHIZONE Tomoaki",
+    "position":"Project Professor",
+    "affiliation":"Research Center for Advanced Science and Technology",
+    "url":"/focus/en/people/k0001_07155.html"
+  }
+,
+  {
+    "tag":"000030984",
+    "name":"BEHRENS BETHANY CHRI",
+    "position":"Project Research Associate",
+    "affiliation":"Atmosphere and Ocean Research Institute",
+    "url":"/focus/en/people/k0001_07154.html"
+  }
+,
+  {
+    "tag":"000030983",
+    "name":"YOSHIMOTO Kohei",
+    "position":"Lecturer",
+    "affiliation":"Institute of Industrial Science",
+    "url":"/focus/en/people/k0001_07153.html"
+  }
+,
+  {
+    "tag":"000030982",
+    "name":"LI YANG",
+    "position":"Project Research Associate",
+    "affiliation":"International Research Center for Neurointelligence",
+    "url":"/focus/en/people/k0001_07152.html"
+  }
+,
+  {
+    "tag":"000030981",
+    "name":"TOURNIER Vincent Fra",
+    "position":"Project Professor",
+    "affiliation":"Institute for Advanced Studies on Asia",
+    "url":"/focus/en/people/k0001_07151.html"
+  }
+,
+  {
+    "tag":"000030980",
+    "name":"UEDA Hisahiro",
+    "position":"Research Associate",
+    "affiliation":"Graduate School of Arts and Sciences",
+    "url":"/focus/en/people/k0001_07150.html"
+  }
+,
+  {
+    "tag":"000030979",
+    "name":"IKEDA Dai",
+    "position":"Research Associate",
+    "affiliation":"Graduate School of Arts and Sciences",
+    "url":"/focus/en/people/k0001_07149.html"
+  }
+,
+  {
+    "tag":"000030978",
+    "name":"SATO Yuki",
+    "position":"Project Lecturer",
+    "affiliation":"Graduate School of Economics",
+    "url":"/focus/en/people/k0001_07148.html"
+  }
+,
+  {
+    "tag":"000030977",
+    "name":"YEH YUN TING",
+    "position":"Lecturer",
+    "affiliation":"Graduate School of Economics",
+    "url":"/focus/en/people/k0001_07147.html"
+  }
+,
+  {
+    "tag":"000030976",
+    "name":"ZUBANOV NIKOLAY VLAD",
+    "position":"Project Professor",
+    "affiliation":"Graduate School of Economics",
+    "url":"/focus/en/people/k0001_07146.html"
+  }
+,
+  {
+    "tag":"000030975",
+    "name":"BOURG IAN CHARLES",
+    "position":"Associate Professor",
+    "affiliation":"Graduate School of Science",
+    "url":"/focus/en/people/k0001_07145.html"
+  }
+,
+  {
+    "tag":"000030974",
+    "name":"TSUJI Ryotaro",
+    "position":"Project Research Associate",
+    "affiliation":"Graduate School of Science",
+    "url":"/focus/en/people/k0001_07144.html"
+  }
+,
+  {
+    "tag":"000030973",
+    "name":"TOMITA Yusuke",
+    "position":"Research Associate",
+    "affiliation":"University Hospital",
+    "url":"/focus/en/people/k0001_07143.html"
+  }
+,
+  {
+    "tag":"000030972",
+    "name":"KATO Takashi",
+    "position":"Research Associate",
+    "affiliation":"University Hospital",
+    "url":"/focus/en/people/k0001_07142.html"
+  }
+,
+  {
+    "tag":"000030971",
+    "name":"NAMIKI Shuji",
+    "position":"Research Associate",
+    "affiliation":"Graduate School of Medicine",
+    "url":"/focus/en/people/k0001_07141.html"
+  }
+,
+  {
+    "tag":"000030970",
+    "name":"MAEHARA Hirotoshi",
+    "position":"Professor",
+    "affiliation":"Graduate School of Public Policy",
+    "url":"/focus/en/people/k0001_07140.html"
+  }
+,
+  {
+    "tag":"000030969",
+    "name":"OIKAWA Keita",
+    "position":"Professor",
+    "affiliation":"Graduate School of Public Policy",
+    "url":"/focus/en/people/k0001_07139.html"
+  }
+,
+  {
+    "tag":"000030968",
+    "name":"YAMAMOTO Kyoko",
+    "position":"Project Research Associate",
+    "affiliation":"Graduate School of Medicine",
+    "url":"/focus/en/people/k0001_07138.html"
+  }
+,
+  {
+    "tag":"000030967",
+    "name":"UESUGI Fumihiko",
+    "position":"Project Professor",
+    "affiliation":"Institute of Industrial Science",
+    "url":"/focus/en/people/k0001_07137.html"
+  }
+,
+  {
     "tag":"000030913",
     "name":"MIYAZAWA Keiji",
     "position":"Project Professor",
@@ -33302,6 +33478,14 @@
     "position":"Associate Professor",
     "affiliation":"Earthquake Research Institute",
     "url":"/focus/en/people/people003520.html"
+  }
+,
+  {
+    "tag":"000010553",
+    "name":"ISHIURA Hiroyuki",
+    "position":"Professor",
+    "affiliation":"Graduate School of Medicine",
+    "url":"/focus/en/people/people003516.html"
   }
 ,
   {
