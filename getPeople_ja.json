@@ -33,6 +33,14 @@
   }
 ,
   {
+    "tag":"000031028",
+    "name":"URAKAMI JACQUELINE",
+    "position":"教授",
+    "affiliation":"College of Design 企画調整室",
+    "url":"/focus/ja/people/k0001_07187.html"
+  }
+,
+  {
     "tag":"000031027",
     "name":"廣瀬　雄大",
     "position":"特任准教授",
@@ -65,11 +73,43 @@
   }
 ,
   {
+    "tag":"000031023",
+    "name":"BREEDEN BENJAMIN THO",
+    "position":"特任講師",
+    "affiliation":"グローバル教育センター",
+    "url":"/focus/ja/people/k0001_07182.html"
+  }
+,
+  {
+    "tag":"000031022",
+    "name":"ALEKSEJEVA JELENA",
+    "position":"特任講師",
+    "affiliation":"グローバル教育センター",
+    "url":"/focus/ja/people/k0001_07181.html"
+  }
+,
+  {
+    "tag":"000031021",
+    "name":"EIMAN AHMED FOUAD AB",
+    "position":"特任講師",
+    "affiliation":"グローバル教育センター",
+    "url":"/focus/ja/people/k0001_07180.html"
+  }
+,
+  {
     "tag":"000031020",
     "name":"松谷　優花",
     "position":"特任講師",
     "affiliation":"グローバル教育センター",
     "url":"/focus/ja/people/k0001_07179.html"
+  }
+,
+  {
+    "tag":"000031019",
+    "name":"GURKAYNAK REFET SOYK",
+    "position":"特任教授",
+    "affiliation":"大学院経済学研究科",
+    "url":"/focus/ja/people/k0001_07178.html"
   }
 ,
   {
@@ -81,11 +121,27 @@
   }
 ,
   {
+    "tag":"000031017",
+    "name":"BALLEINE BERNARD WAL",
+    "position":"特任教授",
+    "affiliation":"大学院農学生命科学研究科",
+    "url":"/focus/ja/people/k0001_07176.html"
+  }
+,
+  {
     "tag":"000031016",
     "name":"牧野　巧",
     "position":"助教",
     "affiliation":"大学院農学生命科学研究科",
     "url":"/focus/ja/people/k0001_07175.html"
+  }
+,
+  {
+    "tag":"000031015",
+    "name":"PASSERA BRICE LUCAS",
+    "position":"特任助教",
+    "affiliation":"大学院農学生命科学研究科",
+    "url":"/focus/ja/people/k0001_07174.html"
   }
 ,
   {
@@ -113,6 +169,14 @@
   }
 ,
   {
+    "tag":"000031011",
+    "name":"LUO QIUYI",
+    "position":"特任助教",
+    "affiliation":"大学院理学系研究科",
+    "url":"/focus/ja/people/k0001_07170.html"
+  }
+,
+  {
     "tag":"000031010",
     "name":"小野　翔多",
     "position":"特任助教",
@@ -121,11 +185,59 @@
   }
 ,
   {
+    "tag":"000031009",
+    "name":"BAIRD CORY DAVIS",
+    "position":"講師",
+    "affiliation":"College of Design 企画調整室",
+    "url":"/focus/ja/people/k0001_07168.html"
+  }
+,
+  {
+    "tag":"000031008",
+    "name":"PATERSON NATHAN LEE",
+    "position":"准教授",
+    "affiliation":"College of Design 企画調整室",
+    "url":"/focus/ja/people/k0001_07167.html"
+  }
+,
+  {
+    "tag":"000031007",
+    "name":"COPPOOLSE ANNEKE",
+    "position":"准教授",
+    "affiliation":"College of Design 企画調整室",
+    "url":"/focus/ja/people/k0001_07166.html"
+  }
+,
+  {
+    "tag":"000031006",
+    "name":"ASHERALIEVA ALIA",
+    "position":"准教授",
+    "affiliation":"College of Design 企画調整室",
+    "url":"/focus/ja/people/k0001_07165.html"
+  }
+,
+  {
+    "tag":"000031005",
+    "name":"JOO JAEWOO",
+    "position":"教授",
+    "affiliation":"College of Design 企画調整室",
+    "url":"/focus/ja/people/k0001_07164.html"
+  }
+,
+  {
     "tag":"000031004",
     "name":"徐　自聡",
     "position":"助教",
     "affiliation":"大学院新領域創成科学研究科",
     "url":"/focus/ja/people/k0001_07163.html"
+  }
+,
+  {
+    "tag":"000031003",
+    "name":"Ziat Mounia",
+    "position":"特任准教授",
+    "affiliation":"大学院新領域創成科学研究科",
+    "url":"/focus/ja/people/k0001_07162.html"
   }
 ,
   {
@@ -142,6 +254,14 @@
     "position":"講師",
     "affiliation":"大学院総合文化研究科",
     "url":"/focus/ja/people/k0001_07160.html"
+  }
+,
+  {
+    "tag":"000031000",
+    "name":"LEE CHING PEI",
+    "position":"准教授",
+    "affiliation":"大学院情報理工学系研究科",
+    "url":"/focus/ja/people/k0001_07159.html"
   }
 ,
   {
@@ -11147,7 +11267,7 @@
   {
     "tag":"000026909",
     "name":"中島 拓也",
-    "position":"助教",
+    "position":"講師",
     "affiliation":"大学院新領域創成科学研究科",
     "url":"/focus/ja/people/k0001_05503.html"
   }
@@ -24779,7 +24899,7 @@
   {
     "tag":"000016980",
     "name":"田　俊平",
-    "position":"助手",
+    "position":"助教",
     "affiliation":"素粒子物理国際研究センター",
     "url":"/focus/ja/people/k0001_01934.html"
   }

@@ -33,6 +33,14 @@
   }
 ,
   {
+    "tag":"000031028",
+    "name":"URAKAMI JACQUELINE",
+    "position":"Professor",
+    "affiliation":"College of Design Planning and Coordination Office",
+    "url":"/focus/en/people/k0001_07187.html"
+  }
+,
+  {
     "tag":"000031027",
     "name":"HIROSE Yuta",
     "position":"Project Associate Professor",
@@ -65,11 +73,43 @@
   }
 ,
   {
+    "tag":"000031023",
+    "name":"BREEDEN BENJAMIN THO",
+    "position":"Project Lecturer",
+    "affiliation":"Center for Global Education",
+    "url":"/focus/en/people/k0001_07182.html"
+  }
+,
+  {
+    "tag":"000031022",
+    "name":"ALEKSEJEVA JELENA",
+    "position":"Project Lecturer",
+    "affiliation":"Center for Global Education",
+    "url":"/focus/en/people/k0001_07181.html"
+  }
+,
+  {
+    "tag":"000031021",
+    "name":"EIMAN AHMED FOUAD AB",
+    "position":"Project Lecturer",
+    "affiliation":"Center for Global Education",
+    "url":"/focus/en/people/k0001_07180.html"
+  }
+,
+  {
     "tag":"000031020",
     "name":"MATSUTANI Yuka",
     "position":"Project Lecturer",
     "affiliation":"Center for Global Education",
     "url":"/focus/en/people/k0001_07179.html"
+  }
+,
+  {
+    "tag":"000031019",
+    "name":"GURKAYNAK REFET SOYK",
+    "position":"Project Professor",
+    "affiliation":"Graduate School of Economics",
+    "url":"/focus/en/people/k0001_07178.html"
   }
 ,
   {
@@ -81,11 +121,27 @@
   }
 ,
   {
+    "tag":"000031017",
+    "name":"BALLEINE BERNARD WAL",
+    "position":"Project Professor",
+    "affiliation":"Graduate School of Agricultural and Life Sciences",
+    "url":"/focus/en/people/k0001_07176.html"
+  }
+,
+  {
     "tag":"000031016",
     "name":"MAKINO Takumi",
     "position":"Research Associate",
     "affiliation":"Graduate School of Agricultural and Life Sciences",
     "url":"/focus/en/people/k0001_07175.html"
+  }
+,
+  {
+    "tag":"000031015",
+    "name":"PASSERA BRICE LUCAS",
+    "position":"Project Research Associate",
+    "affiliation":"Graduate School of Agricultural and Life Sciences",
+    "url":"/focus/en/people/k0001_07174.html"
   }
 ,
   {
@@ -113,6 +169,14 @@
   }
 ,
   {
+    "tag":"000031011",
+    "name":"LUO QIUYI",
+    "position":"Project Research Associate",
+    "affiliation":"Graduate School of Science",
+    "url":"/focus/en/people/k0001_07170.html"
+  }
+,
+  {
     "tag":"000031010",
     "name":"ONO Shota",
     "position":"Project Research Associate",
@@ -121,11 +185,59 @@
   }
 ,
   {
+    "tag":"000031009",
+    "name":"BAIRD CORY DAVIS",
+    "position":"Lecturer",
+    "affiliation":"College of Design Planning and Coordination Office",
+    "url":"/focus/en/people/k0001_07168.html"
+  }
+,
+  {
+    "tag":"000031008",
+    "name":"PATERSON NATHAN LEE",
+    "position":"Associate Professor",
+    "affiliation":"College of Design Planning and Coordination Office",
+    "url":"/focus/en/people/k0001_07167.html"
+  }
+,
+  {
+    "tag":"000031007",
+    "name":"COPPOOLSE ANNEKE",
+    "position":"Associate Professor",
+    "affiliation":"College of Design Planning and Coordination Office",
+    "url":"/focus/en/people/k0001_07166.html"
+  }
+,
+  {
+    "tag":"000031006",
+    "name":"ASHERALIEVA ALIA",
+    "position":"Associate Professor",
+    "affiliation":"College of Design Planning and Coordination Office",
+    "url":"/focus/en/people/k0001_07165.html"
+  }
+,
+  {
+    "tag":"000031005",
+    "name":"JOO JAEWOO",
+    "position":"Professor",
+    "affiliation":"College of Design Planning and Coordination Office",
+    "url":"/focus/en/people/k0001_07164.html"
+  }
+,
+  {
     "tag":"000031004",
     "name":"徐 自聡",
     "position":"Research Associate",
     "affiliation":"Graduate School of Frontier Sciences",
     "url":"/focus/en/people/k0001_07163.html"
+  }
+,
+  {
+    "tag":"000031003",
+    "name":"Ziat Mounia",
+    "position":"Project Associate Professor",
+    "affiliation":"Graduate School of Frontier Sciences",
+    "url":"/focus/en/people/k0001_07162.html"
   }
 ,
   {
@@ -142,6 +254,14 @@
     "position":"Lecturer",
     "affiliation":"Graduate School of Arts and Sciences",
     "url":"/focus/en/people/k0001_07160.html"
+  }
+,
+  {
+    "tag":"000031000",
+    "name":"LEE CHING PEI",
+    "position":"Associate Professor",
+    "affiliation":"Graduate School of Information Science and Technology",
+    "url":"/focus/en/people/k0001_07159.html"
   }
 ,
   {
@@ -11139,7 +11259,7 @@
   {
     "tag":"000026909",
     "name":"NAKASHIMA Takuya",
-    "position":"Research Associate",
+    "position":"Lecturer",
     "affiliation":"Graduate School of Frontier Sciences",
     "url":"/focus/en/people/k0001_05503.html"
   }
@@ -24779,7 +24899,7 @@
   {
     "tag":"000016980",
     "name":"Tian Junping",
-    "position":"Research Assistant",
+    "position":"Assistant Professor",
     "affiliation":"International Center for Elementary Particle Physics",
     "url":"/focus/en/people/k0001_01934.html"
   }
