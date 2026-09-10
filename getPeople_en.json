@@ -2475,7 +2475,7 @@
   {
     "tag":"000030370",
     "name":"HARADA Masayuki",
-    "position":"Project Research Associate",
+    "position":"Research Associate",
     "affiliation":"Institute for Cosmic Ray Research",
     "url":"/focus/en/people/k0001_06861.html"
   }
@@ -6611,7 +6611,7 @@
   {
     "tag":"000028391",
     "name":"HIRAI Haru",
-    "position":"Project Research Associate",
+    "position":"Lecturer",
     "affiliation":"Graduate School of Arts and Sciences",
     "url":"/focus/en/people/k0001_06277.html"
   }
@@ -22177,6 +22177,14 @@
   }
 ,
   {
+    "tag":"000019599",
+    "name":"Bondal Alexey",
+    "position":"Project Professor",
+    "affiliation":"Kavli IPMU",
+    "url":"/focus/en/people/k0001_02768.html"
+  }
+,
+  {
     "tag":"000019596",
     "name":"ZHANG Zhikuan ",
     "position":"Research Associate",
@@ -24003,7 +24011,7 @@
   {
     "tag":"000017844",
     "name":"SOMA Katsura",
-    "position":"Assistant Professor",
+    "position":"Project Senior Assistant Professor",
     "affiliation":"University Hospital",
     "url":"/focus/en/people/k0001_02198.html"
   }
@@ -25894,6 +25902,14 @@
     "position":"Project Lecturer",
     "affiliation":"College of Arts and Sciences",
     "url":"/focus/en/people/k0001_01378.html"
+  }
+,
+  {
+    "tag":"000016417",
+    "name":"WEITEMIER ADAM Z",
+    "position":"Project Lecturer",
+    "affiliation":"Center for Global Education",
+    "url":"/focus/en/people/k0001_01371.html"
   }
 ,
   {
