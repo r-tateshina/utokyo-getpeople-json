@@ -1,6 +1,86 @@
 [
 
   {
+    "tag":"000031144",
+    "name":"奈良　克彦",
+    "position":"助教",
+    "affiliation":"東京大学病院",
+    "url":"/focus/ja/people/k0001_07245.html"
+  }
+,
+  {
+    "tag":"000031143",
+    "name":"平井　雅之",
+    "position":"助教",
+    "affiliation":"東京大学病院",
+    "url":"/focus/ja/people/k0001_07244.html"
+  }
+,
+  {
+    "tag":"000031142",
+    "name":"川口　航平",
+    "position":"助教",
+    "affiliation":"東京大学病院",
+    "url":"/focus/ja/people/k0001_07243.html"
+  }
+,
+  {
+    "tag":"000031141",
+    "name":"田中　つるぎ",
+    "position":"特任助教",
+    "affiliation":"東京大学病院",
+    "url":"/focus/ja/people/k0001_07242.html"
+  }
+,
+  {
+    "tag":"000031140",
+    "name":"尾崎　友香",
+    "position":"特任助教",
+    "affiliation":"東京大学病院",
+    "url":"/focus/ja/people/k0001_07241.html"
+  }
+,
+  {
+    "tag":"000031139",
+    "name":"八條　隆汰",
+    "position":"特任助教",
+    "affiliation":"東京大学病院",
+    "url":"/focus/ja/people/k0001_07240.html"
+  }
+,
+  {
+    "tag":"000031138",
+    "name":"小笠原　滉子",
+    "position":"助教",
+    "affiliation":"東京大学病院",
+    "url":"/focus/ja/people/k0001_07239.html"
+  }
+,
+  {
+    "tag":"000031137",
+    "name":"長谷部　奨",
+    "position":"助教",
+    "affiliation":"東京大学病院",
+    "url":"/focus/ja/people/k0001_07238.html"
+  }
+,
+  {
+    "tag":"000031136",
+    "name":"岩田　琢磨",
+    "position":"特任助教",
+    "affiliation":"東京大学病院",
+    "url":"/focus/ja/people/k0001_07237.html"
+  }
+,
+  {
+    "tag":"000031135",
+    "name":"三角　史",
+    "position":"助教",
+    "affiliation":"東京大学病院",
+    "url":"/focus/ja/people/k0001_07236.html"
+  }
+,
+  {
     "tag":"000031131",
     "name":"隅田　玲",
     "position":"特任助教",
@@ -105,11 +185,27 @@
   }
 ,
   {
+    "tag":"000031118",
+    "name":"GHIGNA TOMMASO",
+    "position":"特任准教授",
+    "affiliation":"カブリ数物連携宇宙研究機構",
+    "url":"/focus/ja/people/k0001_07222.html"
+  }
+,
+  {
     "tag":"000031117",
     "name":"YU YAHAN",
     "position":"特任助教",
     "affiliation":"生産技術研究所",
     "url":"/focus/ja/people/k0001_07221.html"
+  }
+,
+  {
+    "tag":"000031116",
+    "name":"JAIN RISHI",
+    "position":"特任助教",
+    "affiliation":"生産技術研究所",
+    "url":"/focus/ja/people/k0001_07220.html"
   }
 ,
   {
@@ -134,6 +230,14 @@
     "position":"特任助教",
     "affiliation":"大学院教育学研究科",
     "url":"/focus/ja/people/k0001_07217.html"
+  }
+,
+  {
+    "tag":"000031112",
+    "name":"CHEN CHIEN SHOU",
+    "position":"特任准教授",
+    "affiliation":"大学院総合文化研究科",
+    "url":"/focus/ja/people/k0001_07216.html"
   }
 ,
   {
@@ -257,6 +361,14 @@
   }
 ,
   {
+    "tag":"000031096",
+    "name":"KARWAS DANA LYNN",
+    "position":"准教授",
+    "affiliation":"College of Design 企画調整室",
+    "url":"/focus/ja/people/k0001_07200.html"
+  }
+,
+  {
     "tag":"000031095",
     "name":"山本　匠",
     "position":"助教",
@@ -310,6 +422,14 @@
     "position":"教授",
     "affiliation":"大学院薬学系研究科",
     "url":"/focus/ja/people/k0001_07193.html"
+  }
+,
+  {
+    "tag":"000031088",
+    "name":"CHENG YU",
+    "position":"特任助教",
+    "affiliation":"大学院理学系研究科",
+    "url":"/focus/ja/people/k0001_07192.html"
   }
 ,
   {
@@ -10242,7 +10362,7 @@
 ,
   {
     "tag":"000027134",
-    "name":"川崎　拓也",
+    "name":"川﨑　拓也",
     "position":"助教",
     "affiliation":"大学院理学系研究科",
     "url":"/focus/ja/people/k0001_05728.html"

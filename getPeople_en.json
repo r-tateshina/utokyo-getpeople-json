@@ -1,6 +1,86 @@
 [
 
   {
+    "tag":"000031144",
+    "name":"NARA Katsuhiko",
+    "position":"Research Associate",
+    "affiliation":"The University of Tokyo Hospital",
+    "url":"/focus/en/people/k0001_07245.html"
+  }
+,
+  {
+    "tag":"000031143",
+    "name":"HIRAI Masayuki",
+    "position":"Research Associate",
+    "affiliation":"The University of Tokyo Hospital",
+    "url":"/focus/en/people/k0001_07244.html"
+  }
+,
+  {
+    "tag":"000031142",
+    "name":"KAWAGUCHI Kohei",
+    "position":"Research Associate",
+    "affiliation":"The University of Tokyo Hospital",
+    "url":"/focus/en/people/k0001_07243.html"
+  }
+,
+  {
+    "tag":"000031141",
+    "name":"TANAKA Tsurugi",
+    "position":"Project Research Associate",
+    "affiliation":"The University of Tokyo Hospital",
+    "url":"/focus/en/people/k0001_07242.html"
+  }
+,
+  {
+    "tag":"000031140",
+    "name":"OZAKI Yuka",
+    "position":"Project Research Associate",
+    "affiliation":"The University of Tokyo Hospital",
+    "url":"/focus/en/people/k0001_07241.html"
+  }
+,
+  {
+    "tag":"000031139",
+    "name":"HACHIJO Ryuta",
+    "position":"Project Research Associate",
+    "affiliation":"The University of Tokyo Hospital",
+    "url":"/focus/en/people/k0001_07240.html"
+  }
+,
+  {
+    "tag":"000031138",
+    "name":"OGASAWARA Hiroko",
+    "position":"Research Associate",
+    "affiliation":"The University of Tokyo Hospital",
+    "url":"/focus/en/people/k0001_07239.html"
+  }
+,
+  {
+    "tag":"000031137",
+    "name":"HASEBE Sho",
+    "position":"Research Associate",
+    "affiliation":"The University of Tokyo Hospital",
+    "url":"/focus/en/people/k0001_07238.html"
+  }
+,
+  {
+    "tag":"000031136",
+    "name":"IWATA Takuma",
+    "position":"Project Research Associate",
+    "affiliation":"The University of Tokyo Hospital",
+    "url":"/focus/en/people/k0001_07237.html"
+  }
+,
+  {
+    "tag":"000031135",
+    "name":"MISUMI Fumi",
+    "position":"Research Associate",
+    "affiliation":"The University of Tokyo Hospital",
+    "url":"/focus/en/people/k0001_07236.html"
+  }
+,
+  {
     "tag":"000031131",
     "name":"隅田 玲",
     "position":"Project Research Associate",
@@ -105,11 +185,27 @@
   }
 ,
   {
+    "tag":"000031118",
+    "name":"GHIGNA TOMMASO",
+    "position":"Project Associate Professor",
+    "affiliation":"Kavli IPMU",
+    "url":"/focus/en/people/k0001_07222.html"
+  }
+,
+  {
     "tag":"000031117",
     "name":"YU YAHAN",
     "position":"Project Research Associate",
     "affiliation":"Institute of Industrial Science",
     "url":"/focus/en/people/k0001_07221.html"
+  }
+,
+  {
+    "tag":"000031116",
+    "name":"JAIN RISHI",
+    "position":"Project Research Associate",
+    "affiliation":"Institute of Industrial Science",
+    "url":"/focus/en/people/k0001_07220.html"
   }
 ,
   {
@@ -134,6 +230,14 @@
     "position":"Project Research Associate",
     "affiliation":"Graduate School of Education",
     "url":"/focus/en/people/k0001_07217.html"
+  }
+,
+  {
+    "tag":"000031112",
+    "name":"CHEN CHIEN SHOU",
+    "position":"Project Associate Professor",
+    "affiliation":"Graduate School of Arts and Sciences",
+    "url":"/focus/en/people/k0001_07216.html"
   }
 ,
   {
@@ -257,6 +361,14 @@
   }
 ,
   {
+    "tag":"000031096",
+    "name":"KARWAS DANA LYNN",
+    "position":"Associate Professor",
+    "affiliation":"College of Design Planning and Coordination Office",
+    "url":"/focus/en/people/k0001_07200.html"
+  }
+,
+  {
     "tag":"000031095",
     "name":"YAMAMOTO Takumi",
     "position":"Research Associate",
@@ -310,6 +422,14 @@
     "position":"Professor",
     "affiliation":"Graduate School of Pharmaceutical Sciences",
     "url":"/focus/en/people/k0001_07193.html"
+  }
+,
+  {
+    "tag":"000031088",
+    "name":"CHENG YU",
+    "position":"Project Research Associate",
+    "affiliation":"Graduate School of Science",
+    "url":"/focus/en/people/k0001_07192.html"
   }
 ,
   {
