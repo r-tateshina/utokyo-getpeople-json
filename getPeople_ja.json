@@ -3115,7 +3115,7 @@
   {
     "tag":"000030342",
     "name":"畑　昌宏",
-    "position":"特任助教",
+    "position":"助教",
     "affiliation":"東京大学病院",
     "url":"/focus/ja/people/k0001_06833.html"
   }
@@ -11091,7 +11091,7 @@
   {
     "tag":"000026993",
     "name":"横山　諒",
-    "position":"助教",
+    "position":"特任講師",
     "affiliation":"大学院工学系研究科",
     "url":"/focus/ja/people/k0001_05587.html"
   }
@@ -12427,7 +12427,7 @@
   {
     "tag":"000026342",
     "name":"BYAMBADORJ ZOLBOO",
-    "position":"助教",
+    "position":"特任講師",
     "affiliation":"大学院工学系研究科",
     "url":"/focus/ja/people/k0001_05330.html"
   }
@@ -24854,6 +24854,14 @@
     "position":"准教授",
     "affiliation":"大学院農学生命科学研究科",
     "url":"/focus/ja/people/k0001_01967.html"
+  }
+,
+  {
+    "tag":"000017011",
+    "name":"三好　智也",
+    "position":"助教",
+    "affiliation":"大学院情報理工学系研究科",
+    "url":"/focus/ja/people/k0001_01965.html"
   }
 ,
   {
