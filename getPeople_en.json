@@ -4155,7 +4155,7 @@
   {
     "tag":"000029436",
     "name":"CINDY LIM SHU YING",
-    "position":"Project Research Associate",
+    "position":"Research Associate",
     "affiliation":"College of Design Planning and Coordination Office",
     "url":"/focus/en/people/k0001_06698.html"
   }
@@ -5739,7 +5739,7 @@
   {
     "tag":"000028708",
     "name":"YAMASHITA Ayaka",
-    "position":"Project Assistant Professor",
+    "position":"Research Associate",
     "affiliation":"College of Design Planning and Coordination Office",
     "url":"/focus/en/people/k0001_06459.html"
   }
@@ -17891,7 +17891,7 @@
   {
     "tag":"000023721",
     "name":"AMANO Hideki",
-    "position":"Research Associate",
+    "position":"Project Research Associate",
     "affiliation":"Graduate School of Science",
     "url":"/focus/en/people/k0001_04056.html"
   }
@@ -19057,6 +19057,22 @@
   }
 ,
   {
+    "tag":"000022555",
+    "name":"OGAWA Shoko",
+    "position":"Project Research Associate",
+    "affiliation":"The University of Tokyo Hospital",
+    "url":"/focus/en/people/k0001_03720.html"
+  }
+,
+  {
+    "tag":"000022553",
+    "name":"ISHIBASHI Makiko",
+    "position":"Research Associate",
+    "affiliation":"The University of Tokyo Hospital",
+    "url":"/focus/en/people/k0001_03718.html"
+  }
+,
+  {
     "tag":"000022550",
     "name":"KOHATA Kazuhiro",
     "position":"Research Associate",
@@ -19654,6 +19670,14 @@
     "position":"Professor",
     "affiliation":"Graduate School of Economics",
     "url":"/focus/en/people/k0001_03555.html"
+  }
+,
+  {
+    "tag":"000021761",
+    "name":"YOSHIKAWA Midori",
+    "position":"Research Associate",
+    "affiliation":"The University of Tokyo Hospital",
+    "url":"/focus/en/people/k0001_03553.html"
   }
 ,
   {

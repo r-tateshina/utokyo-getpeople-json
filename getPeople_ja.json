@@ -4155,7 +4155,7 @@
   {
     "tag":"000029436",
     "name":"CINDY LIM SHU YING",
-    "position":"特任助教",
+    "position":"助教",
     "affiliation":"College of Design 企画調整室",
     "url":"/focus/ja/people/k0001_06698.html"
   }
@@ -5747,7 +5747,7 @@
   {
     "tag":"000028708",
     "name":"山下　彩香",
-    "position":"特任助教",
+    "position":"助教",
     "affiliation":"College of Design 企画調整室",
     "url":"/focus/ja/people/k0001_06459.html"
   }
@@ -17899,7 +17899,7 @@
   {
     "tag":"000023721",
     "name":"天野　英輝",
-    "position":"助教",
+    "position":"特任助教",
     "affiliation":"大学院理学系研究科",
     "url":"/focus/ja/people/k0001_04056.html"
   }
@@ -19065,6 +19065,22 @@
   }
 ,
   {
+    "tag":"000022555",
+    "name":"小川　祥子",
+    "position":"特任助教",
+    "affiliation":"東京大学病院",
+    "url":"/focus/ja/people/k0001_03720.html"
+  }
+,
+  {
+    "tag":"000022553",
+    "name":"石橋　牧子",
+    "position":"助教",
+    "affiliation":"東京大学病院",
+    "url":"/focus/ja/people/k0001_03718.html"
+  }
+,
+  {
     "tag":"000022550",
     "name":"木幡　一博",
     "position":"助教",
@@ -19662,6 +19678,14 @@
     "position":"教授",
     "affiliation":"大学院経済学研究科",
     "url":"/focus/ja/people/k0001_03555.html"
+  }
+,
+  {
+    "tag":"000021761",
+    "name":"吉川　美登利",
+    "position":"助教",
+    "affiliation":"東京大学病院",
+    "url":"/focus/ja/people/k0001_03553.html"
   }
 ,
   {
